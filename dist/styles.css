@@ -18,3 +18,5 @@
 .store-link:hover,.detail-link:hover{background:#10376f;border-color:#10376f;color:#fff}
 .store-link:focus-visible,.detail-link:focus-visible{outline:3px solid #d52b36;outline-offset:3px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+
+.export-format{display:grid;gap:7px;margin:14px 0 10px}.export-format label{font-size:11px;font-weight:600}.export-format select{width:100%;max-width:none;min-height:42px;font-size:12px}

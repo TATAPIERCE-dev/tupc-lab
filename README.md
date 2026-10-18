@@ -17,13 +17,15 @@ Quise que la aplicación se pudiera usar directamente desde el navegador, **sin 
 Implementé las siguientes funcionalidades:
 
 - 8 categorías: procesadores, placas madre, RAM, SSD, GPU, fuentes, gabinetes y refrigeración.
-- Catálogo ampliado a 62 productos: 16 procesadores y 14 placas madre, además de las otras seis categorías.
+- Catálogo ampliado a 72 productos: 16 procesadores y 14 placas madre, 14 memorias RAM y las otras cinco categorías.
 - Búsqueda, filtro por categoría/tienda/stock y orden por precio o nombre.
 - Comparación de hasta 3 componentes, favoritos persistentes y fichas con fuente.
 - Armador de una pieza por categoría, presupuesto y exportación TXT con enlaces.
 - Advertencias de incompatibilidad de socket y generación de RAM cuando esos datos están disponibles.
 - Historial de lecturas reales en SQLite; nunca se generan precios ni tendencias ficticias.
 - Diseño adaptable a móvil, navegación por teclado y diálogos accesibles.
+
+La cotización se puede descargar en Excel o TXT con el nombre `pc cotizacion tupc.labs`. El Excel incluye precios numéricos, enlaces a tiendas y una fórmula para el total.
 
 ## Stack principal
 
@@ -111,8 +113,11 @@ Trabajo con datos públicos de estas fuentes y mantengo el siguiente alcance:
 Para comprobar el código ejecuto:
 
 ```powershell
+npm run test:export
 npm run check
 npm test
 ```
 
-Incluí nueve pruebas que cubren la extracción de precios y stock, los cambios de estructura del HTML, la exclusión de accesorios, la deduplicación, las características de los componentes, la idempotencia del historial, la conservación de datos ante errores y la exclusión de parejas sin stock o con sockets diferentes.
+Incluí diez pruebas del recolector y una prueba de exportación Excel que cubren la extracción de precios y stock, los cambios de estructura del HTML, la exclusión de accesorios, la deduplicación, las características de los componentes, la idempotencia del historial, la conservación de datos ante errores y la exclusión de parejas sin stock o con sockets diferentes.
+
+Para ampliar la RAM, incorporé SP Digital como tercera fuente. Consulto las fichas públicas, incorporo solo RAM de escritorio con unidades disponibles y muestro su precio por transferencia. Incluí SheetJS CE 0.20.3 en `dist/vendor/`, con su licencia, para generar Excel en el navegador sin depender de un CDN durante la descarga.

@@ -9,7 +9,10 @@
     "start": "node scripts/serve.mjs",
     "scrape": "node scripts/python.mjs -m scraper.collect",
     "test": "node scripts/python.mjs -m unittest discover -s tests -v",
-    "check": "node --check dist/app.js"
+    "check": "node --check dist/app.js",
+    "test:export": "node --test tests/export.test.mjs"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }

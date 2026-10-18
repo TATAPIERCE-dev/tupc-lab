@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
-from scraper.collect import parse_alltec, clp, select, specs, save, expand_platforms
+from scraper.collect import parse_alltec, clp, select, specs, save, expand_platforms, parse_spdigital
 from scraper.database import initialize, record
 
 FIXTURE = '''<ul id="product_list"><li><div class="product-container">
@@ -62,6 +62,25 @@ class ScraperTests(unittest.TestCase):
             self.assertEqual(expand_platforms([cpu, dict(board, inStock=stock)], [], config), [])
         self.assertEqual(expand_platforms([dict(cpu, specs={'socket': 'AM4'}), board], [], config), [])
         self.assertEqual(expand_platforms([cpu], [], config), [])
+
+    def test_spdigital_stock_price_and_desktop_category(self):
+        p = dict(category={'slug': 'componentes-memorias-ram-memoria-ram-pc'},
+            metadata=[{'key': 'pricing', 'value': '{"sp-digital":{"cash":12000,"other":13000}}'}],
+            defaultVariant={'quantityAvailable': 3}, name='RAM DDR4 16GB', slug='ram-test', media=[])
+        data = {'result': {'pageContext': {'content': p}}}
+        result = parse_spdigital(data)
+        self.assertTrue(result['inStock'])
+        self.assertEqual(result['stockQuantity'], 3)
+        self.assertEqual(result['price'], 12000)
+        self.assertEqual(result['paymentMethod'], 'Transferencia')
+        p['defaultVariant']['quantityAvailable'] = 0
+        self.assertFalse(parse_spdigital(data)['inStock'])
+        p['defaultVariant']['quantityAvailable'] = None
+        with self.assertRaises(ValueError):
+            parse_spdigital(data)
+        p['category']['slug'] = 'notebooks'
+        with self.assertRaises(ValueError):
+            parse_spdigital(data)
 
     def test_history_idempotent_and_chronological(self):
         with sqlite3.connect(':memory:') as db:

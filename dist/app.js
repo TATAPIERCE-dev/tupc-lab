@@ -1,3 +1,4 @@
+import { quoteFilename, quoteWorkbook } from './quote.js';
 const $ = s => document.querySelector(s);
 const $$ = s => [...document.querySelectorAll(s)];
 const paths = {
@@ -60,7 +61,7 @@ function renderProducts(){
  else if(sort==='name')visible.sort((a,b)=>a.name.localeCompare(b.name,'es'));
  else visible.sort((a,b)=>Number(b.inStock===true)-Number(a.inStock===true)||categories.findIndex(c=>c.id===a.category)-categories.findIndex(c=>c.id===b.category));
  $('#result-count').textContent=`${visible.length} componentes`;
- $('#product-grid').innerHTML=visible.length?visible.map(p=>`<article class="product-card"><div class="product-visual"><span class="stock-badge ${p.inStock!==true?'no-stock':''}">${p.stale?'Lectura anterior':p.inStock===true?'Con stock':p.inStock===false?'Sin stock':'Por confirmar'}</span><button class="favorite-button ${favorites.includes(p.id)?'selected':''}" data-favorite="${p.id}" aria-label="${favorites.includes(p.id)?'Quitar de':'Añadir a'} favoritos: ${esc(p.name)}" aria-pressed="${favorites.includes(p.id)}">${icon('heart')}</button>${imageMarkup(p)}</div><div class="product-body"><span class="product-category">${esc(categoryName(p.category))}</span><button class="product-title" data-detail="${p.id}" title="${esc(p.name)}">${esc(displayName(p))}</button><div class="product-specs">${tags(p)}</div><div class="product-price-row"><strong class="product-price">${money(p.price)}</strong></div><div class="price-unit">CLP · precio publicado</div><a class="store-link" href="${esc(safeUrl(p.url))}" target="_blank" rel="noopener noreferrer"><span>${esc(p.store)}</span><span>Ver tienda ↗</span></a></div><div class="card-actions"><label class="compare-option"><input type="checkbox" data-compare="${p.id}" ${compared.includes(p.id)?'checked':''}>Comparar</label><button class="add-button ${build[p.category]===p.id?'selected':''}" data-add="${p.id}">${build[p.category]===p.id?'✓ Añadido':'+ Añadir'}</button></div></article>`).join(''):`<div class="empty-state">${icon(view==='favorites'?'heart':'search')}<h3>${view==='favorites'&&!favorites.length?'Tu próxima idea empieza con un favorito.':'No encontramos componentes.'}</h3><p>${view==='favorites'&&!favorites.length?'Toca el corazón de un componente para guardarlo aquí.':'Prueba con otro modelo o ajusta los filtros.'}</p><button id="reset-filters">Explorar todos</button></div>`;
+ $('#product-grid').innerHTML=visible.length?visible.map(p=>`<article class="product-card"><div class="product-visual"><span class="stock-badge ${p.inStock!==true?'no-stock':''}">${p.stale?'Lectura anterior':p.inStock===true?'Con stock':p.inStock===false?'Sin stock':'Por confirmar'}</span><button class="favorite-button ${favorites.includes(p.id)?'selected':''}" data-favorite="${p.id}" aria-label="${favorites.includes(p.id)?'Quitar de':'Añadir a'} favoritos: ${esc(p.name)}" aria-pressed="${favorites.includes(p.id)}">${icon('heart')}</button>${imageMarkup(p)}</div><div class="product-body"><span class="product-category">${esc(categoryName(p.category))}</span><button class="product-title" data-detail="${p.id}" title="${esc(p.name)}">${esc(displayName(p))}</button><div class="product-specs">${tags(p)}</div><div class="product-price-row"><strong class="product-price">${money(p.price)}</strong></div><div class="price-unit">CLP · ${p.paymentMethod?'por transferencia':'precio publicado'}</div><a class="store-link" href="${esc(safeUrl(p.url))}" target="_blank" rel="noopener noreferrer"><span>${esc(p.store)}</span><span>Ver tienda ↗</span></a></div><div class="card-actions"><label class="compare-option"><input type="checkbox" data-compare="${p.id}" ${compared.includes(p.id)?'checked':''}>Comparar</label><button class="add-button ${build[p.category]===p.id?'selected':''}" data-add="${p.id}">${build[p.category]===p.id?'✓ Añadido':'+ Añadir'}</button></div></article>`).join(''):`<div class="empty-state">${icon(view==='favorites'?'heart':'search')}<h3>${view==='favorites'&&!favorites.length?'Tu próxima idea empieza con un favorito.':'No encontramos componentes.'}</h3><p>${view==='favorites'&&!favorites.length?'Toca el corazón de un componente para guardarlo aquí.':'Prueba con otro modelo o ajusta los filtros.'}</p><button id="reset-filters">Explorar todos</button></div>`;
  handleImages($('#product-grid'));
  $('#reset-filters')?.addEventListener('click',()=>{$('#search').value='';$('#store').value='all';$('#stock-only').checked=false;setCategory('all');});
  syncNavigation();
@@ -106,9 +107,20 @@ function showComparison(){
 }
 function exportBuild(){
  const selected=categories.map(c=>[c,productById(build[c.id])]).filter(([,p])=>p);
+ if(!selected.length)return;
+ const format=$('#export-format').value;
+ if(format==='xlsx'){
+  try{
+   const items=selected.map(([c,p])=>({...p,categoryName:c.name,captureLabel:date(p.checkedAt)+' '+timestamp(p.checkedAt)}));
+   const book=quoteWorkbook(window.XLSX,items,budget,date(new Date())+' '+timestamp(new Date()));
+   window.XLSX.writeFile(book,quoteFilename('xlsx'),{compression:true});
+   toast('Cotización Excel exportada.');
+  }catch(error){console.error(error);toast('No se pudo exportar Excel. Intenta nuevamente o elige TXT.');}
+  return;
+ }
  const total=selected.reduce((s,[,p])=>s+p.price,0);
- const text=['TuPC.LAB — MI PRÓXIMO PC',`Exportado: ${timestamp(new Date())} (Chile)`,'',...selected.flatMap(([c,p])=>[`${c.name}: ${p.name}`,`${money(p.price)} CLP · ${p.store} · ${p.inStock===true?'Con stock':p.inStock===false?'Sin stock':'Stock sin confirmar'}`,`Lectura: ${timestamp(p.checkedAt)}`,p.url,'']),`TOTAL ESTIMADO: ${money(total)} CLP`,budget?`Presupuesto: ${money(budget)}`:'','Sin envío ni armado. Verifica BIOS, medidas, conectores, potencia y disponibilidad.','La refrigeración puede estar incluida con el procesador.'].join('\n');
- const url=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='mi-armado-tupc-lab.txt';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);toast('Tu lista de componentes se exportó.');
+ const text=['PC COTIZACION TUPC.LABS',`Exportado: ${timestamp(new Date())} (Chile)`,'',...selected.flatMap(([c,p])=>[`${c.name}: ${p.name}`,`${money(p.price)} CLP · ${p.store} · ${p.stale?'Lectura anterior; confirmar':p.inStock===true?'Con stock':p.inStock===false?'Sin stock':'Stock sin confirmar'}`,`Pago: ${p.paymentMethod||'Precio publicado; confirmar en tienda'}`,`Lectura: ${date(p.checkedAt)} ${timestamp(p.checkedAt)}`,p.url,'']),`TOTAL ESTIMADO: ${money(total)} CLP`,budget?`Presupuesto: ${money(budget)}`:'','Sin envío ni armado. Verifica BIOS, medidas, conectores, potencia y disponibilidad.','La refrigeración puede estar incluida con el procesador.'].join('\n');
+ const url=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download=quoteFilename('txt');a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);toast('Tu lista de componentes se exportó.');
 }
 document.addEventListener('click',e=>{
  const add=e.target.closest('[data-add]');if(add){addProduct(add.dataset.add);return;}

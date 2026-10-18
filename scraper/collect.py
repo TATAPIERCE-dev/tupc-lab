@@ -143,6 +143,44 @@ def parse_chilesetup(data):
     return products
 
 
+def parse_spdigital(data):
+    p = data['result']['pageContext']['content']
+    if p['category']['slug'] != 'componentes-memorias-ram-memoria-ram-pc':
+        raise ValueError('No es RAM de escritorio')
+    meta = {m['key']: m['value'] for m in p['metadata']}
+    prices = json.loads(meta['pricing'])['sp-digital']
+    quantity = p['defaultVariant'].get('quantityAvailable')
+    if not isinstance(quantity, (int, float)) or isinstance(quantity, bool):
+        raise ValueError('Stock no confirmado')
+    if meta.get('stale') == 'true':
+        raise ValueError('Ficha marcada como antigua por la tienda')
+    url = 'https://www.spdigital.cl/' + p['slug'] + '/'
+    return dict(id=identity(url), name=p['name'], category='ram',
+        price=clp(str(prices['cash'])), currency='CLP', store='SP Digital', url=url,
+        image=p['media'][0]['thumbnailUrl'] if p['media'] else None,
+        inStock=quantity > 0, previousRetailPrice=None,
+        description='Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.',
+        specs=specs(p['name'], '', 'ram'), sourceType='Datos públicos de la ficha de producto',
+        stockQuantity=quantity, paymentMethod='Transferencia')
+
+
+def collect_spdigital(client):
+    html = client.get('https://www.spdigital.cl/categories/componentes-memorias-ram-memoria-ram-pc/')
+    soup = BeautifulSoup(html, 'html.parser')
+    links = list(dict.fromkeys(a['href'] for a in soup.select('.Fractal-ProductCard--productDescriptionTextContainer a[href]')))
+    if not links:
+        raise ValueError('Catálogo RAM sin productos: revisar estructura')
+    result = []
+    for link in links[:16]:
+        if not re.fullmatch(r'/[a-z0-9-]+/', link):
+            continue
+        data = json.loads(client.get('https://www.spdigital.cl/page-data' + link + 'page-data.json'))
+        product = parse_spdigital(data)
+        if product['inStock']:
+            result.append(product)
+    return result
+
+
 def select(products, limit):
     unique = {p['id']: p for p in products}
     return sorted(unique.values(), key=lambda p: (p['inStock'] is not True, p['price']))[:limit]
@@ -182,7 +220,7 @@ def save(products, errors, export_path):
         present = {p['id'] for p in products}
         failed_keys = {e['key'] for e in errors}
         for p in previous['products']:
-            key = 'alltec:' + p['category'] if p['store'] == 'Alltec' else 'chilesetup'
+            key = 'alltec:' + p['category'] if p['store'] == 'Alltec' else {'Chile Setup': 'chilesetup', 'SP Digital': 'spdigital'}.get(p['store'])
             if p['id'] not in present and key in failed_keys:
                 p['stale'] = True
                 products.append(p)
@@ -226,6 +264,11 @@ def main():
     except (urllib.error.URLError, ValueError, KeyError, TimeoutError) as exc:
         errors.append(dict(key='chilesetup', message=str(exc)))
         logging.error('Chile Setup: %s', exc)
+    try:
+        products.extend(collect_spdigital(client))
+    except (urllib.error.URLError, ValueError, KeyError, TimeoutError) as exc:
+        errors.append(dict(key='spdigital', message=str(exc)))
+        logging.error('SP Digital: %s', exc)
     config = json.loads((ROOT / 'scraper/catalog_expansion.json').read_text(encoding='utf-8'))
     products = expand_platforms(platform_candidates, products, config)
     export = save(products, errors, ROOT / 'dist/data/catalog.json')
