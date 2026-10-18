@@ -1,7 +1,8 @@
 """python -m scraper.collect: HTML → normalización → SQLite → JSON estático.
 
-Catálogo acotado: primera página por categoría, hasta 4 productos por categoría
-y tienda. No es un índice exhaustivo del mercado ni una API de SoloTodo.
+Catálogo acotado: primera página por categoría, muestra base por tienda y
+selección ampliada de CPU y placas con stock y plataforma documentada.
+No es un índice exhaustivo del mercado ni una API de SoloTodo.
 """
 import argparse
 import hashlib
@@ -76,7 +77,7 @@ def specs(name, description, category):
     text = (name + ' ' + description).upper()
     result = {}
     if category in ('cpu', 'motherboard'):
-        socket = re.search(r'\b(AM[45]|LGA\s?1[1278]00|1700|1200|1851)\b', text)
+        socket = re.search(r'\b(AM[45]|(?:LGA\s*)?(?:1100|1200|1700|1800|1851))\b', text)
         if socket:
             result['socket'] = socket[1].replace('LGA', '').replace(' ', '')
     if category in ('ram', 'motherboard'):
@@ -147,6 +148,26 @@ def select(products, limit):
     return sorted(unique.values(), key=lambda p: (p['inStock'] is not True, p['price']))[:limit]
 
 
+def expand_platforms(candidates, selection, config):
+    """Add documented CPU/board options only when both are freshly in stock."""
+    available = {p['id']: p for p in candidates if p['inStock'] is True}
+    result = {p['id']: p for p in selection}
+    for entry in config['boards']:
+        board = available.get(entry['id'])
+        if not board or board['category'] != 'motherboard' or board['specs'].get('socket') != entry['socket']:
+            continue
+        cpus = [available[cid] for cid in entry['cpuIds'] if cid in available
+                and available[cid]['category'] == 'cpu'
+                and available[cid]['specs'].get('socket') == entry['socket']]
+        if not cpus:
+            continue
+        board = dict(board, platformSupport=dict(cpuIds=[p['id'] for p in cpus],
+            source=entry['source'], reviewedOn=config['reviewedOn'], note=config['note']))
+        result[board['id']] = board
+        result.update({p['id']: p for p in cpus})
+    return list(result.values())
+
+
 def save(products, errors, export_path):
     now = datetime.now(timezone.utc).isoformat()
     with connect() as db:
@@ -184,7 +205,7 @@ def main():
     logging.basicConfig(level=logging.INFO, format='%(levelname)s %(message)s')
     with connect() as db:
         initialize(db)
-    client, products, errors = Client(), [], []
+    client, products, errors, platform_candidates = Client(), [], [], []
     for category, (_, paths) in CATEGORIES.items():
         items = []
         for path in paths:
@@ -193,6 +214,8 @@ def main():
             except (urllib.error.URLError, ValueError, TimeoutError) as exc:
                 errors.append(dict(key='alltec:' + category, message=str(exc)))
                 logging.error('%s: %s', category, exc)
+        if category in ('cpu', 'motherboard'):
+            platform_candidates.extend(items)
         selected = select(items, args.limit)
         products.extend(selected)
         logging.info('%s: %s productos', category, len(selected))
@@ -203,6 +226,8 @@ def main():
     except (urllib.error.URLError, ValueError, KeyError, TimeoutError) as exc:
         errors.append(dict(key='chilesetup', message=str(exc)))
         logging.error('Chile Setup: %s', exc)
+    config = json.loads((ROOT / 'scraper/catalog_expansion.json').read_text(encoding='utf-8'))
+    products = expand_platforms(platform_candidates, products, config)
     export = save(products, errors, ROOT / 'dist/data/catalog.json')
     logging.info('Exportados %s productos; %s incidencias', len(export['products']), len(errors))
     if errors or any(sum(p['category'] == k for p in export['products']) < 2 for k in CATEGORIES):

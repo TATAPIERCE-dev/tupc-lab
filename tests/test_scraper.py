@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
-from scraper.collect import parse_alltec, clp, select, specs, save
+from scraper.collect import parse_alltec, clp, select, specs, save, expand_platforms
 from scraper.database import initialize, record
 
 FIXTURE = '''<ul id="product_list"><li><div class="product-container">
@@ -46,6 +46,22 @@ class ScraperTests(unittest.TestCase):
     def test_specs_only_from_relevant_categories(self):
         self.assertEqual(specs('LGA1700 DDR4', '', 'motherboard'), {'socket': '1700', 'memory': 'DDR4'})
         self.assertEqual(specs('GPU GDDR5', '', 'gpu'), {})
+        self.assertEqual(specs('CPU LGA1851', '', 'cpu'), {'socket': '1851'})
+        self.assertEqual(specs('Placa LGA 1851 DDR5', '', 'motherboard'), {'socket': '1851', 'memory': 'DDR5'})
+
+    def test_expansion_requires_stock_and_matching_platform_on_both_sides(self):
+        cpu = dict(id='cpu', category='cpu', inStock=True, specs={'socket': 'AM5'})
+        board = dict(id='board', category='motherboard', inStock=True, specs={'socket': 'AM5'})
+        config = dict(reviewedOn='2026-10-18', note='BIOS required', boards=[
+            dict(id='board', socket='AM5', cpuIds=['cpu'], source='https://example.com/support')])
+        result = expand_platforms([cpu, board], [cpu], config)
+        self.assertEqual({p['id'] for p in result}, {'cpu', 'board'})
+        self.assertEqual(result[1]['platformSupport']['cpuIds'], ['cpu'])
+        for stock in (False, None):
+            self.assertEqual(expand_platforms([dict(cpu, inStock=stock), board], [], config), [])
+            self.assertEqual(expand_platforms([cpu, dict(board, inStock=stock)], [], config), [])
+        self.assertEqual(expand_platforms([dict(cpu, specs={'socket': 'AM4'}), board], [], config), [])
+        self.assertEqual(expand_platforms([cpu], [], config), [])
 
     def test_history_idempotent_and_chronological(self):
         with sqlite3.connect(':memory:') as db:

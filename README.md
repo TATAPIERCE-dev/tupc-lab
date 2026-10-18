@@ -17,7 +17,7 @@ Quise que la aplicación se pudiera usar directamente desde el navegador, **sin 
 Implementé las siguientes funcionalidades:
 
 - 8 categorías: procesadores, placas madre, RAM, SSD, GPU, fuentes, gabinetes y refrigeración.
-- Catálogo inicial de 40 productos; al menos 4 opciones por categoría.
+- Catálogo ampliado a 62 productos: 16 procesadores y 14 placas madre, además de las otras seis categorías.
 - Búsqueda, filtro por categoría/tienda/stock y orden por precio o nombre.
 - Comparación de hasta 3 componentes, favoritos persistentes y fichas con fuente.
 - Armador de una pieza por categoría, presupuesto y exportación TXT con enlaces.
@@ -66,7 +66,7 @@ npm test
 
 En macOS/Linux preparo el entorno con `python3 -m venv .venv` y `.venv/bin/python -m pip install -r requirements.txt`. El comando npm detecta el entorno virtual según el sistema.
 
-Mi recolector actualiza `data/prices.db` y `dist/data/catalog.json`. Puedo cambiar el tamaño de la muestra con `npm run scrape -- --limit 6` (entre 2 y 12 productos por categoría y tienda). La extracción demora unos 30 segundos por las pausas entre solicitudes.
+Mi recolector actualiza `data/prices.db` y `dist/data/catalog.json`. Puedo cambiar el tamaño de la muestra con `npm run scrape -- --limit 6` (entre 2 y 12 productos por categoría y tienda). La selección ampliada se conserva aparte de ese límite y se vuelve a comprobar en cada captura. La extracción demora unos 30 segundos por las pausas entre solicitudes.
 
 Por ahora ejecuto las actualizaciones manualmente. **La web publicada no ejecuta el recolector**: después de una nueva captura actualizo los archivos estáticos. Incluí la fecha de lectura y una advertencia cuando los datos superan las 48 horas.
 
@@ -98,7 +98,7 @@ Trabajo con datos públicos de estas fuentes y mantengo el siguiente alcance:
 
 - **[Alltec](https://www.alltec.cl/):** extraigo del HTML de la primera página de cada subcategoría el título completo, precio, disponibilidad, imagen y URL.
 - **[Chile Setup](https://chilesetup.cl/):** consulto la API pública de WooCommerce Store y selecciono fuentes, gabinetes y refrigeración desde la primera página de hasta 100 artículos.
-- Limité la muestra a cuatro productos por categoría y tienda por defecto, priorizando stock y menor precio. No cubro todo el mercado y algunos artículos pueden estar agotados.
+- Mantengo una muestra base de cuatro productos por categoría y tienda y añadí una selección de procesadores y placas documentada en `scraper/catalog_expansion.json`. Solo incorporo las parejas adicionales si ambos productos tienen stock en la captura y coinciden en plataforma. No cubro todo el mercado y algunos artículos pueden estar agotados.
 - Mantengo la tienda de origen en cada ficha. Todavía no unifico productos de distintas tiendas por SKU ni identifico el mejor precio de todo el mercado.
 - Muestro los precios publicados en CLP, sin envío. Las condiciones de pago y la disponibilidad final se consultan en la tienda.
 - Configuré la consulta de robots.txt y una pausa mínima de dos segundos por dominio, respetando valores mayores de crawl-delay. No implementé evasión de bloqueos 403/429 ni CAPTCHAs. Ante un fallo conservo la lectura anterior con `stale: true`, registro el error y termino el proceso con código 1.
@@ -115,4 +115,4 @@ npm run check
 npm test
 ```
 
-Incluí ocho pruebas que cubren la extracción de precios y stock, los cambios de estructura del HTML, la exclusión de accesorios, la deduplicación, las características de los componentes, la idempotencia del historial y la conservación de datos ante errores.
+Incluí nueve pruebas que cubren la extracción de precios y stock, los cambios de estructura del HTML, la exclusión de accesorios, la deduplicación, las características de los componentes, la idempotencia del historial, la conservación de datos ante errores y la exclusión de parejas sin stock o con sockets diferentes.
