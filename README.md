@@ -56,7 +56,7 @@ El recolector actualiza `data/prices.db` y `dist/data/catalog.json`. Para cambia
 Alltec (HTML/microdatos) ─┐
                         ├─ Python + BeautifulSoup ─ SQLite ─ catálogo JSON
 Chile Setup (API pública)┘                                      │
-                                                     Web estática / Sites
+                                                     Web estática
 ```
 
 ```text
@@ -93,7 +93,7 @@ Las pruebas cubren extracción de precios y stock, cambios de HTML, exclusión d
 
 ## Publicación y portafolio
 
-`dist/` se puede servir en cualquier hosting estático. La publicación inicial en Sites es **privada**, según lo solicitado. Antes de compartir con reclutadores hay que habilitar una audiencia que pueda acceder; una vista privada sólo es visible para su propietario.
+`dist/` se puede servir en cualquier hosting estático. Para mostrar la web en tu portafolio, publica esa carpeta y comparte el enlace de acceso público.
 
 No subir `.venv/`, `work/` ni la base de datos al hosting. El archivo JSON contiene únicamente datos públicos y sus fechas de observación.
 

@@ -246,7 +246,7 @@
       "image": "https://www.alltec.cl/12690-home_default/mb-asus-prime-a620m-k-am5-ddr5-ryzen-700080009000.jpg",
       "inStock": true,
       "previousRetailPrice": 95900,
-      "description": "Placa Madre AMD A620 micro-ATX, DDR5, PCIe 4.0 para VGA y compatibilidad con PCIe 4.0 M.2, DisplayPort, HDMI™, USB 3.2 Gen 1 Tipo-A, SATA 6 Gbps, cancelación de ruido AI bidireccional, Aura SyncSocket AMD AM5 : Listo para AMD procesadores de escritorio AMD Ryzen™. Conectividad ultrarrápida: PCIe 4.0, puerto M.2 de 64 Gbps, Realtek Ethernet de 1 Gb, USB...",
+      "description": "Placa Madre AMD A620 micro-ATX, DDR5, PCIe 4.0 para VGA y compatibilidad con PCIe 4.0 M.2, DisplayPort, HDMI™, USB 3.2 Gen 1 Tipo-A, SATA 6 Gbps, Aura SyncSocket AMD AM5 : Listo para AMD procesadores de escritorio AMD Ryzen™. Conectividad ultrarrápida: PCIe 4.0, puerto M.2 de 64 Gbps, Realtek Ethernet de 1 Gb, USB...",
       "specs": {
         "socket": "AM5",
         "memory": "DDR5"
@@ -513,7 +513,7 @@
       "image": "https://www.alltec.cl/12781-home_default/tv-msi-geforce-rtx-3050-lp-6g-oc.jpg",
       "inStock": true,
       "previousRetailPrice": null,
-      "description": "MSI RTX 3050 LP 6G OC LOW PROFILE (PERFIL BAJO) GeForce RTX™ 3050 LP 6G OCLa GeForce RTX™ 3050 de 6 GB está diseñada con la arquitectura NVIDIA Ampere, que incluye núcleos de trazado de rayos dedicados, núcleos de tensor de IA y memoria G6 de alta velocidad. Pásate a GeForce RTX. Reloj Boost / Velocidad de memoria1492 MHz / 14 Gbps 6GB GDDR6...",
+      "description": "MSI RTX 3050 LP 6G OC LOW PROFILE (PERFIL BAJO) GeForce RTX™ 3050 LP 6G OCLa GeForce RTX™ 3050 de 6 GB está diseñada con la arquitectura NVIDIA Ampere, que incluye núcleos de trazado de rayos dedicados, memoria G6 de alta velocidad. Pásate a GeForce RTX. Reloj Boost / Velocidad de memoria1492 MHz / 14 Gbps 6GB GDDR6...",
       "specs": {},
       "sourceType": "HTML / microdatos",
       "checkedAt": "2026-10-17T19:11:36.381185+00:00",
