@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+work/
+data/*.db
+data/pgdata/
+data/*.log
+.env
+node_modules/
+*.tar.gz

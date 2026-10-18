@@ -1,0 +1,15 @@
+{
+  "name": "tupc-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Explorador de componentes y recolector de precios de PC en Chile",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs",
+    "scrape": "node scripts/python.mjs -m scraper.collect",
+    "test": "node scripts/python.mjs -m unittest discover -s tests -v",
+    "check": "node --check dist/app.js"
+  },
+  "engines": { "node": ">=20" }
+}
