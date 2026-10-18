@@ -10,4 +10,11 @@
 @media(min-width:761px) and (max-width:1250px){.brand{font-size:20px}.brand-mark{margin-right:7px;width:30px;height:32px}}
 @media(min-width:761px) and (max-width:1000px){.brand{font-size:0;padding:0 8px}.brand-mark{font-size:23px;margin:0}}
 @media(max-width:760px){.brand{font-size:23px}.brand-mark{font-size:22px;line-height:27px}.brand-dot{display:inline}}
+/* Store actions */
+.store-link{min-height:46px;margin:12px 0 4px;padding:10px 12px;gap:8px;flex-wrap:wrap;border:1px solid #174b97;border-radius:6px;background:#174b97;color:#fff;font-size:11px;line-height:1.4;box-shadow:0 2px 5px #174b9720;transition:background .15s,border-color .15s}
+.store-link span:first-child{color:#e1edff}
+.store-link span:last-child{color:#fff;font-size:13px;font-weight:700;white-space:nowrap}
+.detail-link{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:10px 14px;border:1px solid #174b97;border-radius:6px;background:#174b97;color:#fff;font-size:13px;font-weight:700;line-height:1.4;text-decoration:none;text-align:center}
+.store-link:hover,.detail-link:hover{background:#10376f;border-color:#10376f;color:#fff}
+.store-link:focus-visible,.detail-link:focus-visible{outline:3px solid #d52b36;outline-offset:3px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
