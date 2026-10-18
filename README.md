@@ -21,6 +21,20 @@ Sólo necesita abrir la web. **No requiere Python, Node, SQLite, Docker ni insta
 - Historial de lecturas reales en SQLite; nunca se generan precios ni tendencias ficticias.
 - Diseño adaptable a móvil, navegación por teclado y diálogos accesibles.
 
+## Stack principal
+
+| Capa | Tecnologías | Uso en el proyecto |
+| --- | --- | --- |
+| Frontend | HTML5, CSS3 y JavaScript ES Modules | Interfaz responsive, filtros, comparación y armador de PC, sin frameworks. |
+| Datos en el navegador | Fetch API, JSON y localStorage | Carga del catálogo y persistencia de favoritos, presupuesto y armado. |
+| Recolección de precios | Python 3.11+, BeautifulSoup4 y urllib | Extracción de HTML, consulta de catálogos públicos y normalización de productos. |
+| Base de datos | SQLite | Historial local de observaciones de precio y disponibilidad. |
+| Desarrollo local | Node.js 20+ y npm | Servidor estático y comandos para ejecutar el recolector y las pruebas. |
+| Pruebas | unittest de Python | Validación del scraping, precios, stock e historial. |
+| Control de versiones | Git y GitHub | Historial de cambios y publicación del código fuente. |
+
+La web publicada es estática: consume el catálogo JSON generado por el recolector y funciona directamente en el navegador.
+
 ## Ver la web local
 
 Requiere Node 20+ **sólo para desarrollo**. Sin paquetes npm adicionales:
