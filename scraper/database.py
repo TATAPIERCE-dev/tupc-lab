@@ -1,5 +1,6 @@
 """Persistencia SQLite local. El visitante sólo necesita su navegador."""
 import sqlite3
+import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,6 +16,21 @@ def initialize(db):
     db.execute('''CREATE TABLE IF NOT EXISTS observations (
         product_id TEXT, observed_at TEXT, price INTEGER CHECK(price > 0),
         in_stock INTEGER, PRIMARY KEY(product_id, observed_at))''')
+
+
+def restore_history(db, catalog_path):
+    """Recover the exported 90 readings when a runner has no local database.
+
+    Historical exports do not contain historical stock, so keep it unknown.
+    INSERT OR IGNORE preserves richer observations already stored locally.
+    """
+    if not catalog_path.exists():
+        return
+    catalog = json.loads(catalog_path.read_text(encoding='utf-8'))
+    for product in catalog['products']:
+        for reading in product.get('history', []):
+            db.execute('INSERT OR IGNORE INTO observations VALUES (?, ?, ?, NULL)',
+                       (product['id'], reading['date'], reading['price']))
 
 
 def record(db, p, observed_at):

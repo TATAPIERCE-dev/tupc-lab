@@ -18,7 +18,7 @@ from urllib.parse import urlparse
 from urllib.robotparser import RobotFileParser
 
 from bs4 import BeautifulSoup
-from scraper.database import connect, initialize, record
+from scraper.database import connect, initialize, record, restore_history
 
 ROOT = Path(__file__).resolve().parents[1]
 AGENT = 'TuPC.LABPortfolio/1.0'
@@ -210,6 +210,7 @@ def save(products, errors, export_path):
     now = datetime.now(timezone.utc).isoformat()
     with connect() as db:
         initialize(db)
+        restore_history(db, export_path)
         for product in products:
             product['checkedAt'] = now
             product['history'] = record(db, product, now)
