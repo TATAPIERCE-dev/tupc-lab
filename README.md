@@ -70,7 +70,13 @@ En macOS/Linux preparo el entorno con `python3 -m venv .venv` y `.venv/bin/pytho
 
 Mi recolector actualiza `data/prices.db` y `dist/data/catalog.json`. Puedo cambiar el tamaño de la muestra con `npm run scrape -- --limit 6` (entre 2 y 12 productos por categoría y tienda). La selección ampliada se conserva aparte de ese límite y se vuelve a comprobar en cada captura. La extracción demora unos 30 segundos por las pausas entre solicitudes.
 
-Por ahora ejecuto las actualizaciones manualmente. **La web publicada no ejecuta el recolector**: después de una nueva captura actualizo los archivos estáticos. Incluí la fecha de lectura y una advertencia cuando los datos superan las 48 horas.
+Las actualizaciones se ejecutan automáticamente mediante GitHub Actions cada seis horas (00:17, 06:17, 12:17 y 18:17 UTC), y también desde Actions → Actualizar catálogo → Run workflow. El horario puede retrasarse por carga de GitHub. El workflow debe estar en main y Actions habilitado, con permiso de escritura de contenido; las reglas de protección de main deben permitir el commit del bot.
+
+El recolector publica dist/data/catalog.json en main. El frontend lee ese JSON desde raw.githubusercontent.com al abrir, al volver a la pestaña, al recuperar conexión y cada cinco minutos mientras está visible. Así los precios posteriores no requieren un nuevo despliegue de Vercel. La primera publicación de este código sí requiere desplegar la nueva versión del frontend. GitHub puede cachear brevemente el JSON. Si GitHub no responde al abrir, se usa la copia incluida en el despliegue; en una sesión ya abierta se conserva la última captura válida.
+
+Cada runner reconstruye en SQLite las últimas 90 lecturas por producto incluidas en el JSON versionado. Esto conserva el historial exportado entre ejecuciones sin depender de caches o artefactos temporales; no recupera stock histórico ni lecturas anteriores a esas 90. Una base local existente conserva sus datos adicionales.
+
+Las capturas parciales conservan las fuentes fallidas con stale: true, se publican si mantienen cobertura y al menos una fuente actualizada, y el workflow termina en fallo para señalar la incidencia. Un fallo total o exportación inválida no se publica. La fecha de lectura y la advertencia de más de 48 horas siguen visibles.
 
 ## Arquitectura
 

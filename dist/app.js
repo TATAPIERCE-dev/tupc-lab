@@ -140,17 +140,41 @@ $$('.close-dialog').forEach(btn=>btn.addEventListener('click',()=>btn.closest('d
 $$('dialog').forEach(dialog=>dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();}}));
 ['about-button','sources-button'].forEach(id=>$('#'+id).addEventListener('click',()=>$('#about-dialog').showModal()));
 document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)&&!$('dialog[open]')){e.preventDefault();$('#search').focus();}});
+let loadingCatalog=false;
 async function init(){
+ if(loadingCatalog)return;
+ loadingCatalog=true;
+ const hadCatalog=Boolean(catalog), selectedStore=$('#store').value;
  try{
-  const response=await fetch('./data/catalog.json',{cache:'no-cache'});if(!response.ok)throw Error('HTTP '+response.status);catalog=await response.json();products=catalog.products;categories=catalog.categories;
+  let response;
+  try{
+   response=await fetch('https://raw.githubusercontent.com/TATAPIERCE-dev/tupc-lab/main/dist/data/catalog.json',{cache:'no-cache',signal:AbortSignal.timeout(15000)});
+   if(!response.ok)throw Error('HTTP '+response.status);
+  }catch(error){
+   if(hadCatalog)throw error;
+   response=await fetch('./data/catalog.json',{cache:'no-cache',signal:AbortSignal.timeout(15000)});
+  }
+  if(!response.ok)throw Error('HTTP '+response.status);const next=await response.json();
+  if(!Array.isArray(next.products)||!Array.isArray(next.categories)||!Number.isFinite(Date.parse(next.generatedAt)))throw Error('Catálogo inválido');
+  catalog=next;products=next.products;categories=next.categories;
   if(!Array.isArray(products)||!Array.isArray(categories))throw Error('Catálogo inválido');
   build=Object.fromEntries(Object.entries(build).filter(([category,id])=>productById(id)?.category===category));favorites=favorites.filter(id=>productById(id));
   $('#total-products').textContent=products.length;$('#store-count').textContent=new Set(products.map(p=>p.store)).size;
   $('#updated-at').textContent='Última captura · '+timestamp(catalog.generatedAt);
   $('#store').innerHTML='<option value="all">Todas las tiendas</option>'+[...new Set(products.map(p=>p.store))].map(store=>`<option>${esc(store)}</option>`).join('');
+  if([...$('#store').options].some(option=>option.value===selectedStore))$('#store').value=selectedStore;
+  compared=compared.filter(id=>productById(id));
+  $('#data-warning').hidden=true;
   const age=Date.now()-new Date(catalog.generatedAt).getTime();
   if(catalog.errors?.length||age>48*3600*1000){$('#data-warning').hidden=false;$('#data-warning').textContent=catalog.errors?.length?'Algunas fuentes no pudieron actualizarse. Revisa la fecha de lectura en cada ficha.':'Esta captura tiene más de 48 horas. Consulta el precio y stock actual en la tienda.';}
-  renderCategories();renderProducts();renderBuild();
- }catch(error){$('#updated-at').textContent='Catálogo no disponible';$('#product-grid').innerHTML='<div class="empty-state"><h3>No pudimos cargar los componentes.</h3><p>Revisa la conexión y vuelve a intentar.</p><button id="retry">Volver a cargar</button></div>';$('#retry').addEventListener('click',init);console.error('No se pudo cargar el catálogo',error);}
+  renderCategories();syncNavigation();renderProducts();renderBuild();updateCompare();
+ }catch(error){
+  if(hadCatalog){$('#data-warning').hidden=false;$('#data-warning').textContent='No se pudo comprobar una nueva captura. Conservamos el catálogo anterior.';console.error(error);return;}
+  $('#updated-at').textContent='Catálogo no disponible';$('#product-grid').innerHTML='<div class="empty-state"><h3>No pudimos cargar los componentes.</h3><p>Revisa la conexión y vuelve a intentar.</p><button id="retry">Volver a cargar</button></div>';$('#retry').addEventListener('click',init);console.error('No se pudo cargar el catálogo',error);}
+ finally{loadingCatalog=false;}
 }
 init();
+
+setInterval(()=>{if(!document.hidden)init();},5*60*1000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)init();});
+window.addEventListener('online',()=>init());
