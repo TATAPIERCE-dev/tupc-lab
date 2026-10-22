@@ -1,3 +1,4 @@
+import { captureCountdown } from './refresh-schedule.js';
 import { quoteFilename, quoteWorkbook } from './quote.js';
 const $ = s => document.querySelector(s);
 const $$ = s => [...document.querySelectorAll(s)];
@@ -161,6 +162,7 @@ async function init(){
   build=Object.fromEntries(Object.entries(build).filter(([category,id])=>productById(id)?.category===category));favorites=favorites.filter(id=>productById(id));
   $('#total-products').textContent=products.length;$('#store-count').textContent=new Set(products.map(p=>p.store)).size;
   $('#updated-at').textContent='Última captura · '+timestamp(catalog.generatedAt);
+  $('#catalog-last-capture').textContent='Última captura · '+timestamp(catalog.generatedAt);
   $('#store').innerHTML='<option value="all">Todas las tiendas</option>'+[...new Set(products.map(p=>p.store))].map(store=>`<option>${esc(store)}</option>`).join('');
   if([...$('#store').options].some(option=>option.value===selectedStore))$('#store').value=selectedStore;
   compared=compared.filter(id=>productById(id));
@@ -170,6 +172,7 @@ async function init(){
   renderCategories();syncNavigation();renderProducts();renderBuild();updateCompare();
  }catch(error){
   if(hadCatalog){$('#data-warning').hidden=false;$('#data-warning').textContent='No se pudo comprobar una nueva captura. Conservamos el catálogo anterior.';console.error(error);return;}
+  $('#catalog-last-capture').textContent='No se pudo cargar la fecha de la última captura.';
   $('#updated-at').textContent='Catálogo no disponible';$('#product-grid').innerHTML='<div class="empty-state"><h3>No pudimos cargar los componentes.</h3><p>Revisa la conexión y vuelve a intentar.</p><button id="retry">Volver a cargar</button></div>';$('#retry').addEventListener('click',init);console.error('No se pudo cargar el catálogo',error);}
  finally{loadingCatalog=false;}
 }
@@ -178,3 +181,10 @@ init();
 setInterval(()=>{if(!document.hidden)init();},5*60*1000);
 document.addEventListener('visibilitychange',()=>{if(!document.hidden)init();});
 window.addEventListener('online',()=>init());
+
+function renderCaptureCountdown(){
+ $('#catalog-countdown').textContent=captureCountdown();
+}
+renderCaptureCountdown();
+setInterval(()=>{if(!document.hidden)renderCaptureCountdown();},1000);
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)renderCaptureCountdown();});
