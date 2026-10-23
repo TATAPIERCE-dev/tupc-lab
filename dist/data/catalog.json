@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T11:45:16.911495+00:00",
+  "generatedAt": "2026-10-23T17:13:55.527459+00:00",
   "currency": "CLP",
   "categories": [
     {
@@ -37,6 +37,2102 @@
   ],
   "products": [
     {
+      "id": "d97f13a285cb7313",
+      "name": "AMD RYZEN 3 4100 (MPK) 3.8GHz (4.0GHz TURBO) QUAD CORE (TDP 65W) (AM4)",
+      "category": "cpu",
+      "price": 74500,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2026-amd-ryzen-3-4100-mpk-38ghz-40ghz-turbo-quad-core-tdp-65w-am4-7123456789012.html",
+      "image": "https://www.alltec.cl/10615-home_default/amd-ryzen-3-4100-mpk-38ghz-40ghz-turbo-quad-core-tdp-65w-am4.jpg",
+      "inStock": true,
+      "previousRetailPrice": 109900,
+      "description": "AMD Ryzen™ 3 4100 MPK (AM4)Modelo de gráficos: Se requiere tarjeta gráfica discreta # de núcleos de CPU: 4 # de hilos: 8 Reloj de aumento máx.: Hasta 4.0GHz Reloj base: 3.8GHz Caché : 4MB Solución térmica (MPK): Wraith Stealth TDP/TDP predeterminado: 65W Presentación: OEM (CPU + DISIPADOR + STICKER AMD) Garantía: 01 Año",
+      "specs": {
+        "socket": "AM4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 74500
+        }
+      ]
+    },
+    {
+      "id": "6a351346e4d3a8b6",
+      "name": "3.6GHz INTEL I3-10100 (4.3GHz TURBO, 4C/8T, 6MB CACHE, 65W, LGA1200) 10MA GENERACION",
+      "category": "cpu",
+      "price": 120900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/intel/1214-6ghz-intel-i3-10100-43ghz-turbo-4c8t-6mb-cache-65w-lga1200-10ma-generacion.html",
+      "image": "https://www.alltec.cl/7176-home_default/6ghz-intel-i3-10100-43ghz-turbo-4c8t-6mb-cache-65w-lga1200-10ma-generacion.jpg",
+      "inStock": true,
+      "previousRetailPrice": 139900,
+      "description": "INTEL I3-10100 10MA GENERACIÓN (COMET LAKE-S)FRECUENCIA DEL PROCESADOR : 3.6 GHz FRECUENCIA TURBO MAXIMA : 4.3 GHz CANTIDAD DE NÚCLEOS : 4 CANTIDAD DE SUB PROCESOS : 8 CACHE : 6MB SMARTCACHE VELOCIDAD DE BUS : 8 GT / s DMI3 TDP : 65W  GRÁFICO INTEGRADO : Gráficos HD Intel® 630 4K COMPATIBLE A 60Hz",
+      "specs": {
+        "socket": "1200"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 120900
+        }
+      ]
+    },
+    {
+      "id": "81f7b117d9fed4cb",
+      "name": "AMD RYZEN 3 5300G 4.0GHz (4.2GHz TURBO) QUAD CORE (TDP 65W) (AM4)",
+      "category": "cpu",
+      "price": 125900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2194-amd-ryzen-3-5300g-40ghz-42ghz-turbo-quad-core-tdp-65w-am4.html",
+      "image": "https://www.alltec.cl/11967-home_default/amd-ryzen-3-5300g-40ghz-42ghz-turbo-quad-core-tdp-65w-am4.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 3 5300GModelo de gráficos: AMD Radeon™ Graphics, 6 Core, 1700 MHz # de núcleos de CPU: 4 # de hilos: 8 Reloj de aumento máx.: Hasta 4.2GHz Reloj base: 4.0GHz Cache L3: 8MB Solución térmica (PIB): AMD Wraith Stealth TDP/TDP predeterminado: 65W Socket: AM4",
+      "specs": {
+        "socket": "AM4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 125900
+        }
+      ]
+    },
+    {
+      "id": "657d19d4a0620bdc",
+      "name": "3.3GHz INTEL I3-12100F (4.3GHz TURBO, 4C/8T, 12MB CACHE, 65W, LGA1700, SIN VIDEO) 12TH GENERACION",
+      "category": "cpu",
+      "price": 139900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/intel/1851-3ghz-intel-i3-12100f-43ghz-turbo-4c8t-12mb-cache-65w-lga1700-sin-video-12th-generacion.html",
+      "image": "https://www.alltec.cl/9824-home_default/3ghz-intel-i3-12100f-43ghz-turbo-4c8t-12mb-cache-65w-lga1700-sin-video-12th-generacion.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "INTEL I3-12100F 12TH GENERACIÓN (ALDER LAKE-S)FRECUENCIA DEL PROCESADOR : 3.3GHz FRECUENCIA TURBO MAXIMA : 4.3 GHz CANTIDAD DE NÚCLEOS : 4 CANTIDAD DE SUB PROCESOS : 8 CACHE : 12MB SMARTCACHE VELOCIDAD DE BUS : 8 GT / s DMI3 TDP : 65W  GRÁFICO INTEGRADO : Requiere Tarjeta Video",
+      "specs": {
+        "socket": "1700"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 139900
+        }
+      ]
+    },
+    {
+      "id": "d45d0174e59e686d",
+      "name": "M.B. ASUS PRIME A520M-K (AM4) DDR4 (RYZEN 5000)",
+      "category": "motherboard",
+      "price": 59900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/1333-mb-asus-prime-a520m-k-am4-ddr4-ryzen-5000.html",
+      "image": "https://www.alltec.cl/11517-home_default/mb-asus-prime-a520m-k-am4-ddr4-ryzen-5000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 69900,
+      "description": "ASUS PRIME A520M-KTarjeta Madre micro ATX AMD A520 (Ryzen AM4) con soporte M.2, Ethernet de 1 Gb, HDMI / D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Tipo A Socket AMD AM4: Listo para procesadores de escritorio Ryzen™ 5000 Series / 4000 G-Series / 3000 Series. Enfriamiento completo: Disipador de Chipset y Fan Xpert. Conectividad ultrarrápida: Compatibilidad con...",
+      "specs": {
+        "socket": "AM4",
+        "memory": "DDR4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 59900
+        }
+      ]
+    },
+    {
+      "id": "1f66dd825051090b",
+      "name": "M.B. ASUS PRIME H610M-F D4 R2.0 (LGA1700) DDR4 (INTEL 14ª/13ª/12ª GENERACIÓN)",
+      "category": "motherboard",
+      "price": 84900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-intel/2484-mb-asus-prime-h610m-f-d4-r20-lga1700-ddr4-intel-141312-generacion.html",
+      "image": "https://www.alltec.cl/12811-home_default/mb-asus-prime-h610m-f-d4-r20-lga1700-ddr4-intel-141312-generacion.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "ASUS PRIME H610M-F D4 R2.0, una tarjeta madre micro-ATX Intel® H610 LGA 1700 con PCIe 4.0, ranura M.2, DDR4, Ethernet Realtek 1Gb, HDMI™, SATA 6 Gbps, puertos USB 5GbpsSocket Intel® LGA 1700: Compatible con procesadores Intel® de 14a, 13a y 12a generación Conectividad ultrarrápida: Ranura M.2 de 32 Gbps, Ethernet Realtek 1Gb y soporte USB 5Gbps...",
+      "specs": {
+        "socket": "1700",
+        "memory": "DDR4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 84900
+        }
+      ]
+    },
+    {
+      "id": "7e4c59fcac0e85dd",
+      "name": "M.B. MSI B550M-A PRO (AM4) 2xDDR4 (RYZEN 5000)",
+      "category": "motherboard",
+      "price": 85900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/1657-mb-msi-b550m-a-pro-am4-2xddr4-ryzen-5000.html",
+      "image": "https://www.alltec.cl/12587-home_default/mb-msi-b550m-a-pro-am4-2xddr4-ryzen-5000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 104900,
+      "description": "MSI B550M-A PROSoporta procesadores 3ra Gen AMD Ryzen™ Desktop y procesadores AMD Ryzen™ 4000 / 5000 G-Series Desktop Soporta memoria DDR4 hasta 4600(OC) MHz Experiencia ultrarrápida: PCIe 4.0, Lightning Gen4 x4 M.2 Core Boost: Con distribución premium y diseño energético digital que soporta más núcleos y ofrece un mejor desempeño DDR4 Boost: Tecnología...",
+      "specs": {
+        "socket": "AM4",
+        "memory": "DDR4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 85900
+        }
+      ]
+    },
+    {
+      "id": "73581b2ff860f13d",
+      "name": "M.B. ASUS PRIME A620M-K (AM5) DDR5 (RYZEN 7000/8000/9000)",
+      "category": "motherboard",
+      "price": 90900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/2461-mb-asus-prime-a620m-k-am5-ddr5-ryzen-700080009000.html",
+      "image": "https://www.alltec.cl/12690-home_default/mb-asus-prime-a620m-k-am5-ddr5-ryzen-700080009000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 95900,
+      "description": "Placa Madre AMD A620 micro-ATX, DDR5, PCIe 4.0 para VGA y compatibilidad con PCIe 4.0 M.2, DisplayPort, HDMI™, USB 3.2 Gen 1 Tipo-A, SATA 6 Gbps, cancelación de ruido AI bidireccional, Aura SyncSocket AMD AM5 : Listo para AMD procesadores de escritorio AMD Ryzen™. Conectividad ultrarrápida: PCIe 4.0, puerto M.2 de 64 Gbps, Realtek Ethernet de 1 Gb, USB...",
+      "specs": {
+        "socket": "AM5",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 90900
+        }
+      ]
+    },
+    {
+      "id": "744e6ba30848c221",
+      "name": "8GB DDR5 5600MHz UDIMM MACROVIP MAX MVX56N46/8",
+      "category": "ram",
+      "price": 134900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/ddr5/2530-8gb-ddr5-5600mhz-udimm-macrovip-max-mvx56n468.html",
+      "image": "https://www.alltec.cl/12949-home_default/8gb-ddr5-5600mhz-udimm-macrovip-max-mvx56n468.jpg",
+      "inStock": true,
+      "previousRetailPrice": 154900,
+      "description": "Memoria Udimm Gamer Macrovip Max Ddr5 8Gb 5600Mhz Con Disipador - Mvx56N46/8Memoria DDR5 de alta velocidad a 5600MHz Capacidad de 8GB para multitarea sin interrupciones Incluye un disipador para una gestión térmica óptima Diseñada para gamers y profesionales creativos Compatibilidad asegurada con las últimas plataformas",
+      "specs": {
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 134900
+        }
+      ]
+    },
+    {
+      "id": "07123c5535b8306c",
+      "name": "8GB DDR4 3000MHz CL16 A-DATA XPG SPECTRIX D41 (AX4U300038G16-ST41)",
+      "category": "ram",
+      "price": 42900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/ddr4/1119-8gb-ddr4-3000mhz-cl16-a-data-xpg-spectrix-d41-ax4u300038g16-st41.html",
+      "image": "https://www.alltec.cl/6616-home_default/8gb-ddr4-3000mhz-cl16-a-data-xpg-spectrix-d41-ax4u300038g16-st41.jpg",
+      "inStock": false,
+      "previousRetailPrice": 51900,
+      "description": "SPECTRIX D41 DDR4 RGBImpresionante rendimiento y estilo ● Deslumbrar con la iluminación RGB● Personalizar su estilo● Seguir el rendimiento● Calidad de la que puede depender● Aumento sencillo de la velocidad del reloj con Intel® XMP 2.0● Prepárese para el control RGB con la instalación rápida y gratuita de una aplicación",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 42900
+        }
+      ]
+    },
+    {
+      "id": "d13a956f4d089118",
+      "name": "8GB DDR4 3200MHz KINGSTON FURY BEAST CL17 (KF432C16BB/8)",
+      "category": "ram",
+      "price": 42900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/ddr4/1974-8gb-ddr4-3200mhz-kingston-fury-beast-cl17-kf432c16bb8.html",
+      "image": "https://www.alltec.cl/10401-home_default/8gb-ddr4-3200mhz-kingston-fury-beast-cl17-kf432c16bb8.jpg",
+      "inStock": false,
+      "previousRetailPrice": null,
+      "description": "Kingston FURY KF432C16BB/8 es un DDR4-3200 de 1G x 64 bits (8GB) CL16 SDRAM (DRAM síncrona) 1Rx8, módulo de memoria, basado en ocho componentes FBGA de 1G x 8 bits por módulo. Cada módulo el kit es compatible con los perfiles de memoria Intel® Extreme (Intel® XMP) 2.0. Cada módulo ha sido probado para ejecutarse en DDR4-3200 a un bajo temporización de...",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 42900
+        }
+      ]
+    },
+    {
+      "id": "150d3b1bfb1ac877",
+      "name": "8GB DDR4 3000MHz CL16 A-DATA XPG SPECTRIX D60G (AX4U300038G16A-ST60)",
+      "category": "ram",
+      "price": 45900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/ddr4/1205-8gb-ddr4-3000mhz-cl16-a-data-xpg-spectrix-d60g-ax4u300038g16a-st60.html",
+      "image": "https://www.alltec.cl/7145-home_default/8gb-ddr4-3000mhz-cl16-a-data-xpg-spectrix-d60g-ax4u300038g16a-st60.jpg",
+      "inStock": false,
+      "previousRetailPrice": 49900,
+      "description": "SPECTRIX D60G DDR4 RGB (CL16-20-20 1.35V)Estable, duradera y confiable El módulo de memoria D60G está fabricado con chips de alta calidad y un disipador de calor metálico que proporciona una integridad, confiabilidad y estabilidad de la señal excelentes, lo que prolonga de manera efectiva la vida útil de dicho módulo.ILUMINE EL CAMPO DE BATALLA ●...",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 45900
+        }
+      ]
+    },
+    {
+      "id": "d5bf054866bd964f",
+      "name": "256GB SSD SATA3 6Gb/s TEAMGROUP CX2 T253X6256G0C101",
+      "category": "ssd",
+      "price": 56900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/ssd/2437-256gb-ssd-sata3-6gbs-teamgroup-cx2-t253x6256g0c101.html",
+      "image": "https://www.alltec.cl/12607-home_default/256gb-ssd-sata3-6gbs-teamgroup-cx2-t253x6256g0c101.jpg",
+      "inStock": true,
+      "previousRetailPrice": 69900,
+      "description": "TEAMGROUP CX2 SSD 256GBUn artículo imprescindible para los principiantes que quieran reemplazar su disco duro mecánico tradicional Tecnología avanzada de almacenamiento en caché SLC Resistente a impactos y caídas para un uso seguro La función del código de corrección de errores (del inglés ECC, Error Correction Code) mejora la eficacia",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 56900
+        }
+      ]
+    },
+    {
+      "id": "8a6ff493f5247dec",
+      "name": "512GB SSD SATA3 6Gb/s MACROVIP MV512GB",
+      "category": "ssd",
+      "price": 85900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/ssd/2531-512gb-ssd-sata3-6gbs-macrovip-mv512gb.html",
+      "image": "https://www.alltec.cl/12950-home_default/512gb-ssd-sata3-6gbs-macrovip-mv512gb.jpg",
+      "inStock": true,
+      "previousRetailPrice": 99900,
+      "description": "SSD Macrovip Premium 512GB 2.5″ SATA 3 – MV512GB La unidad SSD Macrovip Premium de 2,5″ garantiza un rendimiento rápido y fiable para su ordenador. Con velocidades de lectura de hasta 520 Mb/s y de escritura de hasta 450 Mb/s, disfrutarás de un arranque instantáneo, una carga rápida de aplicaciones y una veloz transferencia de datos.",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 85900
+        }
+      ]
+    },
+    {
+      "id": "b129177623e9ec41",
+      "name": "512GB SSD SATA3 6Gb/s TEAMGROUP CX2 T253X6512G0C101",
+      "category": "ssd",
+      "price": 99900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/ssd/2438-512gb-ssd-sata3-6gbs-teamgroup-cx2-t253x6512g0c101.html",
+      "image": "https://www.alltec.cl/12608-home_default/512gb-ssd-sata3-6gbs-teamgroup-cx2-t253x6512g0c101.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "TEAMGROUP CX2 SSD 512GBUn artículo imprescindible para los principiantes que quieran reemplazar su disco duro mecánico tradicional Tecnología avanzada de almacenamiento en caché SLC Resistente a impactos y caídas para un uso seguro La función del código de corrección de errores (del inglés ECC, Error Correction Code) mejora la eficacia",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 99900
+        }
+      ]
+    },
+    {
+      "id": "0573806b0c628352",
+      "name": "480GB SSD SATA 6Gb/s ADATA SU650 3D (ASU650SS-480GT-R)",
+      "category": "ssd",
+      "price": 99900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/ssd/2407-480gb-ssd-sata-6gbs-adata-su650-3d-asu650ss-480gt-r.html",
+      "image": "https://www.alltec.cl/12437-home_default/480gb-ssd-sata-6gbs-adata-su650-3d-asu650ss-480gt-r.jpg",
+      "inStock": true,
+      "previousRetailPrice": 109900,
+      "description": "ADATA SU650 480GBSi está buscando reemplazar ese disco duro suyo con un SSD, no busque más que el ADATA SU650. El SSD ofrece un valor increíble y un gran rendimiento. También viene con excelentes características como la tecnología LDPC ECC.",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 99900
+        }
+      ]
+    },
+    {
+      "id": "dd0787b0c3dc5535",
+      "name": "T.V. ASUS DUAL GEFORCE RTX 3050 OC EDITION 6GB GDDR6",
+      "category": "gpu",
+      "price": 279900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/nvidia/2246-tv-asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6.html",
+      "image": "https://www.alltec.cl/11661-home_default/tv-asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "ASUS Dual GeForce RTX™ 3050 OC Edition 6GB GDDR6 con dos potentes ventiladores Rendimiento de juegos AAA y trazado de rayosMultiprocesadores de transmisión NVIDIA Ampere: el nuevo Ampere SM ofrece el doble de rendimiento del FP32 y una eficiencia energética mejorada. Núcleos RT de 2.ª generación: experimente el doble de rendimiento que los núcleos...",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 279900
+        }
+      ]
+    },
+    {
+      "id": "505524d4fb44a9c7",
+      "name": "T.V. MSI GEFORCE RTX 3050 LP 6G OC",
+      "category": "gpu",
+      "price": 289900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/nvidia/2477-tv-msi-geforce-rtx-3050-lp-6g-oc.html",
+      "image": "https://www.alltec.cl/12781-home_default/tv-msi-geforce-rtx-3050-lp-6g-oc.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "MSI RTX 3050 LP 6G OC LOW PROFILE (PERFIL BAJO) GeForce RTX™ 3050 LP 6G OCLa GeForce RTX™ 3050 de 6 GB está diseñada con la arquitectura NVIDIA Ampere, que incluye núcleos de trazado de rayos dedicados, núcleos de tensor de IA y memoria G6 de alta velocidad. Pásate a GeForce RTX. Reloj Boost / Velocidad de memoria1492 MHz / 14 Gbps 6GB GDDR6...",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 289900
+        }
+      ]
+    },
+    {
+      "id": "7d20e021747e98c0",
+      "name": "T.V. EVGA GEFORCE GTX 1660 SUPER SC ULTRA GAMING 6GB GDDR6 (06G-P4-1068-KR)",
+      "category": "gpu",
+      "price": 314900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/nvidia/1702-tv-evga-geforce-gtx-1660-super-sc-ultra-gaming-6gb-gddr6-06g-p4-1068-kr.html",
+      "image": "https://www.alltec.cl/9152-home_default/tv-evga-geforce-gtx-1660-super-sc-ultra-gaming-6gb-gddr6-06g-p4-1068-kr.jpg",
+      "inStock": true,
+      "previousRetailPrice": 579900,
+      "description": "EVGA GeForce GTX 1660 SUPER SC ULTRA GAMING (06G-P4-1068-KR) 6GB GDDR6, Dual Fan, Metal Backplate Las tarjetas gráficas EVGA GeForce GTX serie 16 están impulsadas por la nueva arquitectura NVIDIA Turing para brindarle nuevos e increíbles niveles de realismo, velocidad, eficiencia energética e inmersión en los juegos. Con las tarjetas de juego EVGA GeForce...",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 314900
+        }
+      ]
+    },
+    {
+      "id": "dbc80633d6eac83a",
+      "name": "T.V. SAPPHIRE PULSE AMD RADEON™ RX 7600 8GB",
+      "category": "gpu",
+      "price": 359900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2210-tv-sapphire-pulse-amd-radeon-rx-7600-8gb.html",
+      "image": "https://www.alltec.cl/11537-home_default/tv-sapphire-pulse-amd-radeon-rx-7600-8gb.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "SAPPHIRE PULSE AMD Radeon™ RX 7600 8GBGPU: Reloj de refuerzo: hasta 2755 MHz GPU: Reloj de juego: hasta 2355 MHz Memoria: 8GB/DDR6 de 128 bits. 18 Gbps efectivos Procesadores de flujo: 2048 Arquitectura RDNA™ 3 Acelerador de rayos: 32",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 359900
+        }
+      ]
+    },
+    {
+      "id": "6e8387b838842a3e",
+      "name": "FUENTE DE PODER CLIO GS-650 BLACK (650W) 80P WHITE",
+      "category": "psu",
+      "price": 43900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/potencia-realcertificadas/2536-fuente-de-poder-clio-gs-650-black-650w-80p-white.html",
+      "image": "https://www.alltec.cl/12975-home_default/fuente-de-poder-clio-gs-650-black-650w-80p-white.jpg",
+      "inStock": true,
+      "previousRetailPrice": 49900,
+      "description": "Fuente de Poder CLIO GS-650W (BLACK) 80 Plus White CARACTERÍSTICAS:Certificación: 80 Plus White. Eficiencia Energética: 80% al 20% de carga, 85% al 50% de carga y 80% al 100% de carga. Compatibilidad: ATX 12V v2.3, EPS 12V v2.91 y SSI EPS 12V 2.92. Entrada de Voltaje: 240V con Corrección de Factor de Potencia Activa (APFC). Rail +12V: Rail único....",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 43900
+        }
+      ]
+    },
+    {
+      "id": "5509e445860c47b4",
+      "name": "FUENTE DE PODER CLIO GS-650 WHITE (650W) 80P WHITE",
+      "category": "psu",
+      "price": 45900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/potencia-realcertificadas/2537-fuente-de-poder-clio-gs-650-white-650w-80p-white.html",
+      "image": "https://www.alltec.cl/12974-home_default/fuente-de-poder-clio-gs-650-white-650w-80p-white.jpg",
+      "inStock": true,
+      "previousRetailPrice": 50900,
+      "description": "Fuente de Poder CLIO GS-650W WHITE 80 Plus White CARACTERÍSTICAS:Certificación: 80 Plus White. Eficiencia Energética: 80% al 20% de carga, 85% al 50% de carga y 80% al 100% de carga. Compatibilidad: ATX 12V v2.3, EPS 12V v2.91 y SSI EPS 12V 2.92. Entrada de Voltaje: 240V con Corrección de Factor de Potencia Activa (APFC). Rail +12V: Rail único....",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 45900
+        }
+      ]
+    },
+    {
+      "id": "7d89f23f3f112e46",
+      "name": "FUENTE DE PODER XIGMATEK SPECTRUM 700 (700W) 80 PLUS WHITE",
+      "category": "psu",
+      "price": 59900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/potencia-realcertificadas/1438-fuente-de-poder-xigmatek-spectrum-700-700w-80-plus-white.html",
+      "image": "https://www.alltec.cl/8121-home_default/fuente-de-poder-xigmatek-spectrum-700-700w-80-plus-white.jpg",
+      "inStock": true,
+      "previousRetailPrice": 84900,
+      "description": "Spectrum 700W  (NRP-MC751, 230V, 230V, ventilador RGB de 120 mm, 80+ White)80% de eficiencia en cualquier carga del sistema. Capaz de trabajar en un entorno de 220 V a 240 V. La capacidad de corriente mejorada de + 12V amplía las posibilidades de utilización. Reducir la pérdida de línea y la distorsión de potencia. Proporciona un excelente enfriamiento...",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 59900
+        }
+      ]
+    },
+    {
+      "id": "ee82bde5041a43fb",
+      "name": "FUENTE DE PODER AZZA 650W 80 PLUS BRONZE (Digital RGB)",
+      "category": "psu",
+      "price": 62900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/potencia-realcertificadas/2455-fuente-de-poder-azza-650w-80-plus-bronze-digital-rgb-4712839557285.html",
+      "image": "https://www.alltec.cl/12658-home_default/fuente-de-poder-azza-650w-80-plus-bronze-digital-rgb.jpg",
+      "inStock": true,
+      "previousRetailPrice": 73900,
+      "description": "AZZA 650W BRONZEIntel ATX12V Certificado 80PLUS® Bronze Componentes de alta calidad Entrada de CA universal de 100V-240V / 200V-240V Ventilador de 120 mm: funcionamiento silencioso en una amplia gama de cargas Los cables planos duraderos le brindan espacios limpios y ordenados Protección: UVP, OVP, OPP, OCP, SCP Seguridad: FCC, CE, TUV, RoHS, RCM",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 62900
+        }
+      ]
+    },
+    {
+      "id": "c12b8c6986c13c00",
+      "name": "GABINETE CLIO M3 TG (M-ATX) (USB/AUD FRONTAL)",
+      "category": "case",
+      "price": 26900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/sin-fuente-de-poder/2534-gabinete-clio-m3-tg-m-atx-usbaud-frontal.html",
+      "image": "https://www.alltec.cl/12982-home_default/gabinete-clio-m3-tg-m-atx-usbaud-frontal.jpg",
+      "inStock": true,
+      "previousRetailPrice": 29900,
+      "description": "Gabinete CLIO M3 TG Micro ATX Mid-Tower con Vidrio Templado DISEÑO Y ESTÉTICA:Panel Lateral: Vidrio templado de alta calidad, diseñado para resaltar la configuración interna y los efectos de iluminación. Dimensiones del Gabinete: 420 x 247 x 452 mm (Estructura robusta y espaciosa para su categoría). Peso Neto: 5.7 kgs (Construcción sólida para...",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 26900
+        }
+      ]
+    },
+    {
+      "id": "6b8da70eb422c1ec",
+      "name": "GABINETE GAMEMAX EDGE (MATX)",
+      "category": "case",
+      "price": 33900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/sin-fuente-de-poder/2540-gabinete-gamemax-edge-matx.html",
+      "image": "https://www.alltec.cl/13012-home_default/gabinete-gamemax-edge-matx.jpg",
+      "inStock": true,
+      "previousRetailPrice": 39900,
+      "description": "GameMax EDGE (MATX) BLACK Mini Tower Caja Compacta para PCDiseño compacto - Compatible con placas base Micro ATX y Mini ITX. Refrigeración eficiente - Ventilador RGB de 120mm y panel de malla frontal para óptimo flujo de aire. Visibilidad clara - Panel lateral de vidrio templado para ver los componentes internos. Alta compatibilidad - Acomoda GPUs...",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 33900
+        }
+      ]
+    },
+    {
+      "id": "406c3edb2385265d",
+      "name": "GABINETE GAMEMAX INFINITY MINI WH (MATX)",
+      "category": "case",
+      "price": 41900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/sin-fuente-de-poder/2541-gabinete-gamemax-infinity-mini-wh-matx.html",
+      "image": "https://www.alltec.cl/13014-home_default/gabinete-gamemax-infinity-mini-wh-matx.jpg",
+      "inStock": true,
+      "previousRetailPrice": 49900,
+      "description": "GAMEMAX INFINITY MINI WH (MATX) (WHITE) (SIN FAN) Con soporte para 7 ventiladores (no incluidos), mini gabinete para PC gaming con 2 paneles de vidrio templado.La caja para juegos Infinity Mini está equipada con 2 paneles de vidrio templado de 3 mm de espesor, que permiten ver claramente la iluminación RGB y los componentes internos, creando una...",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 41900
+        }
+      ]
+    },
+    {
+      "id": "b6982c16bc8e4417",
+      "name": "GABINETE ANTEC VCX300 ARGB BLACK (ATX)",
+      "category": "case",
+      "price": 52900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/sin-fuente-de-poder/2512-gabinete-antec-vcx300-argb-black-atx.html",
+      "image": "https://www.alltec.cl/12907-home_default/gabinete-antec-vcx300-argb-black-atx.jpg",
+      "inStock": true,
+      "previousRetailPrice": 57900,
+      "description": "ANTEC VCX300 ARGB ATX CARACTERÍSTICAS:Diseño compacto con potente disipación de calor. Panel frontal y lateral de vidrio templado Vista panorámica de 270° con diseño de doble cámara Refrigeración vertical con entrada de aire masiva Ventiladores ARGB de 5 x 120 mm preinstalados Compatibilidad con placas base ATX, Micro ATX y Mini ITX",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 52900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 52900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 52900
+        }
+      ]
+    },
+    {
+      "id": "ff7b317b380dd93f",
+      "name": "CPU COOLER THERMALTAKE UX100 ARGB LIGHTING (CPU Intel y AMD)",
+      "category": "cooler",
+      "price": 20900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/cpu-cooler/1511-cpu-cooler-thermaltake-ux100-argb-lighting-cpu-intel-y-amd.html",
+      "image": "https://www.alltec.cl/8441-home_default/cpu-cooler-thermaltake-ux100-argb-lighting-cpu-intel-y-amd.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Thermaltake UX100 ARGB LIGHTING (CPU Intel y AMD) Disipador para CPU Thermaltake UX100 ARGB Lighting (Socket Intel y AMD) cuenta con 9 aspas de flujo de aire hasta 38,82 CFM, cojinete hidráulico y 16,8 millones de colores de 15 LEDs ARGB.",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 20900
+        }
+      ]
+    },
+    {
+      "id": "cbf9cf63429c21b0",
+      "name": "ALSEYE MAX M90-B (BLACK) (TDP 185W) (AMD/INTEL)",
+      "category": "cooler",
+      "price": 30900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/cpu-cooler/2279-alseye-max-m90-b-black-tdp-185w-amdintel.html",
+      "image": "https://www.alltec.cl/11770-home_default/alseye-max-m90-b-black-tdp-185w-amdintel.jpg",
+      "inStock": true,
+      "previousRetailPrice": 32900,
+      "description": "ALSEYE MAX M90-B (BLACK)Refrigeración de torres gemelas Cubierta superior ARGB Cuatro Heatpipes de tacto directo Admite múltiples plataformas (AMD/INTEL)",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 30900
+        }
+      ]
+    },
+    {
+      "id": "075e03dc09aff83b",
+      "name": "ALSEYE MAX M90-W (WHITE) (TDP 185W) (AMD/INTEL)",
+      "category": "cooler",
+      "price": 30900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/cpu-cooler/2280-alseye-max-m90-w-white-tdp-185w-amdintel.html",
+      "image": "https://www.alltec.cl/11780-home_default/alseye-max-m90-w-white-tdp-185w-amdintel.jpg",
+      "inStock": true,
+      "previousRetailPrice": 32900,
+      "description": "ALSEYE MAX M90-W (WHITE)Refrigeración de torres gemelas Cubierta superior ARGB Cuatro Heatpipes de tacto directo Admite múltiples plataformas (AMD/INTEL)",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 30900
+        }
+      ]
+    },
+    {
+      "id": "7ca0ee60284effa3",
+      "name": "CPU COOLER XIGMATEK AIR-KILLER S ARCTIC",
+      "category": "cooler",
+      "price": 33900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/cpu-cooler/2297-cpu-cooler-xigmatek-air-killer-s-arctic.html",
+      "image": "https://www.alltec.cl/11963-home_default/cpu-cooler-xigmatek-air-killer-s-arctic.jpg",
+      "inStock": true,
+      "previousRetailPrice": 39900,
+      "description": "XIGMATEK AIR KILLER S ARCTIC EN47932Soporte de CPU: Procesadores Intel®: LGA 20xx/1700/1200/115x - Procesadores AMD®: AM5/AM4/AM3 Dimensiones del producto: 128 x 76 x 160 mm (largo x ancho x alto) Dimensiones del disipador de calor: 128 x 50 x 155 mm (largo x ancho x alto) Material del disipador de calor: 4 tubos de calor/aletas de aluminio Dimensiones...",
+      "specs": {},
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 33900
+        }
+      ]
+    },
+    {
       "id": "1046d90827534680",
       "name": "Gabinete DeepCool CG580 4F V2",
       "category": "case",
@@ -50,7 +2146,7 @@
       "description": "El DeepCool CG580 4F V2 es un gabinete ATX/M-ATX/ITX de materiales ABS y SGCC con panel lateral de vidrio templado. Incluye 4 ventiladores ARGB PWM de 120mm preinstalados (3 laterales y 1 trasero) y puertos frontales USB 3.0 y USB-C. Color negro.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -98,6 +2194,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 78900
         }
       ]
@@ -116,7 +2216,7 @@
       "description": "La DeepCool LE240 V2 es una refrigeracion liquida AIO de 240mm en color negro, con 2 ventiladores y bomba integrada. Formato compacto ideal para gabinetes medianos que buscan buen rendimiento termico.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -164,6 +2264,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 75900
         }
       ]
@@ -182,7 +2286,7 @@
       "description": "La DeepCool LE240 WH V2 es una refrigeracion liquida AIO de 240mm en color blanco, con 2 ventiladores y bomba integrada. Formato compacto ideal para gabinetes medianos que buscan buen rendimiento termico.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -230,6 +2334,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 79900
         }
       ]
@@ -248,7 +2356,7 @@
       "description": "El DeepCool AK500 Digital Pro WH es un disipador de aire de torre simple con 5 heatpipes de cobre y pantalla digital que muestra la temperatura o frecuencia del CPU en tiempo real. Color blanco, ideal para configuraciones de uso general y gaming.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -296,6 +2404,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 84900
         }
       ]
@@ -314,7 +2426,7 @@
       "description": "La DeepCool PF500X, de la linea Gamer Storm, entrega 500W con certificacion 80+ Bronze, pensada para equipos gamer de entrada.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -362,6 +2474,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 40990
         }
       ]
@@ -380,7 +2496,7 @@
       "description": "La DeepCool PF600X, de la linea Gamer Storm, entrega 600W con certificacion 80+ Bronze, pensada para equipos gamer de entrada y media gama.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -428,6 +2544,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 45990
         }
       ]
@@ -446,7 +2566,7 @@
       "description": "La DeepCool PF700X, de la linea Gamer Storm, entrega 700W con certificacion 80+ Bronze, una opcion solida y accesible para equipos gamer de rango medio.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -494,6 +2614,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 52990
         }
       ]
@@ -512,7 +2636,7 @@
       "description": "La DeepCool PL650D entrega 650W con certificacion 80+ Bronze, garantizando un suministro electrico estable para equipos gamer y de uso general.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -560,6 +2684,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 59900
         }
       ]
@@ -582,7 +2710,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -614,6 +2742,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 449990
         }
       ]
@@ -636,7 +2768,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -668,6 +2800,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 289990
         }
       ]
@@ -690,7 +2826,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 2,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -722,6 +2858,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 249990
         }
       ]
@@ -744,7 +2884,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 2,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -776,6 +2916,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 199990
         }
       ]
@@ -798,7 +2942,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -830,6 +2974,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 169990
         }
       ]
@@ -852,7 +3000,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 19,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -884,6 +3032,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 499990
         }
       ]
@@ -906,7 +3058,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -938,6 +3090,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 549980
         }
       ]
@@ -960,7 +3116,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 2,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -993,56 +3149,10 @@
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
           "price": 514990
-        }
-      ]
-    },
-    {
-      "id": "f015e18884d075de",
-      "name": "Memoria RAM DDR5 16GB 6000MT/s Kingston FURY Beast Black, CL36, DIMM",
-      "category": "ram",
-      "price": 499990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/knf-16gb-6000mts-ddr5-dimm-fury-beast-black-expo-memory/",
-      "image": "https://media.spdigital.cl/thumbnails/products/7hd_le8r_6b66dbe5_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
-      "history": [
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 499990
         },
         {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 499990
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 514990
         }
       ]
     },
@@ -1064,7 +3174,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -1096,6 +3206,10 @@
         },
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
           "price": 349990
         }
       ]
@@ -1118,7 +3232,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 4,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T11:45:16.911495+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -1151,2008 +3265,12 @@
         {
           "date": "2026-10-23T11:45:16.911495+00:00",
           "price": 299990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 299990
         }
       ]
-    },
-    {
-      "id": "d97f13a285cb7313",
-      "name": "AMD RYZEN 3 4100 (MPK) 3.8GHz (4.0GHz TURBO) QUAD CORE (TDP 65W) (AM4)",
-      "category": "cpu",
-      "price": 74500,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2026-amd-ryzen-3-4100-mpk-38ghz-40ghz-turbo-quad-core-tdp-65w-am4-7123456789012.html",
-      "image": "https://www.alltec.cl/10615-home_default/amd-ryzen-3-4100-mpk-38ghz-40ghz-turbo-quad-core-tdp-65w-am4.jpg",
-      "inStock": true,
-      "previousRetailPrice": 109900,
-      "description": "AMD Ryzen™ 3 4100 MPK (AM4)Modelo de gráficos: Se requiere tarjeta gráfica discreta # de núcleos de CPU: 4 # de hilos: 8 Reloj de aumento máx.: Hasta 4.0GHz Reloj base: 3.8GHz Caché : 4MB Solución térmica (MPK): Wraith Stealth TDP/TDP predeterminado: 65W Presentación: OEM (CPU + DISIPADOR + STICKER AMD) Garantía: 01 Año",
-      "specs": {
-        "socket": "AM4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 74500
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 74500
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "6a351346e4d3a8b6",
-      "name": "3.6GHz INTEL I3-10100 (4.3GHz TURBO, 4C/8T, 6MB CACHE, 65W, LGA1200) 10MA GENERACION",
-      "category": "cpu",
-      "price": 120900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/intel/1214-6ghz-intel-i3-10100-43ghz-turbo-4c8t-6mb-cache-65w-lga1200-10ma-generacion.html",
-      "image": "https://www.alltec.cl/7176-home_default/6ghz-intel-i3-10100-43ghz-turbo-4c8t-6mb-cache-65w-lga1200-10ma-generacion.jpg",
-      "inStock": true,
-      "previousRetailPrice": 139900,
-      "description": "INTEL I3-10100 10MA GENERACIÓN (COMET LAKE-S)FRECUENCIA DEL PROCESADOR : 3.6 GHz FRECUENCIA TURBO MAXIMA : 4.3 GHz CANTIDAD DE NÚCLEOS : 4 CANTIDAD DE SUB PROCESOS : 8 CACHE : 6MB SMARTCACHE VELOCIDAD DE BUS : 8 GT / s DMI3 TDP : 65W  GRÁFICO INTEGRADO : Gráficos HD Intel® 630 4K COMPATIBLE A 60Hz",
-      "specs": {
-        "socket": "1200"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 120900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 120900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "81f7b117d9fed4cb",
-      "name": "AMD RYZEN 3 5300G 4.0GHz (4.2GHz TURBO) QUAD CORE (TDP 65W) (AM4)",
-      "category": "cpu",
-      "price": 125900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2194-amd-ryzen-3-5300g-40ghz-42ghz-turbo-quad-core-tdp-65w-am4.html",
-      "image": "https://www.alltec.cl/11967-home_default/amd-ryzen-3-5300g-40ghz-42ghz-turbo-quad-core-tdp-65w-am4.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 3 5300GModelo de gráficos: AMD Radeon™ Graphics, 6 Core, 1700 MHz # de núcleos de CPU: 4 # de hilos: 8 Reloj de aumento máx.: Hasta 4.2GHz Reloj base: 4.0GHz Cache L3: 8MB Solución térmica (PIB): AMD Wraith Stealth TDP/TDP predeterminado: 65W Socket: AM4",
-      "specs": {
-        "socket": "AM4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 125900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 125900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "657d19d4a0620bdc",
-      "name": "3.3GHz INTEL I3-12100F (4.3GHz TURBO, 4C/8T, 12MB CACHE, 65W, LGA1700, SIN VIDEO) 12TH GENERACION",
-      "category": "cpu",
-      "price": 139900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/intel/1851-3ghz-intel-i3-12100f-43ghz-turbo-4c8t-12mb-cache-65w-lga1700-sin-video-12th-generacion.html",
-      "image": "https://www.alltec.cl/9824-home_default/3ghz-intel-i3-12100f-43ghz-turbo-4c8t-12mb-cache-65w-lga1700-sin-video-12th-generacion.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "INTEL I3-12100F 12TH GENERACIÓN (ALDER LAKE-S)FRECUENCIA DEL PROCESADOR : 3.3GHz FRECUENCIA TURBO MAXIMA : 4.3 GHz CANTIDAD DE NÚCLEOS : 4 CANTIDAD DE SUB PROCESOS : 8 CACHE : 12MB SMARTCACHE VELOCIDAD DE BUS : 8 GT / s DMI3 TDP : 65W  GRÁFICO INTEGRADO : Requiere Tarjeta Video",
-      "specs": {
-        "socket": "1700"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 139900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 139900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "d45d0174e59e686d",
-      "name": "M.B. ASUS PRIME A520M-K (AM4) DDR4 (RYZEN 5000)",
-      "category": "motherboard",
-      "price": 59900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/1333-mb-asus-prime-a520m-k-am4-ddr4-ryzen-5000.html",
-      "image": "https://www.alltec.cl/11517-home_default/mb-asus-prime-a520m-k-am4-ddr4-ryzen-5000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 69900,
-      "description": "ASUS PRIME A520M-KTarjeta Madre micro ATX AMD A520 (Ryzen AM4) con soporte M.2, Ethernet de 1 Gb, HDMI / D-Sub, SATA 6 Gbps, USB 3.2 Gen 1 Tipo A Socket AMD AM4: Listo para procesadores de escritorio Ryzen™ 5000 Series / 4000 G-Series / 3000 Series. Enfriamiento completo: Disipador de Chipset y Fan Xpert. Conectividad ultrarrápida: Compatibilidad con...",
-      "specs": {
-        "socket": "AM4",
-        "memory": "DDR4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 59900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "1f66dd825051090b",
-      "name": "M.B. ASUS PRIME H610M-F D4 R2.0 (LGA1700) DDR4 (INTEL 14ª/13ª/12ª GENERACIÓN)",
-      "category": "motherboard",
-      "price": 84900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-intel/2484-mb-asus-prime-h610m-f-d4-r20-lga1700-ddr4-intel-141312-generacion.html",
-      "image": "https://www.alltec.cl/12811-home_default/mb-asus-prime-h610m-f-d4-r20-lga1700-ddr4-intel-141312-generacion.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "ASUS PRIME H610M-F D4 R2.0, una tarjeta madre micro-ATX Intel® H610 LGA 1700 con PCIe 4.0, ranura M.2, DDR4, Ethernet Realtek 1Gb, HDMI™, SATA 6 Gbps, puertos USB 5GbpsSocket Intel® LGA 1700: Compatible con procesadores Intel® de 14a, 13a y 12a generación Conectividad ultrarrápida: Ranura M.2 de 32 Gbps, Ethernet Realtek 1Gb y soporte USB 5Gbps...",
-      "specs": {
-        "socket": "1700",
-        "memory": "DDR4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 84900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "7e4c59fcac0e85dd",
-      "name": "M.B. MSI B550M-A PRO (AM4) 2xDDR4 (RYZEN 5000)",
-      "category": "motherboard",
-      "price": 85900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/1657-mb-msi-b550m-a-pro-am4-2xddr4-ryzen-5000.html",
-      "image": "https://www.alltec.cl/12587-home_default/mb-msi-b550m-a-pro-am4-2xddr4-ryzen-5000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 104900,
-      "description": "MSI B550M-A PROSoporta procesadores 3ra Gen AMD Ryzen™ Desktop y procesadores AMD Ryzen™ 4000 / 5000 G-Series Desktop Soporta memoria DDR4 hasta 4600(OC) MHz Experiencia ultrarrápida: PCIe 4.0, Lightning Gen4 x4 M.2 Core Boost: Con distribución premium y diseño energético digital que soporta más núcleos y ofrece un mejor desempeño DDR4 Boost: Tecnología...",
-      "specs": {
-        "socket": "AM4",
-        "memory": "DDR4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 85900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "73581b2ff860f13d",
-      "name": "M.B. ASUS PRIME A620M-K (AM5) DDR5 (RYZEN 7000/8000/9000)",
-      "category": "motherboard",
-      "price": 90900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/2461-mb-asus-prime-a620m-k-am5-ddr5-ryzen-700080009000.html",
-      "image": "https://www.alltec.cl/12690-home_default/mb-asus-prime-a620m-k-am5-ddr5-ryzen-700080009000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 95900,
-      "description": "Placa Madre AMD A620 micro-ATX, DDR5, PCIe 4.0 para VGA y compatibilidad con PCIe 4.0 M.2, DisplayPort, HDMI™, USB 3.2 Gen 1 Tipo-A, SATA 6 Gbps, cancelación de ruido AI bidireccional, Aura SyncSocket AMD AM5 : Listo para AMD procesadores de escritorio AMD Ryzen™. Conectividad ultrarrápida: PCIe 4.0, puerto M.2 de 64 Gbps, Realtek Ethernet de 1 Gb, USB...",
-      "specs": {
-        "socket": "AM5",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 90900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 90900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "744e6ba30848c221",
-      "name": "8GB DDR5 5600MHz UDIMM MACROVIP MAX MVX56N46/8",
-      "category": "ram",
-      "price": 134900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/ddr5/2530-8gb-ddr5-5600mhz-udimm-macrovip-max-mvx56n468.html",
-      "image": "https://www.alltec.cl/12949-home_default/8gb-ddr5-5600mhz-udimm-macrovip-max-mvx56n468.jpg",
-      "inStock": true,
-      "previousRetailPrice": 154900,
-      "description": "Memoria Udimm Gamer Macrovip Max Ddr5 8Gb 5600Mhz Con Disipador - Mvx56N46/8Memoria DDR5 de alta velocidad a 5600MHz Capacidad de 8GB para multitarea sin interrupciones Incluye un disipador para una gestión térmica óptima Diseñada para gamers y profesionales creativos Compatibilidad asegurada con las últimas plataformas",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 134900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 134900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "07123c5535b8306c",
-      "name": "8GB DDR4 3000MHz CL16 A-DATA XPG SPECTRIX D41 (AX4U300038G16-ST41)",
-      "category": "ram",
-      "price": 42900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/ddr4/1119-8gb-ddr4-3000mhz-cl16-a-data-xpg-spectrix-d41-ax4u300038g16-st41.html",
-      "image": "https://www.alltec.cl/6616-home_default/8gb-ddr4-3000mhz-cl16-a-data-xpg-spectrix-d41-ax4u300038g16-st41.jpg",
-      "inStock": false,
-      "previousRetailPrice": 51900,
-      "description": "SPECTRIX D41 DDR4 RGBImpresionante rendimiento y estilo ● Deslumbrar con la iluminación RGB● Personalizar su estilo● Seguir el rendimiento● Calidad de la que puede depender● Aumento sencillo de la velocidad del reloj con Intel® XMP 2.0● Prepárese para el control RGB con la instalación rápida y gratuita de una aplicación",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 42900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "d13a956f4d089118",
-      "name": "8GB DDR4 3200MHz KINGSTON FURY BEAST CL17 (KF432C16BB/8)",
-      "category": "ram",
-      "price": 42900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/ddr4/1974-8gb-ddr4-3200mhz-kingston-fury-beast-cl17-kf432c16bb8.html",
-      "image": "https://www.alltec.cl/10401-home_default/8gb-ddr4-3200mhz-kingston-fury-beast-cl17-kf432c16bb8.jpg",
-      "inStock": false,
-      "previousRetailPrice": null,
-      "description": "Kingston FURY KF432C16BB/8 es un DDR4-3200 de 1G x 64 bits (8GB) CL16 SDRAM (DRAM síncrona) 1Rx8, módulo de memoria, basado en ocho componentes FBGA de 1G x 8 bits por módulo. Cada módulo el kit es compatible con los perfiles de memoria Intel® Extreme (Intel® XMP) 2.0. Cada módulo ha sido probado para ejecutarse en DDR4-3200 a un bajo temporización de...",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 42900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 42900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "150d3b1bfb1ac877",
-      "name": "8GB DDR4 3000MHz CL16 A-DATA XPG SPECTRIX D60G (AX4U300038G16A-ST60)",
-      "category": "ram",
-      "price": 45900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/ddr4/1205-8gb-ddr4-3000mhz-cl16-a-data-xpg-spectrix-d60g-ax4u300038g16a-st60.html",
-      "image": "https://www.alltec.cl/7145-home_default/8gb-ddr4-3000mhz-cl16-a-data-xpg-spectrix-d60g-ax4u300038g16a-st60.jpg",
-      "inStock": false,
-      "previousRetailPrice": 49900,
-      "description": "SPECTRIX D60G DDR4 RGB (CL16-20-20 1.35V)Estable, duradera y confiable El módulo de memoria D60G está fabricado con chips de alta calidad y un disipador de calor metálico que proporciona una integridad, confiabilidad y estabilidad de la señal excelentes, lo que prolonga de manera efectiva la vida útil de dicho módulo.ILUMINE EL CAMPO DE BATALLA ●...",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 45900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "d5bf054866bd964f",
-      "name": "256GB SSD SATA3 6Gb/s TEAMGROUP CX2 T253X6256G0C101",
-      "category": "ssd",
-      "price": 56900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/ssd/2437-256gb-ssd-sata3-6gbs-teamgroup-cx2-t253x6256g0c101.html",
-      "image": "https://www.alltec.cl/12607-home_default/256gb-ssd-sata3-6gbs-teamgroup-cx2-t253x6256g0c101.jpg",
-      "inStock": true,
-      "previousRetailPrice": 69900,
-      "description": "TEAMGROUP CX2 SSD 256GBUn artículo imprescindible para los principiantes que quieran reemplazar su disco duro mecánico tradicional Tecnología avanzada de almacenamiento en caché SLC Resistente a impactos y caídas para un uso seguro La función del código de corrección de errores (del inglés ECC, Error Correction Code) mejora la eficacia",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 56900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 56900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "8a6ff493f5247dec",
-      "name": "512GB SSD SATA3 6Gb/s MACROVIP MV512GB",
-      "category": "ssd",
-      "price": 85900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/ssd/2531-512gb-ssd-sata3-6gbs-macrovip-mv512gb.html",
-      "image": "https://www.alltec.cl/12950-home_default/512gb-ssd-sata3-6gbs-macrovip-mv512gb.jpg",
-      "inStock": true,
-      "previousRetailPrice": 99900,
-      "description": "SSD Macrovip Premium 512GB 2.5″ SATA 3 – MV512GB La unidad SSD Macrovip Premium de 2,5″ garantiza un rendimiento rápido y fiable para su ordenador. Con velocidades de lectura de hasta 520 Mb/s y de escritura de hasta 450 Mb/s, disfrutarás de un arranque instantáneo, una carga rápida de aplicaciones y una veloz transferencia de datos.",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 85900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 85900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "b129177623e9ec41",
-      "name": "512GB SSD SATA3 6Gb/s TEAMGROUP CX2 T253X6512G0C101",
-      "category": "ssd",
-      "price": 99900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/ssd/2438-512gb-ssd-sata3-6gbs-teamgroup-cx2-t253x6512g0c101.html",
-      "image": "https://www.alltec.cl/12608-home_default/512gb-ssd-sata3-6gbs-teamgroup-cx2-t253x6512g0c101.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "TEAMGROUP CX2 SSD 512GBUn artículo imprescindible para los principiantes que quieran reemplazar su disco duro mecánico tradicional Tecnología avanzada de almacenamiento en caché SLC Resistente a impactos y caídas para un uso seguro La función del código de corrección de errores (del inglés ECC, Error Correction Code) mejora la eficacia",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 99900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "0573806b0c628352",
-      "name": "480GB SSD SATA 6Gb/s ADATA SU650 3D (ASU650SS-480GT-R)",
-      "category": "ssd",
-      "price": 99900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/ssd/2407-480gb-ssd-sata-6gbs-adata-su650-3d-asu650ss-480gt-r.html",
-      "image": "https://www.alltec.cl/12437-home_default/480gb-ssd-sata-6gbs-adata-su650-3d-asu650ss-480gt-r.jpg",
-      "inStock": true,
-      "previousRetailPrice": 109900,
-      "description": "ADATA SU650 480GBSi está buscando reemplazar ese disco duro suyo con un SSD, no busque más que el ADATA SU650. El SSD ofrece un valor increíble y un gran rendimiento. También viene con excelentes características como la tecnología LDPC ECC.",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 99900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 99900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "dd0787b0c3dc5535",
-      "name": "T.V. ASUS DUAL GEFORCE RTX 3050 OC EDITION 6GB GDDR6",
-      "category": "gpu",
-      "price": 279900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/nvidia/2246-tv-asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6.html",
-      "image": "https://www.alltec.cl/11661-home_default/tv-asus-dual-geforce-rtx-3050-oc-edition-6gb-gddr6.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "ASUS Dual GeForce RTX™ 3050 OC Edition 6GB GDDR6 con dos potentes ventiladores Rendimiento de juegos AAA y trazado de rayosMultiprocesadores de transmisión NVIDIA Ampere: el nuevo Ampere SM ofrece el doble de rendimiento del FP32 y una eficiencia energética mejorada. Núcleos RT de 2.ª generación: experimente el doble de rendimiento que los núcleos...",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 279900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "505524d4fb44a9c7",
-      "name": "T.V. MSI GEFORCE RTX 3050 LP 6G OC",
-      "category": "gpu",
-      "price": 289900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/nvidia/2477-tv-msi-geforce-rtx-3050-lp-6g-oc.html",
-      "image": "https://www.alltec.cl/12781-home_default/tv-msi-geforce-rtx-3050-lp-6g-oc.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "MSI RTX 3050 LP 6G OC LOW PROFILE (PERFIL BAJO) GeForce RTX™ 3050 LP 6G OCLa GeForce RTX™ 3050 de 6 GB está diseñada con la arquitectura NVIDIA Ampere, que incluye núcleos de trazado de rayos dedicados, núcleos de tensor de IA y memoria G6 de alta velocidad. Pásate a GeForce RTX. Reloj Boost / Velocidad de memoria1492 MHz / 14 Gbps 6GB GDDR6...",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 289900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 289900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "7d20e021747e98c0",
-      "name": "T.V. EVGA GEFORCE GTX 1660 SUPER SC ULTRA GAMING 6GB GDDR6 (06G-P4-1068-KR)",
-      "category": "gpu",
-      "price": 314900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/nvidia/1702-tv-evga-geforce-gtx-1660-super-sc-ultra-gaming-6gb-gddr6-06g-p4-1068-kr.html",
-      "image": "https://www.alltec.cl/9152-home_default/tv-evga-geforce-gtx-1660-super-sc-ultra-gaming-6gb-gddr6-06g-p4-1068-kr.jpg",
-      "inStock": true,
-      "previousRetailPrice": 579900,
-      "description": "EVGA GeForce GTX 1660 SUPER SC ULTRA GAMING (06G-P4-1068-KR) 6GB GDDR6, Dual Fan, Metal Backplate Las tarjetas gráficas EVGA GeForce GTX serie 16 están impulsadas por la nueva arquitectura NVIDIA Turing para brindarle nuevos e increíbles niveles de realismo, velocidad, eficiencia energética e inmersión en los juegos. Con las tarjetas de juego EVGA GeForce...",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 314900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 314900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "dbc80633d6eac83a",
-      "name": "T.V. SAPPHIRE PULSE AMD RADEON™ RX 7600 8GB",
-      "category": "gpu",
-      "price": 359900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2210-tv-sapphire-pulse-amd-radeon-rx-7600-8gb.html",
-      "image": "https://www.alltec.cl/11537-home_default/tv-sapphire-pulse-amd-radeon-rx-7600-8gb.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "SAPPHIRE PULSE AMD Radeon™ RX 7600 8GBGPU: Reloj de refuerzo: hasta 2755 MHz GPU: Reloj de juego: hasta 2355 MHz Memoria: 8GB/DDR6 de 128 bits. 18 Gbps efectivos Procesadores de flujo: 2048 Arquitectura RDNA™ 3 Acelerador de rayos: 32",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 359900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 359900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "6e8387b838842a3e",
-      "name": "FUENTE DE PODER CLIO GS-650 BLACK (650W) 80P WHITE",
-      "category": "psu",
-      "price": 43900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/potencia-realcertificadas/2536-fuente-de-poder-clio-gs-650-black-650w-80p-white.html",
-      "image": "https://www.alltec.cl/12975-home_default/fuente-de-poder-clio-gs-650-black-650w-80p-white.jpg",
-      "inStock": true,
-      "previousRetailPrice": 49900,
-      "description": "Fuente de Poder CLIO GS-650W (BLACK) 80 Plus White CARACTERÍSTICAS:Certificación: 80 Plus White. Eficiencia Energética: 80% al 20% de carga, 85% al 50% de carga y 80% al 100% de carga. Compatibilidad: ATX 12V v2.3, EPS 12V v2.91 y SSI EPS 12V 2.92. Entrada de Voltaje: 240V con Corrección de Factor de Potencia Activa (APFC). Rail +12V: Rail único....",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 43900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 43900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "5509e445860c47b4",
-      "name": "FUENTE DE PODER CLIO GS-650 WHITE (650W) 80P WHITE",
-      "category": "psu",
-      "price": 45900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/potencia-realcertificadas/2537-fuente-de-poder-clio-gs-650-white-650w-80p-white.html",
-      "image": "https://www.alltec.cl/12974-home_default/fuente-de-poder-clio-gs-650-white-650w-80p-white.jpg",
-      "inStock": true,
-      "previousRetailPrice": 50900,
-      "description": "Fuente de Poder CLIO GS-650W WHITE 80 Plus White CARACTERÍSTICAS:Certificación: 80 Plus White. Eficiencia Energética: 80% al 20% de carga, 85% al 50% de carga y 80% al 100% de carga. Compatibilidad: ATX 12V v2.3, EPS 12V v2.91 y SSI EPS 12V 2.92. Entrada de Voltaje: 240V con Corrección de Factor de Potencia Activa (APFC). Rail +12V: Rail único....",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 45900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 45900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "7d89f23f3f112e46",
-      "name": "FUENTE DE PODER XIGMATEK SPECTRUM 700 (700W) 80 PLUS WHITE",
-      "category": "psu",
-      "price": 59900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/potencia-realcertificadas/1438-fuente-de-poder-xigmatek-spectrum-700-700w-80-plus-white.html",
-      "image": "https://www.alltec.cl/8121-home_default/fuente-de-poder-xigmatek-spectrum-700-700w-80-plus-white.jpg",
-      "inStock": true,
-      "previousRetailPrice": 84900,
-      "description": "Spectrum 700W  (NRP-MC751, 230V, 230V, ventilador RGB de 120 mm, 80+ White)80% de eficiencia en cualquier carga del sistema. Capaz de trabajar en un entorno de 220 V a 240 V. La capacidad de corriente mejorada de + 12V amplía las posibilidades de utilización. Reducir la pérdida de línea y la distorsión de potencia. Proporciona un excelente enfriamiento...",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 59900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "ee82bde5041a43fb",
-      "name": "FUENTE DE PODER AZZA 650W 80 PLUS BRONZE (Digital RGB)",
-      "category": "psu",
-      "price": 62900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/potencia-realcertificadas/2455-fuente-de-poder-azza-650w-80-plus-bronze-digital-rgb-4712839557285.html",
-      "image": "https://www.alltec.cl/12658-home_default/fuente-de-poder-azza-650w-80-plus-bronze-digital-rgb.jpg",
-      "inStock": true,
-      "previousRetailPrice": 73900,
-      "description": "AZZA 650W BRONZEIntel ATX12V Certificado 80PLUS® Bronze Componentes de alta calidad Entrada de CA universal de 100V-240V / 200V-240V Ventilador de 120 mm: funcionamiento silencioso en una amplia gama de cargas Los cables planos duraderos le brindan espacios limpios y ordenados Protección: UVP, OVP, OPP, OCP, SCP Seguridad: FCC, CE, TUV, RoHS, RCM",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 62900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 62900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "c12b8c6986c13c00",
-      "name": "GABINETE CLIO M3 TG (M-ATX) (USB/AUD FRONTAL)",
-      "category": "case",
-      "price": 26900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/sin-fuente-de-poder/2534-gabinete-clio-m3-tg-m-atx-usbaud-frontal.html",
-      "image": "https://www.alltec.cl/12982-home_default/gabinete-clio-m3-tg-m-atx-usbaud-frontal.jpg",
-      "inStock": true,
-      "previousRetailPrice": 29900,
-      "description": "Gabinete CLIO M3 TG Micro ATX Mid-Tower con Vidrio Templado DISEÑO Y ESTÉTICA:Panel Lateral: Vidrio templado de alta calidad, diseñado para resaltar la configuración interna y los efectos de iluminación. Dimensiones del Gabinete: 420 x 247 x 452 mm (Estructura robusta y espaciosa para su categoría). Peso Neto: 5.7 kgs (Construcción sólida para...",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 26900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 26900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "6b8da70eb422c1ec",
-      "name": "GABINETE GAMEMAX EDGE (MATX)",
-      "category": "case",
-      "price": 33900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/sin-fuente-de-poder/2540-gabinete-gamemax-edge-matx.html",
-      "image": "https://www.alltec.cl/13012-home_default/gabinete-gamemax-edge-matx.jpg",
-      "inStock": true,
-      "previousRetailPrice": 39900,
-      "description": "GameMax EDGE (MATX) BLACK Mini Tower Caja Compacta para PCDiseño compacto - Compatible con placas base Micro ATX y Mini ITX. Refrigeración eficiente - Ventilador RGB de 120mm y panel de malla frontal para óptimo flujo de aire. Visibilidad clara - Panel lateral de vidrio templado para ver los componentes internos. Alta compatibilidad - Acomoda GPUs...",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 33900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "406c3edb2385265d",
-      "name": "GABINETE GAMEMAX INFINITY MINI WH (MATX)",
-      "category": "case",
-      "price": 41900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/sin-fuente-de-poder/2541-gabinete-gamemax-infinity-mini-wh-matx.html",
-      "image": "https://www.alltec.cl/13014-home_default/gabinete-gamemax-infinity-mini-wh-matx.jpg",
-      "inStock": true,
-      "previousRetailPrice": 49900,
-      "description": "GAMEMAX INFINITY MINI WH (MATX) (WHITE) (SIN FAN) Con soporte para 7 ventiladores (no incluidos), mini gabinete para PC gaming con 2 paneles de vidrio templado.La caja para juegos Infinity Mini está equipada con 2 paneles de vidrio templado de 3 mm de espesor, que permiten ver claramente la iluminación RGB y los componentes internos, creando una...",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 41900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 41900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "b6982c16bc8e4417",
-      "name": "GABINETE ANTEC VCX300 ARGB BLACK (ATX)",
-      "category": "case",
-      "price": 52900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/sin-fuente-de-poder/2512-gabinete-antec-vcx300-argb-black-atx.html",
-      "image": "https://www.alltec.cl/12907-home_default/gabinete-antec-vcx300-argb-black-atx.jpg",
-      "inStock": true,
-      "previousRetailPrice": 57900,
-      "description": "ANTEC VCX300 ARGB ATX CARACTERÍSTICAS:Diseño compacto con potente disipación de calor. Panel frontal y lateral de vidrio templado Vista panorámica de 270° con diseño de doble cámara Refrigeración vertical con entrada de aire masiva Ventiladores ARGB de 5 x 120 mm preinstalados Compatibilidad con placas base ATX, Micro ATX y Mini ITX",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 52900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 52900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "ff7b317b380dd93f",
-      "name": "CPU COOLER THERMALTAKE UX100 ARGB LIGHTING (CPU Intel y AMD)",
-      "category": "cooler",
-      "price": 20900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/cpu-cooler/1511-cpu-cooler-thermaltake-ux100-argb-lighting-cpu-intel-y-amd.html",
-      "image": "https://www.alltec.cl/8441-home_default/cpu-cooler-thermaltake-ux100-argb-lighting-cpu-intel-y-amd.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Thermaltake UX100 ARGB LIGHTING (CPU Intel y AMD) Disipador para CPU Thermaltake UX100 ARGB Lighting (Socket Intel y AMD) cuenta con 9 aspas de flujo de aire hasta 38,82 CFM, cojinete hidráulico y 16,8 millones de colores de 15 LEDs ARGB.",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 20900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 20900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "cbf9cf63429c21b0",
-      "name": "ALSEYE MAX M90-B (BLACK) (TDP 185W) (AMD/INTEL)",
-      "category": "cooler",
-      "price": 30900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/cpu-cooler/2279-alseye-max-m90-b-black-tdp-185w-amdintel.html",
-      "image": "https://www.alltec.cl/11770-home_default/alseye-max-m90-b-black-tdp-185w-amdintel.jpg",
-      "inStock": true,
-      "previousRetailPrice": 32900,
-      "description": "ALSEYE MAX M90-B (BLACK)Refrigeración de torres gemelas Cubierta superior ARGB Cuatro Heatpipes de tacto directo Admite múltiples plataformas (AMD/INTEL)",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 30900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "075e03dc09aff83b",
-      "name": "ALSEYE MAX M90-W (WHITE) (TDP 185W) (AMD/INTEL)",
-      "category": "cooler",
-      "price": 30900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/cpu-cooler/2280-alseye-max-m90-w-white-tdp-185w-amdintel.html",
-      "image": "https://www.alltec.cl/11780-home_default/alseye-max-m90-w-white-tdp-185w-amdintel.jpg",
-      "inStock": true,
-      "previousRetailPrice": 32900,
-      "description": "ALSEYE MAX M90-W (WHITE)Refrigeración de torres gemelas Cubierta superior ARGB Cuatro Heatpipes de tacto directo Admite múltiples plataformas (AMD/INTEL)",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 30900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 30900
-        }
-      ],
-      "stale": true
-    },
-    {
-      "id": "7ca0ee60284effa3",
-      "name": "CPU COOLER XIGMATEK AIR-KILLER S ARCTIC",
-      "category": "cooler",
-      "price": 33900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/cpu-cooler/2297-cpu-cooler-xigmatek-air-killer-s-arctic.html",
-      "image": "https://www.alltec.cl/11963-home_default/cpu-cooler-xigmatek-air-killer-s-arctic.jpg",
-      "inStock": true,
-      "previousRetailPrice": 39900,
-      "description": "XIGMATEK AIR KILLER S ARCTIC EN47932Soporte de CPU: Procesadores Intel®: LGA 20xx/1700/1200/115x - Procesadores AMD®: AM5/AM4/AM3 Dimensiones del producto: 128 x 76 x 160 mm (largo x ancho x alto) Dimensiones del disipador de calor: 128 x 50 x 155 mm (largo x ancho x alto) Material del disipador de calor: 4 tubos de calor/aletas de aluminio Dimensiones...",
-      "specs": {},
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 33900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 33900
-        }
-      ],
-      "stale": true
     },
     {
       "id": "d7a9b09b95fc99ed",
@@ -3188,7 +3306,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3221,9 +3339,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 299900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 299900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "0b7039e308b41789",
@@ -3241,7 +3362,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3274,9 +3395,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 277900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 277900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "a18d049fadec00e6",
@@ -3294,7 +3418,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3327,9 +3451,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 329900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 329900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "b69cd1a27121d022",
@@ -3347,7 +3474,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3380,9 +3507,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 229900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 229900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "a1cadb7f19586092",
@@ -3400,7 +3530,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3433,9 +3563,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 287500
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 287500
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "cea2d59bfc057e2e",
@@ -3453,7 +3586,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3486,9 +3619,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 229900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 229900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "99fb9c955a8487c8",
@@ -3506,7 +3642,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3539,9 +3675,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 329900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 329900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "430bd5a744b8ab13",
@@ -3559,7 +3698,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3592,9 +3731,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 398900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 398900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "2dac11533f3d1982",
@@ -3612,7 +3754,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3645,9 +3787,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 279900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 279900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "bea157493f425a9e",
@@ -3665,7 +3810,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3698,9 +3843,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 348900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 348900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "fe9a6f0fc60978df",
@@ -3718,7 +3866,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3751,9 +3899,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 458900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 458900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "6d64bd25668e53ce",
@@ -3789,7 +3940,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3822,9 +3973,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 264500
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 264500
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "ab10e833b8d605c7",
@@ -3860,7 +4014,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3893,9 +4047,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 154900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 154900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "319a4deace6bb6c9",
@@ -3922,7 +4079,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -3955,9 +4112,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 135900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 135900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "1a44adc39c38f2cb",
@@ -3975,7 +4135,7 @@
         "socket": "AM4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -4008,9 +4168,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 346900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 346900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "d3ec2bddbf8709aa",
@@ -4046,7 +4209,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -4079,9 +4242,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 109000
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 109000
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "ea4f796613171858",
@@ -4108,7 +4274,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -4141,9 +4307,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 128900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 128900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "aa5dbdbea8e7c342",
@@ -4179,7 +4348,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -4212,9 +4381,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 181000
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 181000
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "e163cc2c0440067b",
@@ -4241,7 +4413,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -4274,9 +4446,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 298900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 298900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "ef5e2191ae4f6f0a",
@@ -4294,7 +4469,7 @@
         "socket": "1851"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -4327,9 +4502,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 329900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 329900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "9823eda9447c0d01",
@@ -4356,7 +4534,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -4389,9 +4567,12 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 299900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 299900
         }
-      ],
-      "stale": true
+      ]
     },
     {
       "id": "1b264494162cd188",
@@ -4418,7 +4599,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-23T04:58:17.794766+00:00",
+      "checkedAt": "2026-10-23T17:13:55.527459+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -4451,60 +4632,14 @@
         {
           "date": "2026-10-23T04:58:17.794766+00:00",
           "price": 158900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 158900
         }
-      ],
-      "stale": true
+      ]
     }
   ],
-  "errors": [
-    {
-      "key": "alltec:cpu",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:cpu",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:motherboard",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:motherboard",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:ram",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:ram",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:ssd",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:gpu",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:gpu",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:psu",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:case",
-      "message": "HTTP Error 403: Forbidden"
-    },
-    {
-      "key": "alltec:cooler",
-      "message": "HTTP Error 403: Forbidden"
-    }
-  ],
+  "errors": [],
   "methodology": "Muestra acotada de catálogos públicos. Precio publicado; confirmar forma de pago, stock y despacho en la tienda. No incluye envío. No afiliado a SoloTodo."
 }
