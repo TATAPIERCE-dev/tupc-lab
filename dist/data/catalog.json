@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T21:29:04.133031+00:00",
+  "generatedAt": "2026-10-24T04:43:10.773861+00:00",
   "currency": "CLP",
   "categories": [
     {
@@ -52,7 +52,7 @@
         "socket": "AM4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -104,6 +104,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 74500
         }
       ]
@@ -124,7 +128,7 @@
         "socket": "1200"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -176,6 +180,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 120900
         }
       ]
@@ -196,7 +204,7 @@
         "socket": "AM4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -248,6 +256,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 125900
         }
       ]
@@ -268,7 +280,7 @@
         "socket": "1700"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -320,6 +332,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 139900
         }
       ]
@@ -341,7 +357,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -393,6 +409,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 59900
         }
       ]
@@ -414,7 +434,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -466,6 +486,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 84900
         }
       ]
@@ -487,7 +511,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -539,6 +563,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 85900
         }
       ]
@@ -560,7 +588,7 @@
         "memory": "DDR5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:11:36.381185+00:00",
@@ -608,6 +636,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 90900
         }
       ]
@@ -628,7 +660,7 @@
         "memory": "DDR5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -680,6 +712,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 134900
         }
       ]
@@ -700,7 +736,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -752,6 +788,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 42900
         }
       ]
@@ -772,7 +812,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -824,6 +864,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 42900
         }
       ]
@@ -844,7 +888,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -896,6 +940,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 45900
         }
       ]
@@ -914,7 +962,7 @@
       "description": "TEAMGROUP CX2 SSD 256GBUn artículo imprescindible para los principiantes que quieran reemplazar su disco duro mecánico tradicional Tecnología avanzada de almacenamiento en caché SLC Resistente a impactos y caídas para un uso seguro La función del código de corrección de errores (del inglés ECC, Error Correction Code) mejora la eficacia",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -966,6 +1014,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 56900
         }
       ]
@@ -984,7 +1036,7 @@
       "description": "SSD Macrovip Premium 512GB 2.5″ SATA 3 – MV512GB La unidad SSD Macrovip Premium de 2,5″ garantiza un rendimiento rápido y fiable para su ordenador. Con velocidades de lectura de hasta 520 Mb/s y de escritura de hasta 450 Mb/s, disfrutarás de un arranque instantáneo, una carga rápida de aplicaciones y una veloz transferencia de datos.",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1036,6 +1088,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 85900
         }
       ]
@@ -1054,7 +1110,7 @@
       "description": "TEAMGROUP CX2 SSD 512GBUn artículo imprescindible para los principiantes que quieran reemplazar su disco duro mecánico tradicional Tecnología avanzada de almacenamiento en caché SLC Resistente a impactos y caídas para un uso seguro La función del código de corrección de errores (del inglés ECC, Error Correction Code) mejora la eficacia",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1106,6 +1162,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 99900
         }
       ]
@@ -1124,7 +1184,7 @@
       "description": "ADATA SU650 480GBSi está buscando reemplazar ese disco duro suyo con un SSD, no busque más que el ADATA SU650. El SSD ofrece un valor increíble y un gran rendimiento. También viene con excelentes características como la tecnología LDPC ECC.",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1176,6 +1236,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 99900
         }
       ]
@@ -1194,7 +1258,7 @@
       "description": "ASUS Dual GeForce RTX™ 3050 OC Edition 6GB GDDR6 con dos potentes ventiladores Rendimiento de juegos AAA y trazado de rayosMultiprocesadores de transmisión NVIDIA Ampere: el nuevo Ampere SM ofrece el doble de rendimiento del FP32 y una eficiencia energética mejorada. Núcleos RT de 2.ª generación: experimente el doble de rendimiento que los núcleos...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1246,6 +1310,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 279900
         }
       ]
@@ -1264,7 +1332,7 @@
       "description": "MSI RTX 3050 LP 6G OC LOW PROFILE (PERFIL BAJO) GeForce RTX™ 3050 LP 6G OCLa GeForce RTX™ 3050 de 6 GB está diseñada con la arquitectura NVIDIA Ampere, que incluye núcleos de trazado de rayos dedicados, núcleos de tensor de IA y memoria G6 de alta velocidad. Pásate a GeForce RTX. Reloj Boost / Velocidad de memoria1492 MHz / 14 Gbps 6GB GDDR6...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1316,6 +1384,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 289900
         }
       ]
@@ -1334,7 +1406,7 @@
       "description": "EVGA GeForce GTX 1660 SUPER SC ULTRA GAMING (06G-P4-1068-KR) 6GB GDDR6, Dual Fan, Metal Backplate Las tarjetas gráficas EVGA GeForce GTX serie 16 están impulsadas por la nueva arquitectura NVIDIA Turing para brindarle nuevos e increíbles niveles de realismo, velocidad, eficiencia energética e inmersión en los juegos. Con las tarjetas de juego EVGA GeForce...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1386,6 +1458,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 314900
         }
       ]
@@ -1404,7 +1480,7 @@
       "description": "SAPPHIRE PULSE AMD Radeon™ RX 7600 8GBGPU: Reloj de refuerzo: hasta 2755 MHz GPU: Reloj de juego: hasta 2355 MHz Memoria: 8GB/DDR6 de 128 bits. 18 Gbps efectivos Procesadores de flujo: 2048 Arquitectura RDNA™ 3 Acelerador de rayos: 32",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1456,6 +1532,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 359900
         }
       ]
@@ -1474,7 +1554,7 @@
       "description": "Fuente de Poder CLIO GS-650W (BLACK) 80 Plus White CARACTERÍSTICAS:Certificación: 80 Plus White. Eficiencia Energética: 80% al 20% de carga, 85% al 50% de carga y 80% al 100% de carga. Compatibilidad: ATX 12V v2.3, EPS 12V v2.91 y SSI EPS 12V 2.92. Entrada de Voltaje: 240V con Corrección de Factor de Potencia Activa (APFC). Rail +12V: Rail único....",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1526,6 +1606,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 43900
         }
       ]
@@ -1544,7 +1628,7 @@
       "description": "Fuente de Poder CLIO GS-650W WHITE 80 Plus White CARACTERÍSTICAS:Certificación: 80 Plus White. Eficiencia Energética: 80% al 20% de carga, 85% al 50% de carga y 80% al 100% de carga. Compatibilidad: ATX 12V v2.3, EPS 12V v2.91 y SSI EPS 12V 2.92. Entrada de Voltaje: 240V con Corrección de Factor de Potencia Activa (APFC). Rail +12V: Rail único....",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1596,6 +1680,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 45900
         }
       ]
@@ -1614,7 +1702,7 @@
       "description": "Spectrum 700W  (NRP-MC751, 230V, 230V, ventilador RGB de 120 mm, 80+ White)80% de eficiencia en cualquier carga del sistema. Capaz de trabajar en un entorno de 220 V a 240 V. La capacidad de corriente mejorada de + 12V amplía las posibilidades de utilización. Reducir la pérdida de línea y la distorsión de potencia. Proporciona un excelente enfriamiento...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1666,6 +1754,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 59900
         }
       ]
@@ -1684,7 +1776,7 @@
       "description": "AZZA 650W BRONZEIntel ATX12V Certificado 80PLUS® Bronze Componentes de alta calidad Entrada de CA universal de 100V-240V / 200V-240V Ventilador de 120 mm: funcionamiento silencioso en una amplia gama de cargas Los cables planos duraderos le brindan espacios limpios y ordenados Protección: UVP, OVP, OPP, OCP, SCP Seguridad: FCC, CE, TUV, RoHS, RCM",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1736,6 +1828,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 62900
         }
       ]
@@ -1754,7 +1850,7 @@
       "description": "Gabinete CLIO M3 TG Micro ATX Mid-Tower con Vidrio Templado DISEÑO Y ESTÉTICA:Panel Lateral: Vidrio templado de alta calidad, diseñado para resaltar la configuración interna y los efectos de iluminación. Dimensiones del Gabinete: 420 x 247 x 452 mm (Estructura robusta y espaciosa para su categoría). Peso Neto: 5.7 kgs (Construcción sólida para...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1806,6 +1902,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 26900
         }
       ]
@@ -1824,7 +1924,7 @@
       "description": "GameMax EDGE (MATX) BLACK Mini Tower Caja Compacta para PCDiseño compacto - Compatible con placas base Micro ATX y Mini ITX. Refrigeración eficiente - Ventilador RGB de 120mm y panel de malla frontal para óptimo flujo de aire. Visibilidad clara - Panel lateral de vidrio templado para ver los componentes internos. Alta compatibilidad - Acomoda GPUs...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1876,6 +1976,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 33900
         }
       ]
@@ -1894,7 +1998,7 @@
       "description": "GAMEMAX INFINITY MINI WH (MATX) (WHITE) (SIN FAN) Con soporte para 7 ventiladores (no incluidos), mini gabinete para PC gaming con 2 paneles de vidrio templado.La caja para juegos Infinity Mini está equipada con 2 paneles de vidrio templado de 3 mm de espesor, que permiten ver claramente la iluminación RGB y los componentes internos, creando una...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:11:36.381185+00:00",
@@ -1942,6 +2046,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 41900
         }
       ]
@@ -1960,7 +2068,7 @@
       "description": "ANTEC VCX300 ARGB ATX CARACTERÍSTICAS:Diseño compacto con potente disipación de calor. Panel frontal y lateral de vidrio templado Vista panorámica de 270° con diseño de doble cámara Refrigeración vertical con entrada de aire masiva Ventiladores ARGB de 5 x 120 mm preinstalados Compatibilidad con placas base ATX, Micro ATX y Mini ITX",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-22T21:41:31.713656+00:00",
@@ -1976,6 +2084,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 52900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 52900
         }
       ]
@@ -1994,7 +2106,7 @@
       "description": "Thermaltake UX100 ARGB LIGHTING (CPU Intel y AMD) Disipador para CPU Thermaltake UX100 ARGB Lighting (Socket Intel y AMD) cuenta con 9 aspas de flujo de aire hasta 38,82 CFM, cojinete hidráulico y 16,8 millones de colores de 15 LEDs ARGB.",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2046,6 +2158,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 20900
         }
       ]
@@ -2064,7 +2180,7 @@
       "description": "ALSEYE MAX M90-B (BLACK)Refrigeración de torres gemelas Cubierta superior ARGB Cuatro Heatpipes de tacto directo Admite múltiples plataformas (AMD/INTEL)",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2116,6 +2232,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 30900
         }
       ]
@@ -2134,7 +2254,7 @@
       "description": "ALSEYE MAX M90-W (WHITE)Refrigeración de torres gemelas Cubierta superior ARGB Cuatro Heatpipes de tacto directo Admite múltiples plataformas (AMD/INTEL)",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2186,6 +2306,10 @@
         },
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
           "price": 30900
         }
       ]
@@ -2204,7 +2328,7 @@
       "description": "XIGMATEK AIR KILLER S ARCTIC EN47932Soporte de CPU: Procesadores Intel®: LGA 20xx/1700/1200/115x - Procesadores AMD®: AM5/AM4/AM3 Dimensiones del producto: 128 x 76 x 160 mm (largo x ancho x alto) Dimensiones del disipador de calor: 128 x 50 x 155 mm (largo x ancho x alto) Material del disipador de calor: 4 tubos de calor/aletas de aluminio Dimensiones...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2257,6 +2381,2213 @@
         {
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 33900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 33900
+        }
+      ]
+    },
+    {
+      "id": "554bb181b34da850",
+      "name": "Memoria RAM DDR5 16GB 6000MT/s XPG Lancer Blade RGB, UDIMM, Black",
+      "category": "ram",
+      "price": 449990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/xpg-ram-lancer-blade-rgb-ddr5-16gb-6000-black/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1734028590290-lr1_7aacb1c5_thumbnail_256.png",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR5"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 449990
+        }
+      ]
+    },
+    {
+      "id": "981e2aaa6cdf6d50",
+      "name": "Memoria RAM DDR4 16GB 3200MT/s Kingston Fury Beast RGB, CL16, DIMM, 1.35V",
+      "category": "ram",
+      "price": 289990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl16-16-gb-3200mts/",
+      "image": "https://media.spdigital.cl/thumbnails/products/jz0rqag6_2442c154_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 289990
+        }
+      ]
+    },
+    {
+      "id": "c144609173110a47",
+      "name": "Memoria RAM DDR4 16GB 3600MT/s Kingston Fury Beast RGB Black, CL18, DIMM, 1.35V",
+      "category": "ram",
+      "price": 249990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/kingston-fury-beast-rgb-ddr4-modulo-16-gb-dimm-de-288-contactos-3600-mhz-pc4-28800-cl1/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1792180775737-k1_440857bd_2ad00e01_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 2,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 249990
+        }
+      ]
+    },
+    {
+      "id": "120c6d3540e23f46",
+      "name": "Memoria RAM DDR4 8GB 3200MT/s Kingston Fury Renegade, CL16, DIMM, 1.35V",
+      "category": "ram",
+      "price": 199990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl16-generic-8gb/",
+      "image": "https://media.spdigital.cl/thumbnails/products/a1fxrzki_8ecb41dd_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 2,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 199990
+        }
+      ]
+    },
+    {
+      "id": "8db0b71e5940daff",
+      "name": "Memoria RAM DDR4 8GB 3600MT/s Kingston Fury Beast RGB, CL17, DIMM, 1.35V",
+      "category": "ram",
+      "price": 169990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl17-8gb-3600mts/",
+      "image": "https://media.spdigital.cl/thumbnails/products/jh9tlg7k_be47ac5e_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 169990
+        }
+      ]
+    },
+    {
+      "id": "89b4630cc94efde7",
+      "name": "Memoria RAM DDR4 Kingston 32GB, DDR4 3200MT/S, NON-ECC, UNBUFFERED, CL22, DIMM",
+      "category": "ram",
+      "price": 499990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/memoria-ram-ddr4-kingston-32gb-ddr4-3200mts-non-ecc-unbuffered-cl22-dimm/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1780689682200-77685561_3600229681_407e063d_c47d98fd_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 19,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 499990
+        }
+      ]
+    },
+    {
+      "id": "86318cae524f0b93",
+      "name": "Memoria Ram DDR5 16GB (1x16GB) 6400MT/s CL32 Kingston FURY Beast Black RGB EXPO",
+      "category": "ram",
+      "price": 549980,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/memoria-16gb-6400mts-ddr5-cl32-dimm-fury-beast-rg/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1758830343826-4886ac86c8ee147eb2801a9313cd0fcf_474bb564_e3bd93ac_thumbnail_2.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR5"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 549980
+        }
+      ]
+    },
+    {
+      "id": "a215777c1a4cee15",
+      "name": "Memoria Ram DDR5 16GB 5600MT/s Kingston FURY Beast RGB, CL36, DIMM",
+      "category": "ram",
+      "price": 514990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/kingston-fury-beast-rgb-ddr5-modulo-16-gb-dimm-de-288-contactos-2800-mhz-pc5-44800-cl3/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1748627125801-4886ac86c8ee147eb2801a9313cd0fcf_26cca9bb_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR5"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 2,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 514990
+        }
+      ]
+    },
+    {
+      "id": "02144fe58fcd9394",
+      "name": "Memoria RAM Kingston DDR5 16GB 5600MT/s Non-ECC, CL46 1RX8 1.1V 288-pin, DIMM ",
+      "category": "ram",
+      "price": 349990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/memoria-ram-16gb5600mtsddr5-non-ecc-cl46-dimm1rx8/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1790859022946-kst2_0a59a159_8ea142ed_thumbnail_256.png",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR5"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 349990
+        }
+      ]
+    },
+    {
+      "id": "f051c93ee573fa73",
+      "name": "Memoria RAM Kingston FURY Renegade Black,16GB, DDR4 3600MT/s, CL16, DIMM, XMP",
+      "category": "ram",
+      "price": 299990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/16gb3600mts-ddr4-cl16dimm1gx8-furyrenegadebl/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1792180433543-f1_6666ae65_66343c8a_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 4,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 299990
+        }
+      ]
+    },
+    {
+      "id": "d7a9b09b95fc99ed",
+      "name": "M.B. ASROCK B650E STEEL LEGEND WIFI (AM5) DDR5 (RYZEN 7000/8000)",
+      "category": "motherboard",
+      "price": 299900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/2184-mb-asrock-b650e-steel-legend-wifi-am5-ddr5-ryzen-70008000.html",
+      "image": "https://www.alltec.cl/11399-home_default/mb-asrock-b650e-steel-legend-wifi-am5-ddr5-ryzen-70008000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 359900,
+      "description": "ASROCK B650E STEEL LEGEND WIFICompatible con procesadores AMD Ryzen™ series 8000 y 7000 Diseño de energía de 16+2+1 fases, SPS 4 x DIMM DDR5, admite hasta 7600+(OC) 1 PCIe 5.0 x16, 1 PCIe 3.0 x16 Opciones de salida de gráficos: 1 HDMI, 1 DisplayPort Audio HD de 7.1 canales (códec de audio Realtek ALC897),Nahimic Audio 1 Blazing M.2 (PCIe Gen5x4),2 Hyper...",
+      "specs": {
+        "socket": "AM5",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "0b7039e308b41789",
+          "a18d049fadec00e6",
+          "b69cd1a27121d022",
+          "a1cadb7f19586092",
+          "cea2d59bfc057e2e",
+          "99fb9c955a8487c8",
+          "430bd5a744b8ab13",
+          "2dac11533f3d1982",
+          "bea157493f425a9e",
+          "fe9a6f0fc60978df"
+        ],
+        "source": "https://www.asrock.com/mb/AMD/B650E%20Steel%20Legend%20WiFi/index.asp",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 299900
+        }
+      ]
+    },
+    {
+      "id": "0b7039e308b41789",
+      "name": "AMD RYZEN 5 7600 3.8GHz (5.1GHz TURBO) SIX CORE (TDP 65W) (AM5)",
+      "category": "cpu",
+      "price": 277900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/1948-amd-ryzen-5-7600-38ghz-51ghz-turbo-six-core-tdp-65w-am5-730143314572.html",
+      "image": "https://www.alltec.cl/10296-home_default/amd-ryzen-5-7600-38ghz-51ghz-turbo-six-core-tdp-65w-am5.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 5 7600 De aquí, nace la potencia para jugar Hablamos de un procesador que, además de poder overclockearlo, nació para los juegos exigentes e incluye el ventilador AMD Wraith Stealth, de diseño compacto.Modelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200 MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.:...",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 277900
+        }
+      ]
+    },
+    {
+      "id": "a18d049fadec00e6",
+      "name": "AMD RYZEN 5 7600X 4.7GHz (5.3GHz TURBO) SIX CORE (TDP 105W) (AM5)",
+      "category": "cpu",
+      "price": 329900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/1880-amd-ryzen-5-7600x-47ghz-53ghz-turbo-six-core-tdp-105w-am5-730143314442.html",
+      "image": "https://www.alltec.cl/9980-home_default/amd-ryzen-5-7600x-47ghz-53ghz-turbo-six-core-tdp-105w-am5.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 5 7600X Rendimiento de juego puroObtén el procesador para juegos de 6 núcleos creado para una acción de juego intensa.Modelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200 MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.3GHz Reloj base: 4.7GHz Cache L3: 32MB Solución térmica (PIB): No...",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 329900
+        }
+      ]
+    },
+    {
+      "id": "b69cd1a27121d022",
+      "name": "AMD RYZEN 5 8500G 3.5GHz (5.0GHz TURBO) SIX CORE (TDP 65W) (AM5) AMD RADEON 740M GRAPHICS",
+      "category": "cpu",
+      "price": 229900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2199-amd-ryzen-5-8500g-35ghz-50ghz-turbo-six-core-tdp-65w-am5-amd-radeon-740m-graphics.html",
+      "image": "https://www.alltec.cl/11507-home_default/amd-ryzen-5-8500g-35ghz-50ghz-turbo-six-core-tdp-65w-am5-amd-radeon-740m-graphics.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 5 8500GModelo de gráficos: AMD Radeon™ 740M, 4 Core, 2800 MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.0GHz Reloj base: 3.5GHz Cache L3: 16MB TDP/TDP predeterminado: 65W Socket: AM5",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 229900
+        }
+      ]
+    },
+    {
+      "id": "a1cadb7f19586092",
+      "name": "AMD RYZEN 5 8600G 4.3GHz (5.0GHz TURBO) SIX CORE (TDP 65W) (AM5) AMD RADEON 760M GRAPHICS",
+      "category": "cpu",
+      "price": 287500,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2200-amd-ryzen-5-8600g-43ghz-50ghz-turbo-six-core-tdp-65w-am5-amd-radeon-760m-graphics.html",
+      "image": "https://www.alltec.cl/11508-home_default/amd-ryzen-5-8600g-43ghz-50ghz-turbo-six-core-tdp-65w-am5-amd-radeon-760m-graphics.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 5 8600GModelo de gráficos: AMD Radeon™ 760M, 8 Core, 2800 MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.0GHz Reloj base: 4.3GHz Cache L3: 16MB TDP/TDP predeterminado: 65W Socket: AM5",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 287500
+        }
+      ]
+    },
+    {
+      "id": "cea2d59bfc057e2e",
+      "name": "AMD RYZEN 5 8400F 4.2GHz (4.7GHz TURBO) SIX CORE (TDP 65W) (AM5)",
+      "category": "cpu",
+      "price": 229900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2245-amd-ryzen-5-8400f-42ghz-47ghz-turbo-six-core-tdp-65w-am5.html",
+      "image": "https://www.alltec.cl/11636-home_default/amd-ryzen-5-8400f-42ghz-47ghz-turbo-six-core-tdp-65w-am5.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 5 8400F El AMD Ryzen 5 8400F es el punto de partida para una PC de gaming.Modelo de gráficos: Se requiere una tarjeta gráfica independiente # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 4.7GHz Reloj base: 4.2GHz Cache L3: 16MB TDP/TDP predeterminado: 65W (Configurable 45-65W) Socket: AM5 Sistema de...",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 229900
+        }
+      ]
+    },
+    {
+      "id": "99fb9c955a8487c8",
+      "name": "AMD RYZEN 7 8700F 4.1GHz (5.0GHz TURBO) OCTA CORE (TDP 65W) (AM5)",
+      "category": "cpu",
+      "price": 329900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2244-amd-ryzen-7-8700f-41ghz-50ghz-turbo-octa-core-tdp-65w-am5.html",
+      "image": "https://www.alltec.cl/11637-home_default/amd-ryzen-7-8700f-41ghz-50ghz-turbo-octa-core-tdp-65w-am5.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 7 8700F El procesador AMD Ryzen 7 8700F es el punto de partida para una PC de gaming seria.Modelo de gráficos: Se requiere una tarjeta gráfica independiente # de núcleos de CPU: 8 # de hilos: 16 Reloj de aumento máx.: Hasta 5GHz Reloj base: 4.1GHz Cache L3: 16MB TDP/TDP predeterminado: 65W (Configurable 45-65W) Socket:...",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 329900
+        }
+      ]
+    },
+    {
+      "id": "430bd5a744b8ab13",
+      "name": "AMD RYZEN 7 8700G 4.2GHz (5.1GHz TURBO) OCTA CORE (TDP 65W) (AM5) AMD RADEON 780M GRAPHICS",
+      "category": "cpu",
+      "price": 398900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2459-amd-ryzen-7-8700g-42ghz-51ghz-turbo-octa-core-tdp-65w-am5-amd-radeon-780m-graphics.html",
+      "image": "https://www.alltec.cl/12741-home_default/amd-ryzen-7-8700g-42ghz-51ghz-turbo-octa-core-tdp-65w-am5-amd-radeon-780m-graphics.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 7 8700G El AMD Ryzen™ 7 8700G con AMD Ryzen AI es el mejor procesador para computadoras de escritorio todo en uno con tarjeta gráfica AMD Radeon™ 780MModelo de gráficos: AMD Radeon™ 780M, 12 Core, 2900 MHz # de núcleos de CPU: 8 # de hilos: 16 Reloj de aumento máx.: Hasta 5.1GHz Reloj base: 4.2GHz Cache L3: 16MB TDP/TDP...",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 398900
+        }
+      ]
+    },
+    {
+      "id": "2dac11533f3d1982",
+      "name": "AMD RYZEN 5 9600 3.8GHz (5.2GHz TURBO) SIX CORE (TDP 65W) (AM5)",
+      "category": "cpu",
+      "price": 279900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2420-amd-ryzen-5-9600-38ghz-52ghz-turbo-six-core-tdp-65w-am5.html",
+      "image": "https://www.alltec.cl/12545-home_default/amd-ryzen-5-9600-38ghz-52ghz-turbo-six-core-tdp-65w-am5.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 5 9600 Rendimiento de gaming para todos. El procesador de seis núcleos con capacidad de gaming y productividad increíbles.Modelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.2GHz Reloj base: 3.8GHz Cache L3: 32MB TDP predeterminado: 65W Socket:...",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 279900
+        }
+      ]
+    },
+    {
+      "id": "bea157493f425a9e",
+      "name": "AMD RYZEN 5 9600X 3.9GHz (5.4GHz TURBO) SIX CORE (TDP 65W) (AM5)",
+      "category": "cpu",
+      "price": 348900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2268-amd-ryzen-5-9600x-39ghz-54ghz-turbo-six-core-tdp-65w-am5.html",
+      "image": "https://www.alltec.cl/11758-home_default/amd-ryzen-5-9600x-39ghz-54ghz-turbo-six-core-tdp-65w-am5.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 5 9600X Rendimiento de gaming puroModelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.4GHz Reloj base: 3.9GHz Cache L3: 32MB TDP predeterminado: 65W Socket: AM5 Sistema de refrigeración: No Incluido",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 348900
+        }
+      ]
+    },
+    {
+      "id": "fe9a6f0fc60978df",
+      "name": "AMD RYZEN 7 9700X 3.8GHz (5.5GHz TURBO) OCTA CORE (TDP 65W) (AM5)",
+      "category": "cpu",
+      "price": 458900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/2269-amd-ryzen-7-9700x-38ghz-55ghz-turbo-octa-core-tdp-65w-am5.html",
+      "image": "https://www.alltec.cl/11757-home_default/amd-ryzen-7-9700x-38ghz-55ghz-turbo-octa-core-tdp-65w-am5.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 7 9700X El nuevo estándar para un procesador de gaming.Modelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200MHz # de núcleos de CPU: 8 # de hilos: 16 Reloj de aumento máx.: Hasta 5.5GHz Reloj base: 3.8GHz Cache L3: 32MB TDP predeterminado: 65W Socket: AM5 Sistema de refrigeración: No Incluido",
+      "specs": {
+        "socket": "AM5"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 458900
+        }
+      ]
+    },
+    {
+      "id": "6d64bd25668e53ce",
+      "name": "M.B. ASROCK B650 LIVEMIXER (AM5) DDR5 (RYZEN 7000/8000)",
+      "category": "motherboard",
+      "price": 264500,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/2183-mb-asrock-b650-livemixer-am5-ddr5-ryzen-70008000.html",
+      "image": "https://www.alltec.cl/11386-home_default/mb-asrock-b650-livemixer-am5-ddr5-ryzen-70008000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 329900,
+      "description": "ASROCK B650 LIVEMIXERCompatible con procesadores AMD Ryzen™ series 8000 y 7000 Diseño de energía de 14+2+1 fases, SPS 4 x DIMM DDR5, admite hasta 7200+(OC) 3 PCIe 4.0 x16, 1 M.2 Key-E para WiFi Opciones de salida de gráficos: 1 HDMI, 1 DisplayPort Audio HD de 7.1 canales (códec de audio Realtek ALC897), Nahimic Audio 1 Blazing M.2 (PCIe Gen5x4),2 Hyper...",
+      "specs": {
+        "socket": "AM5",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "0b7039e308b41789",
+          "a18d049fadec00e6",
+          "b69cd1a27121d022",
+          "a1cadb7f19586092",
+          "cea2d59bfc057e2e",
+          "99fb9c955a8487c8",
+          "430bd5a744b8ab13",
+          "2dac11533f3d1982",
+          "bea157493f425a9e",
+          "fe9a6f0fc60978df"
+        ],
+        "source": "https://www.asrock.com/mb/AMD/B650%20LiveMixer/Specification.asp",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 264500
+        }
+      ]
+    },
+    {
+      "id": "ab10e833b8d605c7",
+      "name": "M.B. MSI B840M GAMING WIFI6E (AM5) DDR5 (AMD RYZEN 9000)",
+      "category": "motherboard",
+      "price": 154900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/2464-mb-msi-b840m-gaming-wifi6e-am5-ddr5-amd-ryzen-9000.html",
+      "image": "https://www.alltec.cl/12715-home_default/mb-msi-b840m-gaming-wifi6e-am5-ddr5-amd-ryzen-9000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 179900,
+      "description": "MSI B840M GAMING WIFI6E  La B840M GAMING WIFI6E está diseñada para ofrecer una amplia conectividad, herramientas versátiles y una solución Wi-Fi para gamers que buscan una experiencia completa. Con Wi-Fi 6E, LAN 2.5G, solución PCIe 4.0 y funciones exclusivas de configuración fácil, está lista para jugar sin interrupciones las 24 horas, los 7 días de la...",
+      "specs": {
+        "socket": "AM5",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "0b7039e308b41789",
+          "a18d049fadec00e6",
+          "b69cd1a27121d022",
+          "a1cadb7f19586092",
+          "cea2d59bfc057e2e",
+          "99fb9c955a8487c8",
+          "430bd5a744b8ab13",
+          "2dac11533f3d1982",
+          "bea157493f425a9e",
+          "fe9a6f0fc60978df"
+        ],
+        "source": "https://www.msi.cn/Motherboard/B840M-GAMING-WIFI6E/Specification",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 154900
+        }
+      ]
+    },
+    {
+      "id": "319a4deace6bb6c9",
+      "name": "M.B. ASUS PRIME B550M-A AC (AM4) DDR4 (RYZEN 5000) (WiFi AC + BT 5.0)",
+      "category": "motherboard",
+      "price": 135900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/1823-mb-asus-prime-b550m-a-ac-am4-ddr4-ryzen-5000-wifi-ac-bt-50.html",
+      "image": "https://www.alltec.cl/11728-home_default/mb-asus-prime-b550m-a-ac-am4-ddr4-ryzen-5000-wifi-ac-bt-50.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "ASUS PRIME B550M-A AC (WiFi AC + BT 5.0)Tarjeta madre AMD AM4 mATX con PCIe 4.0, dual M.2, WiFi, HDMI, D-Sub, DVI, SATA 6 Gbps, puertos USB 3.2 Gen 2 e iluminación Aura Sync RGBSocket AMD AM4: Listo para procesadores Ryzen™ de escritorio Series 5000, 4000G y 3000. Refrigeración completa: Disipador de VRM, disipador de PCH y Fan Xpert 2+. Conectividad...",
+      "specs": {
+        "socket": "AM4",
+        "memory": "DDR4"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "1a44adc39c38f2cb"
+        ],
+        "source": "https://www.asus.com/supportonly/prime%20b550m-a%20ac/helpdesk_cpu/",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 135900
+        }
+      ]
+    },
+    {
+      "id": "1a44adc39c38f2cb",
+      "name": "AMD RYZEN 7 5700X 3.4GHz (4.6GHz TURBO) OCTA CORE (TDP 65W) (AM4)",
+      "category": "cpu",
+      "price": 346900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/amd/1794-amd-ryzen-7-5700x-34ghz-46ghz-turbo-octa-core-tdp-65w-am4-730143314275.html",
+      "image": "https://www.alltec.cl/9626-home_default/amd-ryzen-7-5700x-34ghz-46ghz-turbo-octa-core-tdp-65w-am4.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "AMD Ryzen™ 7 5700XModelo de gráficos: Se requiere tarjeta gráfica discreta # de núcleos de CPU: 8 # de hilos: 16 Reloj de aumento máx. : Hasta 4.6GHz Reloj base: 3.4GHzCaché L3 total 32MBSolución térmica (PIB): No incluido TDP/TDP predeterminado: 65W",
+      "specs": {
+        "socket": "AM4"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 346900
+        }
+      ]
+    },
+    {
+      "id": "d3ec2bddbf8709aa",
+      "name": "M.B. ASUS PRIME B650M-F (AM5) DDR5 (RYZEN 7000/8000/9000)",
+      "category": "motherboard",
+      "price": 109000,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/2483-mb-asus-prime-b650m-f-am5-ddr5-ryzen-700080009000.html",
+      "image": "https://www.alltec.cl/12806-home_default/mb-asus-prime-b650m-f-am5-ddr5-ryzen-700080009000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 119900,
+      "description": "Placa base micro-ATX AMD B650, DDR5, compatible con PCIe 4.0, ranura M.2, Ethernet Realtek de 1 Gb, HDMI™, USB tipo A de 5 Gbps, SATA de 6 Gbps, BIOS FlashBack™, cancelación de ruido bidireccional con IA, Aura SyncPC preparada para IA avanzada: diseñada para el futuro de la informática de IA, con la potencia y la conectividad necesarias para...",
+      "specs": {
+        "socket": "AM5",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "0b7039e308b41789",
+          "a18d049fadec00e6",
+          "b69cd1a27121d022",
+          "a1cadb7f19586092",
+          "cea2d59bfc057e2e",
+          "99fb9c955a8487c8",
+          "430bd5a744b8ab13",
+          "2dac11533f3d1982",
+          "bea157493f425a9e",
+          "fe9a6f0fc60978df"
+        ],
+        "source": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650m-f/helpdesk_cpu/?model2Name=PRIME-B650M-F",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 109000
+        }
+      ]
+    },
+    {
+      "id": "ea4f796613171858",
+      "name": "M.B. MSI B550M PRO-VDH WIFI (AM4) 4xDDR4 (RYZEN 5000)",
+      "category": "motherboard",
+      "price": 128900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-amd/1495-mb-msi-b550m-pro-vdh-wifi-am4-4xddr4-ryzen-5000.html",
+      "image": "https://www.alltec.cl/8377-home_default/mb-msi-b550m-pro-vdh-wifi-am4-4xddr4-ryzen-5000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 136900,
+      "description": "B550M PRO-VDH WIFISoporta procesadores Serie 5000 AMD Ryzen™ Soporta memoria DDR4 hasta 4400(OC) MHz Experiencia ultrarrápida: PCIe 4.0, Lightning Gen4 x4 M.2 con M.2 Shield Frozr Solución térmica premium: con acolchado térmico 7W/mK, acolchado adicional para el choke y M.2 Shield Frozr, ofrece un alto desempeño y un trabajo sin pausa Diseño poderoso:...",
+      "specs": {
+        "socket": "AM4",
+        "memory": "DDR4"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "1a44adc39c38f2cb"
+        ],
+        "source": "https://www.msi.com/Motherboard/B550M-PRO-VDH-WIFI/Specification",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 128900
+        }
+      ]
+    },
+    {
+      "id": "aa5dbdbea8e7c342",
+      "name": "M.B. ASUS PRIME B840M-A WIFI (AM5) DDR5 (AMD RYZEN 9000)",
+      "category": "motherboard",
+      "price": 181000,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/asus/2423-mb-asus-prime-b840m-a-wifi-am5-ddr5-amd-ryzen-9000.html",
+      "image": "https://www.alltec.cl/12561-home_default/mb-asus-prime-b840m-a-wifi-am5-ddr5-amd-ryzen-9000.jpg",
+      "inStock": true,
+      "previousRetailPrice": 202700,
+      "description": "ASUS PRIME B840M-A WIFI Las placas base ASUS Prime están diseñadas por expertos para aprovechar al máximo el potencial de los procesadores AMD Ryzen ™ serie 9000. La placa base PRIME B840M-A WIFI ofrece a usuarios y ensambladores de PC DIY diversas optimizaciones de rendimiento mediante funciones intuitivas de software y firmware. Está diseñada para ser...",
+      "specs": {
+        "socket": "AM5",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "0b7039e308b41789",
+          "a18d049fadec00e6",
+          "b69cd1a27121d022",
+          "a1cadb7f19586092",
+          "cea2d59bfc057e2e",
+          "99fb9c955a8487c8",
+          "430bd5a744b8ab13",
+          "2dac11533f3d1982",
+          "bea157493f425a9e",
+          "fe9a6f0fc60978df"
+        ],
+        "source": "https://www.asus.com/uk/motherboards-components/motherboards/prime/prime-b840m-a-wifi/techspec/",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 181000
+        }
+      ]
+    },
+    {
+      "id": "e163cc2c0440067b",
+      "name": "M.B. ASUS PRIME Z890-P WIFI (LGA1851) DDR5 (INTEL CORE ULTRA (SERIE 2))",
+      "category": "motherboard",
+      "price": 298900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-intel/2422-mb-asus-prime-z890-p-wifi-lga1851-ddr5-intel-core-ultra-serie-2.html",
+      "image": "https://www.alltec.cl/12553-home_default/mb-asus-prime-z890-p-wifi-lga1851-ddr5-intel-core-ultra-serie-2.jpg",
+      "inStock": true,
+      "previousRetailPrice": 312900,
+      "description": "ASUS PRIME Z890-P WIFI Las placas base ASUS de la serie PRIME están diseñadas por expertos para liberar todo el potencial de los últimos procesadores Intel® Core™ Ultra (Serie 2). La placa base PRIME Z890-P WIFI, que cuenta con un diseño de potencia robusto, soluciones de refrigeración completas y opciones de ajuste inteligente, proporciona a los usuarios...",
+      "specs": {
+        "socket": "1851",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "ef5e2191ae4f6f0a"
+        ],
+        "source": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z890-p-wifi/techspec/",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 298900
+        }
+      ]
+    },
+    {
+      "id": "ef5e2191ae4f6f0a",
+      "name": "INTEL CORE ULTRA 5 245K (4.2GHz/5.2GHz TURBO, 14C/14T, 26MB CACHE, 125W/159W, LGA1851)",
+      "category": "cpu",
+      "price": 329900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/intel/2515-intel-core-ultra-5-245k-42ghz52ghz-turbo-14c14t-26mb-cache-125w159w-lga1851.html",
+      "image": "https://www.alltec.cl/12914-home_default/intel-core-ultra-5-245k-42ghz52ghz-turbo-14c14t-26mb-cache-125w159w-lga1851.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "INTEL CORE ULTRA 5 245K (INTEL ARROW LAKE-S (ARROW LAKE))FRECUENCIA DEL PROCESADOR : 4.2GHz FRECUENCIA TURBO MAXIMA : 5.2 GHz CANTIDAD DE NÚCLEOS : 14 CANTIDAD DE PERFORMANCE-CORES: 6 CANTIDAD DE EFFICIENT-CORES: 8 CANTIDAD DE SUB PROCESOS : 14 CACHE : 26MB SMARTCACHE TDP : 125W / 159W",
+      "specs": {
+        "socket": "1851"
+      },
+      "sourceType": "HTML / microdatos",
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 329900
+        }
+      ]
+    },
+    {
+      "id": "9823eda9447c0d01",
+      "name": "M.B. MSI PRO Z890-P WIFI (LGA1851) DDR5 (INTEL CORE ULTRA (SERIE 2))",
+      "category": "motherboard",
+      "price": 299900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-intel/2393-mb-msi-pro-z890-p-wifi-lga1851-ddr5-intel-core-ultra-serie-2.html",
+      "image": "https://www.alltec.cl/12320-home_default/mb-msi-pro-z890-p-wifi-lga1851-ddr5-intel-core-ultra-serie-2.jpg",
+      "inStock": true,
+      "previousRetailPrice": 349900,
+      "description": "MSI PRO Z890-P WIFICompatible con procesadores Intel® Core™ Ultra (Serie 2) para socket LGA 1851 Compatible con memoria DDR5, Dual Channel DDR5 9200+ MT/s (OC) Rendimiento Ultra: Sistema de alimentación Duet Rail 14+1+1+1 55A DrMOS, conectores de alimentación duales de 8 pines para CPU, Core Boost, Memory Boost, PCB de 6 capas fabricado con cobre de...",
+      "specs": {
+        "socket": "1851",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "ef5e2191ae4f6f0a"
+        ],
+        "source": "https://www.msi.com/Motherboard/PRO-Z890-P-WIFI/Overview",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 299900
+        }
+      ]
+    },
+    {
+      "id": "1b264494162cd188",
+      "name": "MSI PRO H810M-B WIFI6E (LGA1851) DDR5 (Intel® Core™ Ultra Processors Series 2)",
+      "category": "motherboard",
+      "price": 158900,
+      "currency": "CLP",
+      "store": "Alltec",
+      "url": "https://www.alltec.cl/para-intel/2469-msi-pro-h810m-b-wifi6e-lga1851-ddr5-intel-core-ultra-processors-series-2.html",
+      "image": "https://www.alltec.cl/12754-home_default/msi-pro-h810m-b-wifi6e-lga1851-ddr5-intel-core-ultra-processors-series-2.jpg",
+      "inStock": true,
+      "previousRetailPrice": 169900,
+      "description": "MSI PRO H810M-B WIFI6E La PRO H810M-B WIFI6E ofrece un diseño sencillo con una armoniosa combinación de colores plateados que se adapta perfectamente a configuraciones de PC tanto blancas como negras. Está equipada con Wi-Fi 6E, LAN de 2.5G y PCIe 5.0, y es compatible con los procesadores. La Serie PRO está diseñada para profesionales de todos los...",
+      "specs": {
+        "socket": "1851",
+        "memory": "DDR5"
+      },
+      "sourceType": "HTML / microdatos",
+      "platformSupport": {
+        "cpuIds": [
+          "ef5e2191ae4f6f0a"
+        ],
+        "source": "https://www.msi.com/Motherboard/PRO-H810M-B-WIFI6E/Overview",
+        "reviewedOn": "2026-10-18",
+        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
+      },
+      "checkedAt": "2026-10-24T04:43:10.773861+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 158900
         }
       ]
     },
@@ -2332,7 +4663,8 @@
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 78900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "9b09bb25d93c0120",
@@ -2406,7 +4738,8 @@
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 75900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "96bac56f50d61429",
@@ -2480,7 +4813,8 @@
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 79900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "86c55586adb8404d",
@@ -2554,7 +4888,8 @@
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 84900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "3ab2e78bc62b60c3",
@@ -2628,7 +4963,8 @@
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 40990
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "42e04b778e5aaaeb",
@@ -2702,7 +5038,8 @@
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 45990
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "40de12347333a532",
@@ -2776,7 +5113,8 @@
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 52990
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "240ad6df1743ebb8",
@@ -2850,2084 +5188,15 @@
           "date": "2026-10-23T21:29:04.133031+00:00",
           "price": 59900
         }
-      ]
-    },
-    {
-      "id": "554bb181b34da850",
-      "name": "Memoria RAM DDR5 16GB 6000MT/s XPG Lancer Blade RGB, UDIMM, Black",
-      "category": "ram",
-      "price": 449990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/xpg-ram-lancer-blade-rgb-ddr5-16gb-6000-black/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1734028590290-lr1_7aacb1c5_thumbnail_256.png",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 449990
-        }
-      ]
-    },
-    {
-      "id": "981e2aaa6cdf6d50",
-      "name": "Memoria RAM DDR4 16GB 3200MT/s Kingston Fury Beast RGB, CL16, DIMM, 1.35V",
-      "category": "ram",
-      "price": 289990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl16-16-gb-3200mts/",
-      "image": "https://media.spdigital.cl/thumbnails/products/jz0rqag6_2442c154_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 289990
-        }
-      ]
-    },
-    {
-      "id": "c144609173110a47",
-      "name": "Memoria RAM DDR4 16GB 3600MT/s Kingston Fury Beast RGB Black, CL18, DIMM, 1.35V",
-      "category": "ram",
-      "price": 249990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/kingston-fury-beast-rgb-ddr4-modulo-16-gb-dimm-de-288-contactos-3600-mhz-pc4-28800-cl1/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1792180775737-k1_440857bd_2ad00e01_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 2,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 249990
-        }
-      ]
-    },
-    {
-      "id": "120c6d3540e23f46",
-      "name": "Memoria RAM DDR4 8GB 3200MT/s Kingston Fury Renegade, CL16, DIMM, 1.35V",
-      "category": "ram",
-      "price": 199990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl16-generic-8gb/",
-      "image": "https://media.spdigital.cl/thumbnails/products/a1fxrzki_8ecb41dd_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 2,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 199990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 199990
-        }
-      ]
-    },
-    {
-      "id": "8db0b71e5940daff",
-      "name": "Memoria RAM DDR4 8GB 3600MT/s Kingston Fury Beast RGB, CL17, DIMM, 1.35V",
-      "category": "ram",
-      "price": 169990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl17-8gb-3600mts/",
-      "image": "https://media.spdigital.cl/thumbnails/products/jh9tlg7k_be47ac5e_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 169990
-        }
-      ]
-    },
-    {
-      "id": "89b4630cc94efde7",
-      "name": "Memoria RAM DDR4 Kingston 32GB, DDR4 3200MT/S, NON-ECC, UNBUFFERED, CL22, DIMM",
-      "category": "ram",
-      "price": 499990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/memoria-ram-ddr4-kingston-32gb-ddr4-3200mts-non-ecc-unbuffered-cl22-dimm/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1780689682200-77685561_3600229681_407e063d_c47d98fd_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 19,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 499990
-        }
-      ]
-    },
-    {
-      "id": "86318cae524f0b93",
-      "name": "Memoria Ram DDR5 16GB (1x16GB) 6400MT/s CL32 Kingston FURY Beast Black RGB EXPO",
-      "category": "ram",
-      "price": 549980,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/memoria-16gb-6400mts-ddr5-cl32-dimm-fury-beast-rg/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1758830343826-4886ac86c8ee147eb2801a9313cd0fcf_474bb564_e3bd93ac_thumbnail_2.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 549980
-        }
-      ]
-    },
-    {
-      "id": "a215777c1a4cee15",
-      "name": "Memoria Ram DDR5 16GB 5600MT/s Kingston FURY Beast RGB, CL36, DIMM",
-      "category": "ram",
-      "price": 514990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/kingston-fury-beast-rgb-ddr5-modulo-16-gb-dimm-de-288-contactos-2800-mhz-pc5-44800-cl3/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1748627125801-4886ac86c8ee147eb2801a9313cd0fcf_26cca9bb_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 2,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 514990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 514990
-        }
-      ]
-    },
-    {
-      "id": "02144fe58fcd9394",
-      "name": "Memoria RAM Kingston DDR5 16GB 5600MT/s Non-ECC, CL46 1RX8 1.1V 288-pin, DIMM ",
-      "category": "ram",
-      "price": 349990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/memoria-ram-16gb5600mtsddr5-non-ecc-cl46-dimm1rx8/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1790859022946-kst2_0a59a159_8ea142ed_thumbnail_256.png",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 349990
-        }
-      ]
-    },
-    {
-      "id": "f051c93ee573fa73",
-      "name": "Memoria RAM Kingston FURY Renegade Black,16GB, DDR4 3600MT/s, CL16, DIMM, XMP",
-      "category": "ram",
-      "price": 299990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/16gb3600mts-ddr4-cl16dimm1gx8-furyrenegadebl/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1792180433543-f1_6666ae65_66343c8a_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 4,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 299990
-        }
-      ]
-    },
-    {
-      "id": "d7a9b09b95fc99ed",
-      "name": "M.B. ASROCK B650E STEEL LEGEND WIFI (AM5) DDR5 (RYZEN 7000/8000)",
-      "category": "motherboard",
-      "price": 299900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/2184-mb-asrock-b650e-steel-legend-wifi-am5-ddr5-ryzen-70008000.html",
-      "image": "https://www.alltec.cl/11399-home_default/mb-asrock-b650e-steel-legend-wifi-am5-ddr5-ryzen-70008000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 359900,
-      "description": "ASROCK B650E STEEL LEGEND WIFICompatible con procesadores AMD Ryzen™ series 8000 y 7000 Diseño de energía de 16+2+1 fases, SPS 4 x DIMM DDR5, admite hasta 7600+(OC) 1 PCIe 5.0 x16, 1 PCIe 3.0 x16 Opciones de salida de gráficos: 1 HDMI, 1 DisplayPort Audio HD de 7.1 canales (códec de audio Realtek ALC897),Nahimic Audio 1 Blazing M.2 (PCIe Gen5x4),2 Hyper...",
-      "specs": {
-        "socket": "AM5",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "0b7039e308b41789",
-          "a18d049fadec00e6",
-          "b69cd1a27121d022",
-          "a1cadb7f19586092",
-          "cea2d59bfc057e2e",
-          "99fb9c955a8487c8",
-          "430bd5a744b8ab13",
-          "2dac11533f3d1982",
-          "bea157493f425a9e",
-          "fe9a6f0fc60978df"
-        ],
-        "source": "https://www.asrock.com/mb/AMD/B650E%20Steel%20Legend%20WiFi/index.asp",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 299900
-        }
-      ]
-    },
-    {
-      "id": "0b7039e308b41789",
-      "name": "AMD RYZEN 5 7600 3.8GHz (5.1GHz TURBO) SIX CORE (TDP 65W) (AM5)",
-      "category": "cpu",
-      "price": 277900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/1948-amd-ryzen-5-7600-38ghz-51ghz-turbo-six-core-tdp-65w-am5-730143314572.html",
-      "image": "https://www.alltec.cl/10296-home_default/amd-ryzen-5-7600-38ghz-51ghz-turbo-six-core-tdp-65w-am5.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 5 7600 De aquí, nace la potencia para jugar Hablamos de un procesador que, además de poder overclockearlo, nació para los juegos exigentes e incluye el ventilador AMD Wraith Stealth, de diseño compacto.Modelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200 MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.:...",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 277900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 277900
-        }
-      ]
-    },
-    {
-      "id": "a18d049fadec00e6",
-      "name": "AMD RYZEN 5 7600X 4.7GHz (5.3GHz TURBO) SIX CORE (TDP 105W) (AM5)",
-      "category": "cpu",
-      "price": 329900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/1880-amd-ryzen-5-7600x-47ghz-53ghz-turbo-six-core-tdp-105w-am5-730143314442.html",
-      "image": "https://www.alltec.cl/9980-home_default/amd-ryzen-5-7600x-47ghz-53ghz-turbo-six-core-tdp-105w-am5.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 5 7600X Rendimiento de juego puroObtén el procesador para juegos de 6 núcleos creado para una acción de juego intensa.Modelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200 MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.3GHz Reloj base: 4.7GHz Cache L3: 32MB Solución térmica (PIB): No...",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 329900
-        }
-      ]
-    },
-    {
-      "id": "b69cd1a27121d022",
-      "name": "AMD RYZEN 5 8500G 3.5GHz (5.0GHz TURBO) SIX CORE (TDP 65W) (AM5) AMD RADEON 740M GRAPHICS",
-      "category": "cpu",
-      "price": 229900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2199-amd-ryzen-5-8500g-35ghz-50ghz-turbo-six-core-tdp-65w-am5-amd-radeon-740m-graphics.html",
-      "image": "https://www.alltec.cl/11507-home_default/amd-ryzen-5-8500g-35ghz-50ghz-turbo-six-core-tdp-65w-am5-amd-radeon-740m-graphics.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 5 8500GModelo de gráficos: AMD Radeon™ 740M, 4 Core, 2800 MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.0GHz Reloj base: 3.5GHz Cache L3: 16MB TDP/TDP predeterminado: 65W Socket: AM5",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 229900
-        }
-      ]
-    },
-    {
-      "id": "a1cadb7f19586092",
-      "name": "AMD RYZEN 5 8600G 4.3GHz (5.0GHz TURBO) SIX CORE (TDP 65W) (AM5) AMD RADEON 760M GRAPHICS",
-      "category": "cpu",
-      "price": 287500,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2200-amd-ryzen-5-8600g-43ghz-50ghz-turbo-six-core-tdp-65w-am5-amd-radeon-760m-graphics.html",
-      "image": "https://www.alltec.cl/11508-home_default/amd-ryzen-5-8600g-43ghz-50ghz-turbo-six-core-tdp-65w-am5-amd-radeon-760m-graphics.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 5 8600GModelo de gráficos: AMD Radeon™ 760M, 8 Core, 2800 MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.0GHz Reloj base: 4.3GHz Cache L3: 16MB TDP/TDP predeterminado: 65W Socket: AM5",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 287500
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 287500
-        }
-      ]
-    },
-    {
-      "id": "cea2d59bfc057e2e",
-      "name": "AMD RYZEN 5 8400F 4.2GHz (4.7GHz TURBO) SIX CORE (TDP 65W) (AM5)",
-      "category": "cpu",
-      "price": 229900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2245-amd-ryzen-5-8400f-42ghz-47ghz-turbo-six-core-tdp-65w-am5.html",
-      "image": "https://www.alltec.cl/11636-home_default/amd-ryzen-5-8400f-42ghz-47ghz-turbo-six-core-tdp-65w-am5.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 5 8400F El AMD Ryzen 5 8400F es el punto de partida para una PC de gaming.Modelo de gráficos: Se requiere una tarjeta gráfica independiente # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 4.7GHz Reloj base: 4.2GHz Cache L3: 16MB TDP/TDP predeterminado: 65W (Configurable 45-65W) Socket: AM5 Sistema de...",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 229900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 229900
-        }
-      ]
-    },
-    {
-      "id": "99fb9c955a8487c8",
-      "name": "AMD RYZEN 7 8700F 4.1GHz (5.0GHz TURBO) OCTA CORE (TDP 65W) (AM5)",
-      "category": "cpu",
-      "price": 329900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2244-amd-ryzen-7-8700f-41ghz-50ghz-turbo-octa-core-tdp-65w-am5.html",
-      "image": "https://www.alltec.cl/11637-home_default/amd-ryzen-7-8700f-41ghz-50ghz-turbo-octa-core-tdp-65w-am5.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 7 8700F El procesador AMD Ryzen 7 8700F es el punto de partida para una PC de gaming seria.Modelo de gráficos: Se requiere una tarjeta gráfica independiente # de núcleos de CPU: 8 # de hilos: 16 Reloj de aumento máx.: Hasta 5GHz Reloj base: 4.1GHz Cache L3: 16MB TDP/TDP predeterminado: 65W (Configurable 45-65W) Socket:...",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 329900
-        }
-      ]
-    },
-    {
-      "id": "430bd5a744b8ab13",
-      "name": "AMD RYZEN 7 8700G 4.2GHz (5.1GHz TURBO) OCTA CORE (TDP 65W) (AM5) AMD RADEON 780M GRAPHICS",
-      "category": "cpu",
-      "price": 398900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2459-amd-ryzen-7-8700g-42ghz-51ghz-turbo-octa-core-tdp-65w-am5-amd-radeon-780m-graphics.html",
-      "image": "https://www.alltec.cl/12741-home_default/amd-ryzen-7-8700g-42ghz-51ghz-turbo-octa-core-tdp-65w-am5-amd-radeon-780m-graphics.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 7 8700G El AMD Ryzen™ 7 8700G con AMD Ryzen AI es el mejor procesador para computadoras de escritorio todo en uno con tarjeta gráfica AMD Radeon™ 780MModelo de gráficos: AMD Radeon™ 780M, 12 Core, 2900 MHz # de núcleos de CPU: 8 # de hilos: 16 Reloj de aumento máx.: Hasta 5.1GHz Reloj base: 4.2GHz Cache L3: 16MB TDP/TDP...",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 398900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 398900
-        }
-      ]
-    },
-    {
-      "id": "2dac11533f3d1982",
-      "name": "AMD RYZEN 5 9600 3.8GHz (5.2GHz TURBO) SIX CORE (TDP 65W) (AM5)",
-      "category": "cpu",
-      "price": 279900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2420-amd-ryzen-5-9600-38ghz-52ghz-turbo-six-core-tdp-65w-am5.html",
-      "image": "https://www.alltec.cl/12545-home_default/amd-ryzen-5-9600-38ghz-52ghz-turbo-six-core-tdp-65w-am5.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 5 9600 Rendimiento de gaming para todos. El procesador de seis núcleos con capacidad de gaming y productividad increíbles.Modelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.2GHz Reloj base: 3.8GHz Cache L3: 32MB TDP predeterminado: 65W Socket:...",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 279900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 279900
-        }
-      ]
-    },
-    {
-      "id": "bea157493f425a9e",
-      "name": "AMD RYZEN 5 9600X 3.9GHz (5.4GHz TURBO) SIX CORE (TDP 65W) (AM5)",
-      "category": "cpu",
-      "price": 348900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2268-amd-ryzen-5-9600x-39ghz-54ghz-turbo-six-core-tdp-65w-am5.html",
-      "image": "https://www.alltec.cl/11758-home_default/amd-ryzen-5-9600x-39ghz-54ghz-turbo-six-core-tdp-65w-am5.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 5 9600X Rendimiento de gaming puroModelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200MHz # de núcleos de CPU: 6 # de hilos: 12 Reloj de aumento máx.: Hasta 5.4GHz Reloj base: 3.9GHz Cache L3: 32MB TDP predeterminado: 65W Socket: AM5 Sistema de refrigeración: No Incluido",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 348900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 348900
-        }
-      ]
-    },
-    {
-      "id": "fe9a6f0fc60978df",
-      "name": "AMD RYZEN 7 9700X 3.8GHz (5.5GHz TURBO) OCTA CORE (TDP 65W) (AM5)",
-      "category": "cpu",
-      "price": 458900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/2269-amd-ryzen-7-9700x-38ghz-55ghz-turbo-octa-core-tdp-65w-am5.html",
-      "image": "https://www.alltec.cl/11757-home_default/amd-ryzen-7-9700x-38ghz-55ghz-turbo-octa-core-tdp-65w-am5.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 7 9700X El nuevo estándar para un procesador de gaming.Modelo de gráficos: AMD Radeon™ Graphics, 2 Core, 2200MHz # de núcleos de CPU: 8 # de hilos: 16 Reloj de aumento máx.: Hasta 5.5GHz Reloj base: 3.8GHz Cache L3: 32MB TDP predeterminado: 65W Socket: AM5 Sistema de refrigeración: No Incluido",
-      "specs": {
-        "socket": "AM5"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 458900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 458900
-        }
-      ]
-    },
-    {
-      "id": "6d64bd25668e53ce",
-      "name": "M.B. ASROCK B650 LIVEMIXER (AM5) DDR5 (RYZEN 7000/8000)",
-      "category": "motherboard",
-      "price": 264500,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/2183-mb-asrock-b650-livemixer-am5-ddr5-ryzen-70008000.html",
-      "image": "https://www.alltec.cl/11386-home_default/mb-asrock-b650-livemixer-am5-ddr5-ryzen-70008000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 329900,
-      "description": "ASROCK B650 LIVEMIXERCompatible con procesadores AMD Ryzen™ series 8000 y 7000 Diseño de energía de 14+2+1 fases, SPS 4 x DIMM DDR5, admite hasta 7200+(OC) 3 PCIe 4.0 x16, 1 M.2 Key-E para WiFi Opciones de salida de gráficos: 1 HDMI, 1 DisplayPort Audio HD de 7.1 canales (códec de audio Realtek ALC897), Nahimic Audio 1 Blazing M.2 (PCIe Gen5x4),2 Hyper...",
-      "specs": {
-        "socket": "AM5",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "0b7039e308b41789",
-          "a18d049fadec00e6",
-          "b69cd1a27121d022",
-          "a1cadb7f19586092",
-          "cea2d59bfc057e2e",
-          "99fb9c955a8487c8",
-          "430bd5a744b8ab13",
-          "2dac11533f3d1982",
-          "bea157493f425a9e",
-          "fe9a6f0fc60978df"
-        ],
-        "source": "https://www.asrock.com/mb/AMD/B650%20LiveMixer/Specification.asp",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 264500
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 264500
-        }
-      ]
-    },
-    {
-      "id": "ab10e833b8d605c7",
-      "name": "M.B. MSI B840M GAMING WIFI6E (AM5) DDR5 (AMD RYZEN 9000)",
-      "category": "motherboard",
-      "price": 154900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/2464-mb-msi-b840m-gaming-wifi6e-am5-ddr5-amd-ryzen-9000.html",
-      "image": "https://www.alltec.cl/12715-home_default/mb-msi-b840m-gaming-wifi6e-am5-ddr5-amd-ryzen-9000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 179900,
-      "description": "MSI B840M GAMING WIFI6E  La B840M GAMING WIFI6E está diseñada para ofrecer una amplia conectividad, herramientas versátiles y una solución Wi-Fi para gamers que buscan una experiencia completa. Con Wi-Fi 6E, LAN 2.5G, solución PCIe 4.0 y funciones exclusivas de configuración fácil, está lista para jugar sin interrupciones las 24 horas, los 7 días de la...",
-      "specs": {
-        "socket": "AM5",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "0b7039e308b41789",
-          "a18d049fadec00e6",
-          "b69cd1a27121d022",
-          "a1cadb7f19586092",
-          "cea2d59bfc057e2e",
-          "99fb9c955a8487c8",
-          "430bd5a744b8ab13",
-          "2dac11533f3d1982",
-          "bea157493f425a9e",
-          "fe9a6f0fc60978df"
-        ],
-        "source": "https://www.msi.cn/Motherboard/B840M-GAMING-WIFI6E/Specification",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 154900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 154900
-        }
-      ]
-    },
-    {
-      "id": "319a4deace6bb6c9",
-      "name": "M.B. ASUS PRIME B550M-A AC (AM4) DDR4 (RYZEN 5000) (WiFi AC + BT 5.0)",
-      "category": "motherboard",
-      "price": 135900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/1823-mb-asus-prime-b550m-a-ac-am4-ddr4-ryzen-5000-wifi-ac-bt-50.html",
-      "image": "https://www.alltec.cl/11728-home_default/mb-asus-prime-b550m-a-ac-am4-ddr4-ryzen-5000-wifi-ac-bt-50.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "ASUS PRIME B550M-A AC (WiFi AC + BT 5.0)Tarjeta madre AMD AM4 mATX con PCIe 4.0, dual M.2, WiFi, HDMI, D-Sub, DVI, SATA 6 Gbps, puertos USB 3.2 Gen 2 e iluminación Aura Sync RGBSocket AMD AM4: Listo para procesadores Ryzen™ de escritorio Series 5000, 4000G y 3000. Refrigeración completa: Disipador de VRM, disipador de PCH y Fan Xpert 2+. Conectividad...",
-      "specs": {
-        "socket": "AM4",
-        "memory": "DDR4"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "1a44adc39c38f2cb"
-        ],
-        "source": "https://www.asus.com/supportonly/prime%20b550m-a%20ac/helpdesk_cpu/",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 135900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 135900
-        }
-      ]
-    },
-    {
-      "id": "1a44adc39c38f2cb",
-      "name": "AMD RYZEN 7 5700X 3.4GHz (4.6GHz TURBO) OCTA CORE (TDP 65W) (AM4)",
-      "category": "cpu",
-      "price": 346900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/amd/1794-amd-ryzen-7-5700x-34ghz-46ghz-turbo-octa-core-tdp-65w-am4-730143314275.html",
-      "image": "https://www.alltec.cl/9626-home_default/amd-ryzen-7-5700x-34ghz-46ghz-turbo-octa-core-tdp-65w-am4.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "AMD Ryzen™ 7 5700XModelo de gráficos: Se requiere tarjeta gráfica discreta # de núcleos de CPU: 8 # de hilos: 16 Reloj de aumento máx. : Hasta 4.6GHz Reloj base: 3.4GHzCaché L3 total 32MBSolución térmica (PIB): No incluido TDP/TDP predeterminado: 65W",
-      "specs": {
-        "socket": "AM4"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 346900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 346900
-        }
-      ]
-    },
-    {
-      "id": "d3ec2bddbf8709aa",
-      "name": "M.B. ASUS PRIME B650M-F (AM5) DDR5 (RYZEN 7000/8000/9000)",
-      "category": "motherboard",
-      "price": 109000,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/2483-mb-asus-prime-b650m-f-am5-ddr5-ryzen-700080009000.html",
-      "image": "https://www.alltec.cl/12806-home_default/mb-asus-prime-b650m-f-am5-ddr5-ryzen-700080009000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 119900,
-      "description": "Placa base micro-ATX AMD B650, DDR5, compatible con PCIe 4.0, ranura M.2, Ethernet Realtek de 1 Gb, HDMI™, USB tipo A de 5 Gbps, SATA de 6 Gbps, BIOS FlashBack™, cancelación de ruido bidireccional con IA, Aura SyncPC preparada para IA avanzada: diseñada para el futuro de la informática de IA, con la potencia y la conectividad necesarias para...",
-      "specs": {
-        "socket": "AM5",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "0b7039e308b41789",
-          "a18d049fadec00e6",
-          "b69cd1a27121d022",
-          "a1cadb7f19586092",
-          "cea2d59bfc057e2e",
-          "99fb9c955a8487c8",
-          "430bd5a744b8ab13",
-          "2dac11533f3d1982",
-          "bea157493f425a9e",
-          "fe9a6f0fc60978df"
-        ],
-        "source": "https://www.asus.com/motherboards-components/motherboards/prime/prime-b650m-f/helpdesk_cpu/?model2Name=PRIME-B650M-F",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 109000
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 109000
-        }
-      ]
-    },
-    {
-      "id": "ea4f796613171858",
-      "name": "M.B. MSI B550M PRO-VDH WIFI (AM4) 4xDDR4 (RYZEN 5000)",
-      "category": "motherboard",
-      "price": 128900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-amd/1495-mb-msi-b550m-pro-vdh-wifi-am4-4xddr4-ryzen-5000.html",
-      "image": "https://www.alltec.cl/8377-home_default/mb-msi-b550m-pro-vdh-wifi-am4-4xddr4-ryzen-5000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 136900,
-      "description": "B550M PRO-VDH WIFISoporta procesadores Serie 5000 AMD Ryzen™ Soporta memoria DDR4 hasta 4400(OC) MHz Experiencia ultrarrápida: PCIe 4.0, Lightning Gen4 x4 M.2 con M.2 Shield Frozr Solución térmica premium: con acolchado térmico 7W/mK, acolchado adicional para el choke y M.2 Shield Frozr, ofrece un alto desempeño y un trabajo sin pausa Diseño poderoso:...",
-      "specs": {
-        "socket": "AM4",
-        "memory": "DDR4"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "1a44adc39c38f2cb"
-        ],
-        "source": "https://www.msi.com/Motherboard/B550M-PRO-VDH-WIFI/Specification",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 128900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 128900
-        }
-      ]
-    },
-    {
-      "id": "aa5dbdbea8e7c342",
-      "name": "M.B. ASUS PRIME B840M-A WIFI (AM5) DDR5 (AMD RYZEN 9000)",
-      "category": "motherboard",
-      "price": 181000,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/asus/2423-mb-asus-prime-b840m-a-wifi-am5-ddr5-amd-ryzen-9000.html",
-      "image": "https://www.alltec.cl/12561-home_default/mb-asus-prime-b840m-a-wifi-am5-ddr5-amd-ryzen-9000.jpg",
-      "inStock": true,
-      "previousRetailPrice": 202700,
-      "description": "ASUS PRIME B840M-A WIFI Las placas base ASUS Prime están diseñadas por expertos para aprovechar al máximo el potencial de los procesadores AMD Ryzen ™ serie 9000. La placa base PRIME B840M-A WIFI ofrece a usuarios y ensambladores de PC DIY diversas optimizaciones de rendimiento mediante funciones intuitivas de software y firmware. Está diseñada para ser...",
-      "specs": {
-        "socket": "AM5",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "0b7039e308b41789",
-          "a18d049fadec00e6",
-          "b69cd1a27121d022",
-          "a1cadb7f19586092",
-          "cea2d59bfc057e2e",
-          "99fb9c955a8487c8",
-          "430bd5a744b8ab13",
-          "2dac11533f3d1982",
-          "bea157493f425a9e",
-          "fe9a6f0fc60978df"
-        ],
-        "source": "https://www.asus.com/uk/motherboards-components/motherboards/prime/prime-b840m-a-wifi/techspec/",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 181000
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 181000
-        }
-      ]
-    },
-    {
-      "id": "e163cc2c0440067b",
-      "name": "M.B. ASUS PRIME Z890-P WIFI (LGA1851) DDR5 (INTEL CORE ULTRA (SERIE 2))",
-      "category": "motherboard",
-      "price": 298900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-intel/2422-mb-asus-prime-z890-p-wifi-lga1851-ddr5-intel-core-ultra-serie-2.html",
-      "image": "https://www.alltec.cl/12553-home_default/mb-asus-prime-z890-p-wifi-lga1851-ddr5-intel-core-ultra-serie-2.jpg",
-      "inStock": true,
-      "previousRetailPrice": 312900,
-      "description": "ASUS PRIME Z890-P WIFI Las placas base ASUS de la serie PRIME están diseñadas por expertos para liberar todo el potencial de los últimos procesadores Intel® Core™ Ultra (Serie 2). La placa base PRIME Z890-P WIFI, que cuenta con un diseño de potencia robusto, soluciones de refrigeración completas y opciones de ajuste inteligente, proporciona a los usuarios...",
-      "specs": {
-        "socket": "1851",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "ef5e2191ae4f6f0a"
-        ],
-        "source": "https://www.asus.com/motherboards-components/motherboards/prime/prime-z890-p-wifi/techspec/",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 298900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 298900
-        }
-      ]
-    },
-    {
-      "id": "ef5e2191ae4f6f0a",
-      "name": "INTEL CORE ULTRA 5 245K (4.2GHz/5.2GHz TURBO, 14C/14T, 26MB CACHE, 125W/159W, LGA1851)",
-      "category": "cpu",
-      "price": 329900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/intel/2515-intel-core-ultra-5-245k-42ghz52ghz-turbo-14c14t-26mb-cache-125w159w-lga1851.html",
-      "image": "https://www.alltec.cl/12914-home_default/intel-core-ultra-5-245k-42ghz52ghz-turbo-14c14t-26mb-cache-125w159w-lga1851.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "INTEL CORE ULTRA 5 245K (INTEL ARROW LAKE-S (ARROW LAKE))FRECUENCIA DEL PROCESADOR : 4.2GHz FRECUENCIA TURBO MAXIMA : 5.2 GHz CANTIDAD DE NÚCLEOS : 14 CANTIDAD DE PERFORMANCE-CORES: 6 CANTIDAD DE EFFICIENT-CORES: 8 CANTIDAD DE SUB PROCESOS : 14 CACHE : 26MB SMARTCACHE TDP : 125W / 159W",
-      "specs": {
-        "socket": "1851"
-      },
-      "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 329900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 329900
-        }
-      ]
-    },
-    {
-      "id": "9823eda9447c0d01",
-      "name": "M.B. MSI PRO Z890-P WIFI (LGA1851) DDR5 (INTEL CORE ULTRA (SERIE 2))",
-      "category": "motherboard",
-      "price": 299900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-intel/2393-mb-msi-pro-z890-p-wifi-lga1851-ddr5-intel-core-ultra-serie-2.html",
-      "image": "https://www.alltec.cl/12320-home_default/mb-msi-pro-z890-p-wifi-lga1851-ddr5-intel-core-ultra-serie-2.jpg",
-      "inStock": true,
-      "previousRetailPrice": 349900,
-      "description": "MSI PRO Z890-P WIFICompatible con procesadores Intel® Core™ Ultra (Serie 2) para socket LGA 1851 Compatible con memoria DDR5, Dual Channel DDR5 9200+ MT/s (OC) Rendimiento Ultra: Sistema de alimentación Duet Rail 14+1+1+1 55A DrMOS, conectores de alimentación duales de 8 pines para CPU, Core Boost, Memory Boost, PCB de 6 capas fabricado con cobre de...",
-      "specs": {
-        "socket": "1851",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "ef5e2191ae4f6f0a"
-        ],
-        "source": "https://www.msi.com/Motherboard/PRO-Z890-P-WIFI/Overview",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 299900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 299900
-        }
-      ]
-    },
-    {
-      "id": "1b264494162cd188",
-      "name": "MSI PRO H810M-B WIFI6E (LGA1851) DDR5 (Intel® Core™ Ultra Processors Series 2)",
-      "category": "motherboard",
-      "price": 158900,
-      "currency": "CLP",
-      "store": "Alltec",
-      "url": "https://www.alltec.cl/para-intel/2469-msi-pro-h810m-b-wifi6e-lga1851-ddr5-intel-core-ultra-processors-series-2.html",
-      "image": "https://www.alltec.cl/12754-home_default/msi-pro-h810m-b-wifi6e-lga1851-ddr5-intel-core-ultra-processors-series-2.jpg",
-      "inStock": true,
-      "previousRetailPrice": 169900,
-      "description": "MSI PRO H810M-B WIFI6E La PRO H810M-B WIFI6E ofrece un diseño sencillo con una armoniosa combinación de colores plateados que se adapta perfectamente a configuraciones de PC tanto blancas como negras. Está equipada con Wi-Fi 6E, LAN de 2.5G y PCIe 5.0, y es compatible con los procesadores. La Serie PRO está diseñada para profesionales de todos los...",
-      "specs": {
-        "socket": "1851",
-        "memory": "DDR5"
-      },
-      "sourceType": "HTML / microdatos",
-      "platformSupport": {
-        "cpuIds": [
-          "ef5e2191ae4f6f0a"
-        ],
-        "source": "https://www.msi.com/Motherboard/PRO-H810M-B-WIFI6E/Overview",
-        "reviewedOn": "2026-10-18",
-        "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
-      },
-      "checkedAt": "2026-10-23T21:29:04.133031+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 158900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 158900
-        }
-      ]
+      ],
+      "stale": true
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "key": "chilesetup",
+      "message": "Expecting value: line 1 column 1 (char 0)"
+    }
+  ],
   "methodology": "Muestra acotada de catálogos públicos. Precio publicado; confirmar forma de pago, stock y despacho en la tienda. No incluye envío. No afiliado a SoloTodo."
 }
