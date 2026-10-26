@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T13:11:13.519738+00:00",
+  "generatedAt": "2026-10-26T22:44:01.480301+00:00",
   "currency": "CLP",
   "categories": [
     {
@@ -52,7 +52,7 @@
         "socket": "AM4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -136,6 +136,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 74500
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 74500
         }
       ]
@@ -156,7 +160,7 @@
         "socket": "1200"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -240,6 +244,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 120900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 120900
         }
       ]
@@ -260,7 +268,7 @@
         "socket": "AM4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -344,6 +352,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 125900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 125900
         }
       ]
@@ -364,7 +376,7 @@
         "socket": "1700"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -448,6 +460,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 139900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 139900
         }
       ]
@@ -469,7 +485,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -553,6 +569,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 59900
         }
       ]
@@ -574,7 +594,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -658,6 +678,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 84900
         }
       ]
@@ -679,7 +703,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -763,6 +787,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 85900
         }
       ]
@@ -784,7 +812,7 @@
         "memory": "DDR5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:11:36.381185+00:00",
@@ -864,6 +892,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 90900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 90900
         }
       ]
@@ -884,7 +916,7 @@
         "memory": "DDR5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -968,6 +1000,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 134900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 134900
         }
       ]
@@ -988,7 +1024,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1072,6 +1108,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 42900
         }
       ]
@@ -1092,7 +1132,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1176,6 +1216,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 42900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 42900
         }
       ]
@@ -1196,7 +1240,7 @@
         "memory": "DDR4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1280,6 +1324,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 45900
         }
       ]
@@ -1298,7 +1346,7 @@
       "description": "TEAMGROUP CX2 SSD 256GBUn artículo imprescindible para los principiantes que quieran reemplazar su disco duro mecánico tradicional Tecnología avanzada de almacenamiento en caché SLC Resistente a impactos y caídas para un uso seguro La función del código de corrección de errores (del inglés ECC, Error Correction Code) mejora la eficacia",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1382,6 +1430,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 56900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 56900
         }
       ]
@@ -1400,7 +1452,7 @@
       "description": "SSD Macrovip Premium 512GB 2.5″ SATA 3 – MV512GB La unidad SSD Macrovip Premium de 2,5″ garantiza un rendimiento rápido y fiable para su ordenador. Con velocidades de lectura de hasta 520 Mb/s y de escritura de hasta 450 Mb/s, disfrutarás de un arranque instantáneo, una carga rápida de aplicaciones y una veloz transferencia de datos.",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1484,6 +1536,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 85900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 85900
         }
       ]
@@ -1502,7 +1558,7 @@
       "description": "TEAMGROUP CX2 SSD 512GBUn artículo imprescindible para los principiantes que quieran reemplazar su disco duro mecánico tradicional Tecnología avanzada de almacenamiento en caché SLC Resistente a impactos y caídas para un uso seguro La función del código de corrección de errores (del inglés ECC, Error Correction Code) mejora la eficacia",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1586,6 +1642,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 99900
         }
       ]
@@ -1604,7 +1664,7 @@
       "description": "ADATA SU650 480GBSi está buscando reemplazar ese disco duro suyo con un SSD, no busque más que el ADATA SU650. El SSD ofrece un valor increíble y un gran rendimiento. También viene con excelentes características como la tecnología LDPC ECC.",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1688,6 +1748,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 99900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 99900
         }
       ]
@@ -1706,7 +1770,7 @@
       "description": "ASUS Dual GeForce RTX™ 3050 OC Edition 6GB GDDR6 con dos potentes ventiladores Rendimiento de juegos AAA y trazado de rayosMultiprocesadores de transmisión NVIDIA Ampere: el nuevo Ampere SM ofrece el doble de rendimiento del FP32 y una eficiencia energética mejorada. Núcleos RT de 2.ª generación: experimente el doble de rendimiento que los núcleos...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1790,6 +1854,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 279900
         }
       ]
@@ -1808,7 +1876,7 @@
       "description": "MSI RTX 3050 LP 6G OC LOW PROFILE (PERFIL BAJO) GeForce RTX™ 3050 LP 6G OCLa GeForce RTX™ 3050 de 6 GB está diseñada con la arquitectura NVIDIA Ampere, que incluye núcleos de trazado de rayos dedicados, núcleos de tensor de IA y memoria G6 de alta velocidad. Pásate a GeForce RTX. Reloj Boost / Velocidad de memoria1492 MHz / 14 Gbps 6GB GDDR6...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1892,6 +1960,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 289900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 289900
         }
       ]
@@ -1910,7 +1982,7 @@
       "description": "EVGA GeForce GTX 1660 SUPER SC ULTRA GAMING (06G-P4-1068-KR) 6GB GDDR6, Dual Fan, Metal Backplate Las tarjetas gráficas EVGA GeForce GTX serie 16 están impulsadas por la nueva arquitectura NVIDIA Turing para brindarle nuevos e increíbles niveles de realismo, velocidad, eficiencia energética e inmersión en los juegos. Con las tarjetas de juego EVGA GeForce...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -1994,6 +2066,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 314900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 314900
         }
       ]
@@ -2012,7 +2088,7 @@
       "description": "SAPPHIRE PULSE AMD Radeon™ RX 7600 8GBGPU: Reloj de refuerzo: hasta 2755 MHz GPU: Reloj de juego: hasta 2355 MHz Memoria: 8GB/DDR6 de 128 bits. 18 Gbps efectivos Procesadores de flujo: 2048 Arquitectura RDNA™ 3 Acelerador de rayos: 32",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2096,6 +2172,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 359900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 359900
         }
       ]
@@ -2114,7 +2194,7 @@
       "description": "Fuente de Poder CLIO GS-650W (BLACK) 80 Plus White CARACTERÍSTICAS:Certificación: 80 Plus White. Eficiencia Energética: 80% al 20% de carga, 85% al 50% de carga y 80% al 100% de carga. Compatibilidad: ATX 12V v2.3, EPS 12V v2.91 y SSI EPS 12V 2.92. Entrada de Voltaje: 240V con Corrección de Factor de Potencia Activa (APFC). Rail +12V: Rail único....",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2198,6 +2278,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 43900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 43900
         }
       ]
@@ -2216,7 +2300,7 @@
       "description": "Fuente de Poder CLIO GS-650W WHITE 80 Plus White CARACTERÍSTICAS:Certificación: 80 Plus White. Eficiencia Energética: 80% al 20% de carga, 85% al 50% de carga y 80% al 100% de carga. Compatibilidad: ATX 12V v2.3, EPS 12V v2.91 y SSI EPS 12V 2.92. Entrada de Voltaje: 240V con Corrección de Factor de Potencia Activa (APFC). Rail +12V: Rail único....",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2300,6 +2384,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 45900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 45900
         }
       ]
@@ -2318,7 +2406,7 @@
       "description": "Spectrum 700W  (NRP-MC751, 230V, 230V, ventilador RGB de 120 mm, 80+ White)80% de eficiencia en cualquier carga del sistema. Capaz de trabajar en un entorno de 220 V a 240 V. La capacidad de corriente mejorada de + 12V amplía las posibilidades de utilización. Reducir la pérdida de línea y la distorsión de potencia. Proporciona un excelente enfriamiento...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2402,6 +2490,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 59900
         }
       ]
@@ -2420,7 +2512,7 @@
       "description": "AZZA 650W BRONZEIntel ATX12V Certificado 80PLUS® Bronze Componentes de alta calidad Entrada de CA universal de 100V-240V / 200V-240V Ventilador de 120 mm: funcionamiento silencioso en una amplia gama de cargas Los cables planos duraderos le brindan espacios limpios y ordenados Protección: UVP, OVP, OPP, OCP, SCP Seguridad: FCC, CE, TUV, RoHS, RCM",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2504,6 +2596,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 62900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 62900
         }
       ]
@@ -2522,7 +2618,7 @@
       "description": "Gabinete CLIO M3 TG Micro ATX Mid-Tower con Vidrio Templado DISEÑO Y ESTÉTICA:Panel Lateral: Vidrio templado de alta calidad, diseñado para resaltar la configuración interna y los efectos de iluminación. Dimensiones del Gabinete: 420 x 247 x 452 mm (Estructura robusta y espaciosa para su categoría). Peso Neto: 5.7 kgs (Construcción sólida para...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2606,6 +2702,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 26900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 26900
         }
       ]
@@ -2624,7 +2724,7 @@
       "description": "GameMax EDGE (MATX) BLACK Mini Tower Caja Compacta para PCDiseño compacto - Compatible con placas base Micro ATX y Mini ITX. Refrigeración eficiente - Ventilador RGB de 120mm y panel de malla frontal para óptimo flujo de aire. Visibilidad clara - Panel lateral de vidrio templado para ver los componentes internos. Alta compatibilidad - Acomoda GPUs...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2708,6 +2808,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 33900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 33900
         }
       ]
@@ -2726,7 +2830,7 @@
       "description": "GAMEMAX INFINITY MINI WH (MATX) (WHITE) (SIN FAN) Con soporte para 7 ventiladores (no incluidos), mini gabinete para PC gaming con 2 paneles de vidrio templado.La caja para juegos Infinity Mini está equipada con 2 paneles de vidrio templado de 3 mm de espesor, que permiten ver claramente la iluminación RGB y los componentes internos, creando una...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:11:36.381185+00:00",
@@ -2806,6 +2910,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 41900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 41900
         }
       ]
@@ -2824,7 +2932,7 @@
       "description": "ANTEC VCX300 ARGB ATX CARACTERÍSTICAS:Diseño compacto con potente disipación de calor. Panel frontal y lateral de vidrio templado Vista panorámica de 270° con diseño de doble cámara Refrigeración vertical con entrada de aire masiva Ventiladores ARGB de 5 x 120 mm preinstalados Compatibilidad con placas base ATX, Micro ATX y Mini ITX",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-22T21:41:31.713656+00:00",
@@ -2872,6 +2980,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 52900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 52900
         }
       ]
@@ -2890,7 +3002,7 @@
       "description": "Thermaltake UX100 ARGB LIGHTING (CPU Intel y AMD) Disipador para CPU Thermaltake UX100 ARGB Lighting (Socket Intel y AMD) cuenta con 9 aspas de flujo de aire hasta 38,82 CFM, cojinete hidráulico y 16,8 millones de colores de 15 LEDs ARGB.",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -2974,6 +3086,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 20900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 20900
         }
       ]
@@ -2992,7 +3108,7 @@
       "description": "ALSEYE MAX M90-B (BLACK)Refrigeración de torres gemelas Cubierta superior ARGB Cuatro Heatpipes de tacto directo Admite múltiples plataformas (AMD/INTEL)",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3076,6 +3192,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 30900
         }
       ]
@@ -3094,7 +3214,7 @@
       "description": "ALSEYE MAX M90-W (WHITE)Refrigeración de torres gemelas Cubierta superior ARGB Cuatro Heatpipes de tacto directo Admite múltiples plataformas (AMD/INTEL)",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3178,6 +3298,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 30900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 30900
         }
       ]
@@ -3196,7 +3320,7 @@
       "description": "XIGMATEK AIR KILLER S ARCTIC EN47932Soporte de CPU: Procesadores Intel®: LGA 20xx/1700/1200/115x - Procesadores AMD®: AM5/AM4/AM3 Dimensiones del producto: 128 x 76 x 160 mm (largo x ancho x alto) Dimensiones del disipador de calor: 128 x 50 x 155 mm (largo x ancho x alto) Material del disipador de calor: 4 tubos de calor/aletas de aluminio Dimensiones...",
       "specs": {},
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3281,6 +3405,10 @@
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
           "price": 33900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 33900
         }
       ]
     },
@@ -3298,7 +3426,7 @@
       "description": "El DeepCool CG580 4F V2 es un gabinete ATX/M-ATX/ITX de materiales ABS y SGCC con panel lateral de vidrio templado. Incluye 4 ventiladores ARGB PWM de 120mm preinstalados (3 laterales y 1 trasero) y puertos frontales USB 3.0 y USB-C. Color negro.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3386,6 +3514,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 78900
         }
       ]
@@ -3404,7 +3536,7 @@
       "description": "La DeepCool LE240 V2 es una refrigeracion liquida AIO de 240mm en color negro, con 2 ventiladores y bomba integrada. Formato compacto ideal para gabinetes medianos que buscan buen rendimiento termico.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3492,6 +3624,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 75900
         }
       ]
@@ -3510,7 +3646,7 @@
       "description": "La DeepCool LE240 WH V2 es una refrigeracion liquida AIO de 240mm en color blanco, con 2 ventiladores y bomba integrada. Formato compacto ideal para gabinetes medianos que buscan buen rendimiento termico.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3598,6 +3734,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 79900
         }
       ]
@@ -3616,7 +3756,7 @@
       "description": "El DeepCool AK500 Digital Pro WH es un disipador de aire de torre simple con 5 heatpipes de cobre y pantalla digital que muestra la temperatura o frecuencia del CPU en tiempo real. Color blanco, ideal para configuraciones de uso general y gaming.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3704,6 +3844,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 84900
         }
       ]
@@ -3722,7 +3866,7 @@
       "description": "La DeepCool PF500X, de la linea Gamer Storm, entrega 500W con certificacion 80+ Bronze, pensada para equipos gamer de entrada.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3810,6 +3954,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 40990
         }
       ]
@@ -3828,7 +3976,7 @@
       "description": "La DeepCool PF600X, de la linea Gamer Storm, entrega 600W con certificacion 80+ Bronze, pensada para equipos gamer de entrada y media gama.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -3916,6 +4064,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 45990
         }
       ]
@@ -3934,7 +4086,7 @@
       "description": "La DeepCool PF700X, de la linea Gamer Storm, entrega 700W con certificacion 80+ Bronze, una opcion solida y accesible para equipos gamer de rango medio.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -4022,6 +4174,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 52990
         }
       ]
@@ -4040,7 +4196,7 @@
       "description": "La DeepCool PL650D entrega 650W con certificacion 80+ Bronze, garantizando un suministro electrico estable para equipos gamer y de uso general.",
       "specs": {},
       "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-17T19:07:47.650874+00:00",
@@ -4128,6 +4284,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 59900
         }
       ]
@@ -4150,7 +4310,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -4230,6 +4390,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 449990
         }
       ]
@@ -4252,7 +4416,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -4332,6 +4496,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 289990
         }
       ]
@@ -4354,7 +4522,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 2,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -4434,6 +4602,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 249990
         }
       ]
@@ -4456,7 +4628,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 2,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -4536,6 +4708,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 199990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 199990
         }
       ]
@@ -4558,7 +4734,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -4638,6 +4814,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 169990
         }
       ]
@@ -4660,7 +4840,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 19,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -4740,6 +4920,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 499990
         }
       ]
@@ -4762,7 +4946,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -4842,6 +5026,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 549980
         }
       ]
@@ -4864,7 +5052,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -4944,6 +5132,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 514990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 514990
         }
       ]
@@ -4966,7 +5158,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 1,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -5046,6 +5238,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 349990
         }
       ]
@@ -5068,7 +5264,7 @@
       "sourceType": "Datos públicos de la ficha de producto",
       "stockQuantity": 4,
       "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T16:07:43.748582+00:00",
@@ -5148,6 +5344,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 299990
         }
       ]
@@ -5186,7 +5386,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5258,6 +5458,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 299900
         }
       ]
@@ -5278,7 +5482,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5350,6 +5554,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 277900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 277900
         }
       ]
@@ -5370,7 +5578,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5442,6 +5650,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 329900
         }
       ]
@@ -5462,7 +5674,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5534,6 +5746,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 229900
         }
       ]
@@ -5554,7 +5770,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5626,6 +5842,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 287500
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 287500
         }
       ]
@@ -5646,7 +5866,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5718,6 +5938,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 229900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 229900
         }
       ]
@@ -5738,7 +5962,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5810,6 +6034,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 329900
         }
       ]
@@ -5830,7 +6058,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5902,6 +6130,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 398900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 398900
         }
       ]
@@ -5922,7 +6154,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -5994,6 +6226,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 279900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 279900
         }
       ]
@@ -6014,7 +6250,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6086,6 +6322,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 348900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 348900
         }
       ]
@@ -6106,7 +6346,7 @@
         "socket": "AM5"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6178,6 +6418,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 458900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 458900
         }
       ]
@@ -6216,7 +6460,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6288,6 +6532,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 264500
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 264500
         }
       ]
@@ -6326,7 +6574,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6398,6 +6646,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 154900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 154900
         }
       ]
@@ -6427,7 +6679,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6499,6 +6751,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 135900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 135900
         }
       ]
@@ -6519,7 +6775,7 @@
         "socket": "AM4"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6591,6 +6847,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 346900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 346900
         }
       ]
@@ -6629,7 +6889,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6701,6 +6961,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 109000
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 109000
         }
       ]
@@ -6730,7 +6994,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6802,6 +7066,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 128900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 128900
         }
       ]
@@ -6840,7 +7108,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -6912,6 +7180,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 181000
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 181000
         }
       ]
@@ -6941,7 +7213,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -7013,6 +7285,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 298900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 298900
         }
       ]
@@ -7033,7 +7309,7 @@
         "socket": "1851"
       },
       "sourceType": "HTML / microdatos",
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -7105,6 +7381,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 329900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 329900
         }
       ]
@@ -7134,7 +7414,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -7206,6 +7486,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 299900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 299900
         }
       ]
@@ -7235,7 +7519,7 @@
         "reviewedOn": "2026-10-18",
         "note": "Soporte de plataforma contrastado con el fabricante. Confirmar modelo en la lista de CPU, revision y BIOS antes de comprar."
       },
-      "checkedAt": "2026-10-26T13:11:13.519738+00:00",
+      "checkedAt": "2026-10-26T22:44:01.480301+00:00",
       "history": [
         {
           "date": "2026-10-18T15:59:28.088627+00:00",
@@ -7307,6 +7591,10 @@
         },
         {
           "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 158900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
           "price": 158900
         }
       ]
