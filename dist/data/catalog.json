@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T13:01:54.527968+00:00",
+  "generatedAt": "2026-10-28T22:39:54.302326+00:00",
   "currency": "CLP",
   "categories": [
     {
@@ -36,6 +36,2118 @@
     }
   ],
   "products": [
+    {
+      "id": "1046d90827534680",
+      "name": "Gabinete DeepCool CG580 4F V2",
+      "category": "case",
+      "price": 78900,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/gabinete-deepcool-cg580-4f-v2/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/gabinete-deepcool-cg580-4f-v2.webp",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "El DeepCool CG580 4F V2 es un gabinete ATX/M-ATX/ITX de materiales ABS y SGCC con panel lateral de vidrio templado. Incluye 4 ventiladores ARGB PWM de 120mm preinstalados (3 laterales y 1 trasero) y puertos frontales USB 3.0 y USB-C. Color negro.",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 78900
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 78900
+        }
+      ]
+    },
+    {
+      "id": "9b09bb25d93c0120",
+      "name": "Refrigeracion Liquida DeepCool LE240 V2 240mm",
+      "category": "cooler",
+      "price": 75900,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/refrigeracion-liquida-deepcool-le240-v2-240mm/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/refrigeracion-liquida-deepcool-le240-v2-240mm.webp",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "La DeepCool LE240 V2 es una refrigeracion liquida AIO de 240mm en color negro, con 2 ventiladores y bomba integrada. Formato compacto ideal para gabinetes medianos que buscan buen rendimiento termico.",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 75900
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 75900
+        }
+      ]
+    },
+    {
+      "id": "96bac56f50d61429",
+      "name": "Refrigeracion Liquida DeepCool LE240 WH V2 240mm",
+      "category": "cooler",
+      "price": 79900,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/refrigeracion-liquida-deepcool-le240-wh-v2-240mm/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/refrigeracion-liquida-deepcool-le240-wh-v2-240mm.webp",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "La DeepCool LE240 WH V2 es una refrigeracion liquida AIO de 240mm en color blanco, con 2 ventiladores y bomba integrada. Formato compacto ideal para gabinetes medianos que buscan buen rendimiento termico.",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 79900
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 79900
+        }
+      ]
+    },
+    {
+      "id": "86c55586adb8404d",
+      "name": "Disipador Aire DeepCool AK500 Digital Pro WH",
+      "category": "cooler",
+      "price": 84900,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/disipador-aire-deepcool-ak500-digital-pro-wh/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/disipador-aire-deepcool-ak500-digital-pro-wh.webp",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "El DeepCool AK500 Digital Pro WH es un disipador de aire de torre simple con 5 heatpipes de cobre y pantalla digital que muestra la temperatura o frecuencia del CPU en tiempo real. Color blanco, ideal para configuraciones de uso general y gaming.",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 84900
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 84900
+        }
+      ]
+    },
+    {
+      "id": "3ab2e78bc62b60c3",
+      "name": "Fuente de Poder DeepCool PF500X 500W 80+ Bronze",
+      "category": "psu",
+      "price": 40990,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/fuente-de-poder-deepcool-pf500x-500w-80-bronze/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/fuente-de-poder-deepcool-pf500x-500w-80-bronze.webp",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "La DeepCool PF500X, de la linea Gamer Storm, entrega 500W con certificacion 80+ Bronze, pensada para equipos gamer de entrada.",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 40990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 40990
+        }
+      ]
+    },
+    {
+      "id": "42e04b778e5aaaeb",
+      "name": "Fuente de Poder DeepCool PF600X 600W 80+ Bronze",
+      "category": "psu",
+      "price": 45990,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/fuente-de-poder-deepcool-pf600x-600w-80-bronze/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/fuente-de-poder-deepcool-pf600x-600w-80-bronze.webp",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "La DeepCool PF600X, de la linea Gamer Storm, entrega 600W con certificacion 80+ Bronze, pensada para equipos gamer de entrada y media gama.",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 45990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 45990
+        }
+      ]
+    },
+    {
+      "id": "40de12347333a532",
+      "name": "Fuente de Poder DeepCool PF700X 700W 80+ Bronze",
+      "category": "psu",
+      "price": 52990,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/fuente-de-poder-deepcool-pf700x-700w-80-bronze/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/fuente-de-poder-deepcool-pf700x-700w-80-bronze.webp",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "La DeepCool PF700X, de la linea Gamer Storm, entrega 700W con certificacion 80+ Bronze, una opcion solida y accesible para equipos gamer de rango medio.",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 52990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 52990
+        }
+      ]
+    },
+    {
+      "id": "240ad6df1743ebb8",
+      "name": "Fuente de Poder DeepCool PL650D 650W 80+ Bronze",
+      "category": "psu",
+      "price": 59900,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/fuente-de-poder-deepcool-pl650d-650w-80-bronze/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/fuente-de-poder-deepcool-pl650d-650w-80-bronze.webp",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "La DeepCool PL650D entrega 650W con certificacion 80+ Bronze, garantizando un suministro electrico estable para equipos gamer y de uso general.",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-17T19:07:47.650874+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-17T19:11:36.381185+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T03:08:44.763464+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T15:59:28.088627+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 59900
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 59900
+        }
+      ]
+    },
+    {
+      "id": "554bb181b34da850",
+      "name": "Memoria RAM DDR5 16GB 6000MT/s XPG Lancer Blade RGB, UDIMM, Black",
+      "category": "ram",
+      "price": 449990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/xpg-ram-lancer-blade-rgb-ddr5-16gb-6000-black/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1734028590290-lr1_7aacb1c5_thumbnail_256.png",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR5"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-24T16:02:43.475824+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 449990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 449990
+        }
+      ]
+    },
+    {
+      "id": "981e2aaa6cdf6d50",
+      "name": "Memoria RAM DDR4 16GB 3200MT/s Kingston Fury Beast RGB, CL16, DIMM, 1.35V",
+      "category": "ram",
+      "price": 289990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl16-16-gb-3200mts/",
+      "image": "https://media.spdigital.cl/thumbnails/products/jz0rqag6_2442c154_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-24T16:02:43.475824+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 289990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 289990
+        }
+      ]
+    },
+    {
+      "id": "c144609173110a47",
+      "name": "Memoria RAM DDR4 16GB 3600MT/s Kingston Fury Beast RGB Black, CL18, DIMM, 1.35V",
+      "category": "ram",
+      "price": 249990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/kingston-fury-beast-rgb-ddr4-modulo-16-gb-dimm-de-288-contactos-3600-mhz-pc4-28800-cl1/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1792180775737-k1_440857bd_2ad00e01_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 2,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-24T16:02:43.475824+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 249990
+        }
+      ]
+    },
+    {
+      "id": "8db0b71e5940daff",
+      "name": "Memoria RAM DDR4 8GB 3600MT/s Kingston Fury Beast RGB, CL17, DIMM, 1.35V",
+      "category": "ram",
+      "price": 169990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl17-8gb-3600mts/",
+      "image": "https://media.spdigital.cl/thumbnails/products/jh9tlg7k_be47ac5e_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-24T16:02:43.475824+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 169990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 169990
+        }
+      ]
+    },
+    {
+      "id": "89b4630cc94efde7",
+      "name": "Memoria RAM DDR4 Kingston 32GB, DDR4 3200MT/S, NON-ECC, UNBUFFERED, CL22, DIMM",
+      "category": "ram",
+      "price": 499990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/memoria-ram-ddr4-kingston-32gb-ddr4-3200mts-non-ecc-unbuffered-cl22-dimm/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1780689682200-77685561_3600229681_407e063d_c47d98fd_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 19,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-24T16:02:43.475824+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 499990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 499990
+        }
+      ]
+    },
+    {
+      "id": "86318cae524f0b93",
+      "name": "Memoria Ram DDR5 16GB (1x16GB) 6400MT/s CL32 Kingston FURY Beast Black RGB EXPO",
+      "category": "ram",
+      "price": 549980,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/memoria-16gb-6400mts-ddr5-cl32-dimm-fury-beast-rg/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1758830343826-4886ac86c8ee147eb2801a9313cd0fcf_474bb564_e3bd93ac_thumbnail_2.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR5"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-24T16:02:43.475824+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 549980
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 549980
+        }
+      ]
+    },
+    {
+      "id": "02144fe58fcd9394",
+      "name": "Memoria RAM Kingston DDR5 16GB 5600MT/s Non-ECC, CL46 1RX8 1.1V 288-pin, DIMM ",
+      "category": "ram",
+      "price": 349990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/memoria-ram-16gb5600mtsddr5-non-ecc-cl46-dimm1rx8/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1790859022946-kst2_0a59a159_8ea142ed_thumbnail_256.png",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR5"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 1,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-24T16:02:43.475824+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 349990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 349990
+        }
+      ]
+    },
+    {
+      "id": "f051c93ee573fa73",
+      "name": "Memoria RAM Kingston FURY Renegade Black,16GB, DDR4 3600MT/s, CL16, DIMM, XMP",
+      "category": "ram",
+      "price": 299990,
+      "currency": "CLP",
+      "store": "SP Digital",
+      "url": "https://www.spdigital.cl/16gb3600mts-ddr4-cl16dimm1gx8-furyrenegadebl/",
+      "image": "https://media.spdigital.cl/thumbnails/products/1792180433543-f1_6666ae65_66343c8a_thumbnail_256.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
+      "specs": {
+        "memory": "DDR4"
+      },
+      "sourceType": "Datos públicos de la ficha de producto",
+      "stockQuantity": 4,
+      "paymentMethod": "Transferencia",
+      "checkedAt": "2026-10-28T22:39:54.302326+00:00",
+      "history": [
+        {
+          "date": "2026-10-18T16:07:43.748582+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-21T03:46:18.330893+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-22T00:48:30.251686+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-22T11:59:44.790066+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-22T17:15:44.016299+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-22T21:41:31.713656+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-23T04:58:17.794766+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-23T11:45:16.911495+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-23T17:13:55.527459+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-23T21:29:04.133031+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-24T04:43:10.773861+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-24T11:08:39.699265+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-24T16:02:43.475824+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-24T20:55:15.411066+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-25T04:48:41.385178+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-25T11:38:29.995587+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-25T16:29:01.932594+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-25T20:55:41.993623+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-26T04:54:06.657010+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-26T13:11:13.519738+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-26T22:44:01.480301+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-27T05:12:07.346521+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-27T12:19:24.455363+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-27T22:20:02.543737+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-28T05:48:40.792578+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-28T13:01:54.527968+00:00",
+          "price": 299990
+        },
+        {
+          "date": "2026-10-28T22:39:54.302326+00:00",
+          "price": 299990
+        }
+      ]
+    },
     {
       "id": "d97f13a285cb7313",
       "name": "AMD RYZEN 3 4100 (MPK) 3.8GHz (4.0GHz TURBO) QUAD CORE (TDP 65W) (AM4)",
@@ -162,7 +2274,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 74500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "6a351346e4d3a8b6",
@@ -290,7 +2403,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 120900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "81f7b117d9fed4cb",
@@ -418,7 +2532,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 125900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "657d19d4a0620bdc",
@@ -546,7 +2661,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 139900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d45d0174e59e686d",
@@ -675,7 +2791,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 59900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "1f66dd825051090b",
@@ -804,7 +2921,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 84900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "7e4c59fcac0e85dd",
@@ -933,7 +3051,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 85900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "73581b2ff860f13d",
@@ -1058,7 +3177,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 90900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "744e6ba30848c221",
@@ -1186,7 +3306,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 134900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "07123c5535b8306c",
@@ -1314,7 +3435,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 42900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d13a956f4d089118",
@@ -1442,7 +3564,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 42900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "150d3b1bfb1ac877",
@@ -1570,7 +3693,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 45900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d5bf054866bd964f",
@@ -1696,7 +3820,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 56900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "8a6ff493f5247dec",
@@ -1822,7 +3947,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 85900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "b129177623e9ec41",
@@ -1948,7 +4074,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 99900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "0573806b0c628352",
@@ -2074,7 +4201,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 99900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "dd0787b0c3dc5535",
@@ -2200,7 +4328,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 279900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "505524d4fb44a9c7",
@@ -2326,7 +4455,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 289900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "7d20e021747e98c0",
@@ -2452,7 +4582,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 314900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "dbc80633d6eac83a",
@@ -2578,7 +4709,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 359900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "6e8387b838842a3e",
@@ -2704,7 +4836,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 43900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "5509e445860c47b4",
@@ -2830,7 +4963,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 45900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "7d89f23f3f112e46",
@@ -2956,7 +5090,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 59900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ee82bde5041a43fb",
@@ -3082,7 +5217,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 62900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "c12b8c6986c13c00",
@@ -3208,7 +5344,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 26900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "6b8da70eb422c1ec",
@@ -3334,7 +5471,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 33900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "406c3edb2385265d",
@@ -3456,7 +5594,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 41900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "b6982c16bc8e4417",
@@ -3546,7 +5685,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 52900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ff7b317b380dd93f",
@@ -3672,7 +5812,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 20900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "cbf9cf63429c21b0",
@@ -3798,7 +5939,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 30900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "075e03dc09aff83b",
@@ -3924,7 +6066,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 30900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "7ca0ee60284effa3",
@@ -4050,2055 +6193,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 33900
         }
-      ]
-    },
-    {
-      "id": "1046d90827534680",
-      "name": "Gabinete DeepCool CG580 4F V2",
-      "category": "case",
-      "price": 78900,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/gabinete-deepcool-cg580-4f-v2/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/gabinete-deepcool-cg580-4f-v2.webp",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "El DeepCool CG580 4F V2 es un gabinete ATX/M-ATX/ITX de materiales ABS y SGCC con panel lateral de vidrio templado. Incluye 4 ventiladores ARGB PWM de 120mm preinstalados (3 laterales y 1 trasero) y puertos frontales USB 3.0 y USB-C. Color negro.",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 78900
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 78900
-        }
-      ]
-    },
-    {
-      "id": "9b09bb25d93c0120",
-      "name": "Refrigeracion Liquida DeepCool LE240 V2 240mm",
-      "category": "cooler",
-      "price": 75900,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/refrigeracion-liquida-deepcool-le240-v2-240mm/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/refrigeracion-liquida-deepcool-le240-v2-240mm.webp",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "La DeepCool LE240 V2 es una refrigeracion liquida AIO de 240mm en color negro, con 2 ventiladores y bomba integrada. Formato compacto ideal para gabinetes medianos que buscan buen rendimiento termico.",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 75900
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 75900
-        }
-      ]
-    },
-    {
-      "id": "96bac56f50d61429",
-      "name": "Refrigeracion Liquida DeepCool LE240 WH V2 240mm",
-      "category": "cooler",
-      "price": 79900,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/refrigeracion-liquida-deepcool-le240-wh-v2-240mm/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/refrigeracion-liquida-deepcool-le240-wh-v2-240mm.webp",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "La DeepCool LE240 WH V2 es una refrigeracion liquida AIO de 240mm en color blanco, con 2 ventiladores y bomba integrada. Formato compacto ideal para gabinetes medianos que buscan buen rendimiento termico.",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 79900
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 79900
-        }
-      ]
-    },
-    {
-      "id": "86c55586adb8404d",
-      "name": "Disipador Aire DeepCool AK500 Digital Pro WH",
-      "category": "cooler",
-      "price": 84900,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/disipador-aire-deepcool-ak500-digital-pro-wh/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/disipador-aire-deepcool-ak500-digital-pro-wh.webp",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "El DeepCool AK500 Digital Pro WH es un disipador de aire de torre simple con 5 heatpipes de cobre y pantalla digital que muestra la temperatura o frecuencia del CPU en tiempo real. Color blanco, ideal para configuraciones de uso general y gaming.",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 84900
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 84900
-        }
-      ]
-    },
-    {
-      "id": "3ab2e78bc62b60c3",
-      "name": "Fuente de Poder DeepCool PF500X 500W 80+ Bronze",
-      "category": "psu",
-      "price": 40990,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/fuente-de-poder-deepcool-pf500x-500w-80-bronze/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/fuente-de-poder-deepcool-pf500x-500w-80-bronze.webp",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "La DeepCool PF500X, de la linea Gamer Storm, entrega 500W con certificacion 80+ Bronze, pensada para equipos gamer de entrada.",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 40990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 40990
-        }
-      ]
-    },
-    {
-      "id": "42e04b778e5aaaeb",
-      "name": "Fuente de Poder DeepCool PF600X 600W 80+ Bronze",
-      "category": "psu",
-      "price": 45990,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/fuente-de-poder-deepcool-pf600x-600w-80-bronze/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/fuente-de-poder-deepcool-pf600x-600w-80-bronze.webp",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "La DeepCool PF600X, de la linea Gamer Storm, entrega 600W con certificacion 80+ Bronze, pensada para equipos gamer de entrada y media gama.",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 45990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 45990
-        }
-      ]
-    },
-    {
-      "id": "40de12347333a532",
-      "name": "Fuente de Poder DeepCool PF700X 700W 80+ Bronze",
-      "category": "psu",
-      "price": 52990,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/fuente-de-poder-deepcool-pf700x-700w-80-bronze/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/fuente-de-poder-deepcool-pf700x-700w-80-bronze.webp",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "La DeepCool PF700X, de la linea Gamer Storm, entrega 700W con certificacion 80+ Bronze, una opcion solida y accesible para equipos gamer de rango medio.",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 52990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 52990
-        }
-      ]
-    },
-    {
-      "id": "240ad6df1743ebb8",
-      "name": "Fuente de Poder DeepCool PL650D 650W 80+ Bronze",
-      "category": "psu",
-      "price": 59900,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/fuente-de-poder-deepcool-pl650d-650w-80-bronze/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/10/fuente-de-poder-deepcool-pl650d-650w-80-bronze.webp",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "La DeepCool PL650D entrega 650W con certificacion 80+ Bronze, garantizando un suministro electrico estable para equipos gamer y de uso general.",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-17T19:07:47.650874+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-17T19:11:36.381185+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T03:08:44.763464+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T15:59:28.088627+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 59900
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 59900
-        }
-      ]
-    },
-    {
-      "id": "554bb181b34da850",
-      "name": "Memoria RAM DDR5 16GB 6000MT/s XPG Lancer Blade RGB, UDIMM, Black",
-      "category": "ram",
-      "price": 449990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/xpg-ram-lancer-blade-rgb-ddr5-16gb-6000-black/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1734028590290-lr1_7aacb1c5_thumbnail_256.png",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-24T04:43:10.773861+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-24T16:02:43.475824+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 449990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 449990
-        }
-      ]
-    },
-    {
-      "id": "981e2aaa6cdf6d50",
-      "name": "Memoria RAM DDR4 16GB 3200MT/s Kingston Fury Beast RGB, CL16, DIMM, 1.35V",
-      "category": "ram",
-      "price": 289990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl16-16-gb-3200mts/",
-      "image": "https://media.spdigital.cl/thumbnails/products/jz0rqag6_2442c154_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-24T04:43:10.773861+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-24T16:02:43.475824+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 289990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 289990
-        }
-      ]
-    },
-    {
-      "id": "c144609173110a47",
-      "name": "Memoria RAM DDR4 16GB 3600MT/s Kingston Fury Beast RGB Black, CL18, DIMM, 1.35V",
-      "category": "ram",
-      "price": 249990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/kingston-fury-beast-rgb-ddr4-modulo-16-gb-dimm-de-288-contactos-3600-mhz-pc4-28800-cl1/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1792180775737-k1_440857bd_2ad00e01_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 2,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-24T04:43:10.773861+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-24T16:02:43.475824+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 249990
-        }
-      ]
-    },
-    {
-      "id": "8db0b71e5940daff",
-      "name": "Memoria RAM DDR4 8GB 3600MT/s Kingston Fury Beast RGB, CL17, DIMM, 1.35V",
-      "category": "ram",
-      "price": 169990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/kingston-fury-ddr4-sdram-cl17-8gb-3600mts/",
-      "image": "https://media.spdigital.cl/thumbnails/products/jh9tlg7k_be47ac5e_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-24T04:43:10.773861+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-24T16:02:43.475824+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 169990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 169990
-        }
-      ]
-    },
-    {
-      "id": "89b4630cc94efde7",
-      "name": "Memoria RAM DDR4 Kingston 32GB, DDR4 3200MT/S, NON-ECC, UNBUFFERED, CL22, DIMM",
-      "category": "ram",
-      "price": 499990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/memoria-ram-ddr4-kingston-32gb-ddr4-3200mts-non-ecc-unbuffered-cl22-dimm/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1780689682200-77685561_3600229681_407e063d_c47d98fd_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 19,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-24T04:43:10.773861+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-24T16:02:43.475824+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 499990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 499990
-        }
-      ]
-    },
-    {
-      "id": "86318cae524f0b93",
-      "name": "Memoria Ram DDR5 16GB (1x16GB) 6400MT/s CL32 Kingston FURY Beast Black RGB EXPO",
-      "category": "ram",
-      "price": 549980,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/memoria-16gb-6400mts-ddr5-cl32-dimm-fury-beast-rg/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1758830343826-4886ac86c8ee147eb2801a9313cd0fcf_474bb564_e3bd93ac_thumbnail_2.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-24T04:43:10.773861+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-24T16:02:43.475824+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 549980
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 549980
-        }
-      ]
-    },
-    {
-      "id": "02144fe58fcd9394",
-      "name": "Memoria RAM Kingston DDR5 16GB 5600MT/s Non-ECC, CL46 1RX8 1.1V 288-pin, DIMM ",
-      "category": "ram",
-      "price": 349990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/memoria-ram-16gb5600mtsddr5-non-ecc-cl46-dimm1rx8/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1790859022946-kst2_0a59a159_8ea142ed_thumbnail_256.png",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR5"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 1,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-24T04:43:10.773861+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-24T16:02:43.475824+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 349990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 349990
-        }
-      ]
-    },
-    {
-      "id": "f051c93ee573fa73",
-      "name": "Memoria RAM Kingston FURY Renegade Black,16GB, DDR4 3600MT/s, CL16, DIMM, XMP",
-      "category": "ram",
-      "price": 299990,
-      "currency": "CLP",
-      "store": "SP Digital",
-      "url": "https://www.spdigital.cl/16gb3600mts-ddr4-cl16dimm1gx8-furyrenegadebl/",
-      "image": "https://media.spdigital.cl/thumbnails/products/1792180433543-f1_6666ae65_66343c8a_thumbnail_256.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Memoria para PC de escritorio. Precio por transferencia; otros medios de pago pueden tener un valor distinto.",
-      "specs": {
-        "memory": "DDR4"
-      },
-      "sourceType": "Datos públicos de la ficha de producto",
-      "stockQuantity": 4,
-      "paymentMethod": "Transferencia",
-      "checkedAt": "2026-10-28T13:01:54.527968+00:00",
-      "history": [
-        {
-          "date": "2026-10-18T16:07:43.748582+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-21T03:46:18.330893+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-22T00:48:30.251686+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-22T11:59:44.790066+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-22T17:15:44.016299+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-22T21:41:31.713656+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-23T04:58:17.794766+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-23T11:45:16.911495+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-23T17:13:55.527459+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-23T21:29:04.133031+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-24T04:43:10.773861+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-24T11:08:39.699265+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-24T16:02:43.475824+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-24T20:55:15.411066+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-25T04:48:41.385178+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-25T11:38:29.995587+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-25T16:29:01.932594+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-25T20:55:41.993623+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-26T04:54:06.657010+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-26T13:11:13.519738+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-26T22:44:01.480301+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-27T05:12:07.346521+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-27T12:19:24.455363+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-27T22:20:02.543737+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-28T05:48:40.792578+00:00",
-          "price": 299990
-        },
-        {
-          "date": "2026-10-28T13:01:54.527968+00:00",
-          "price": 299990
-        }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d7a9b09b95fc99ed",
@@ -6232,7 +6328,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 299900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "0b7039e308b41789",
@@ -6348,7 +6445,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 277900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "a18d049fadec00e6",
@@ -6464,7 +6562,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 329900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "b69cd1a27121d022",
@@ -6580,7 +6679,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 229900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "a1cadb7f19586092",
@@ -6696,7 +6796,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 287500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "cea2d59bfc057e2e",
@@ -6812,7 +6913,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 229900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "99fb9c955a8487c8",
@@ -6928,7 +7030,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 329900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "430bd5a744b8ab13",
@@ -7044,7 +7147,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 398900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "2dac11533f3d1982",
@@ -7160,7 +7264,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 279900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "bea157493f425a9e",
@@ -7276,7 +7381,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 348900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "fe9a6f0fc60978df",
@@ -7392,7 +7498,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 458900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "6d64bd25668e53ce",
@@ -7526,7 +7633,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 264500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ab10e833b8d605c7",
@@ -7660,7 +7768,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 154900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "319a4deace6bb6c9",
@@ -7785,7 +7894,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 135900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "1a44adc39c38f2cb",
@@ -7901,7 +8011,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 346900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d3ec2bddbf8709aa",
@@ -8035,7 +8146,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 109000
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ea4f796613171858",
@@ -8160,7 +8272,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 128900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "aa5dbdbea8e7c342",
@@ -8294,7 +8407,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 181000
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "e163cc2c0440067b",
@@ -8419,7 +8533,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 298900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ef5e2191ae4f6f0a",
@@ -8535,7 +8650,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 329900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "9823eda9447c0d01",
@@ -8660,7 +8776,8 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 299900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "1b264494162cd188",
@@ -8785,9 +8902,59 @@
           "date": "2026-10-28T13:01:54.527968+00:00",
           "price": 158900
         }
-      ]
+      ],
+      "stale": true
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "key": "alltec:cpu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:cpu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:motherboard",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:motherboard",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:ram",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:ram",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:ssd",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:gpu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:gpu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:psu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:case",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:cooler",
+      "message": "HTTP Error 403: Forbidden"
+    }
+  ],
   "methodology": "Muestra acotada de catálogos públicos. Precio publicado; confirmar forma de pago, stock y despacho en la tienda. No incluye envío. No afiliado a SoloTodo."
 }
