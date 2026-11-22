@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T19:21:32.745312+00:00",
+  "generatedAt": "2026-11-22T06:56:07.500519+00:00",
   "currency": "CLP",
   "categories": [
     {
@@ -36,6 +36,346 @@
     }
   ],
   "products": [
+    {
+      "id": "6d75a7af39bcad5f",
+      "name": "Gabinete ASUS TUF Gaming GT302 ARGB Blanco ATX 4 Ventiladores 140 mm",
+      "category": "case",
+      "price": 195990,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/asus-tuf-gaming-gt302-argb-white-eatx-argb-4x140mm-fan-reverse-mb-compatible/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/11/11054.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Gabinete ASUS TUF Gaming GT302 ARGB blanco, con 4 ventiladores ARGB de 140 mm y compatible con placas de conectores ocultos. 4 ventiladores ARGB de 140 mm incluidos Compatible con placas de conectores traseros Panel lateral intercambiable: malla o vidrio",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-11-22T06:56:07.500519+00:00",
+      "history": [
+        {
+          "date": "2026-11-20T20:26:32.183606+00:00",
+          "price": 195990
+        },
+        {
+          "date": "2026-11-21T07:15:53.765204+00:00",
+          "price": 195990
+        },
+        {
+          "date": "2026-11-21T19:21:32.745312+00:00",
+          "price": 195990
+        },
+        {
+          "date": "2026-11-22T06:56:07.500519+00:00",
+          "price": 195990
+        }
+      ]
+    },
+    {
+      "id": "50161a122af8e38a",
+      "name": "Gabinete HYTE Y60 Negro ATX Doble Cámara Vidrio Panorámico + Riser PCIe 4.0",
+      "category": "case",
+      "price": 225990,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/hyte-y60-black-3x-120mm-incluido-pcie-4-0-riser-cable-cs-hyte-y60-b/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/11/9707.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Gabinete HYTE Y60 negro, mid tower ATX de doble cámara con vidrio panorámico de 3 piezas y riser PCIe 4.0 incluido. Vidrio panorámico de 3 piezas sin pilar Riser PCIe 4.0 para GPU vertical incluido 3 ventiladores de 120 mm incluidos",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-11-22T06:56:07.500519+00:00",
+      "history": [
+        {
+          "date": "2026-11-12T19:59:06.709254+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-13T06:51:05.380046+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-13T19:46:23.369635+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-14T06:30:53.009586+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-14T18:10:16.019697+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-14T22:29:59.081554+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-15T06:40:12.393114+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-15T18:55:04.028363+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-16T06:37:33.330781+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-16T22:10:29.690654+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-17T07:59:11.601448+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-17T20:59:19.049305+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-18T07:35:25.479762+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-18T20:37:35.963777+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-19T07:30:57.663733+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-19T20:42:12.641978+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-20T07:22:22.819509+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-20T20:26:32.183606+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-21T07:15:53.765204+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-21T19:21:32.745312+00:00",
+          "price": 225990
+        },
+        {
+          "date": "2026-11-22T06:56:07.500519+00:00",
+          "price": 225990
+        }
+      ]
+    },
+    {
+      "id": "2af25f09f69cef9c",
+      "name": "Gabinete Corsair Crystal 680X RGB Blanco ATX Doble Cámara Vidrio Templado 3 Ventiladores",
+      "category": "case",
+      "price": 249990,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/corsair-case-680x-rgb-white-atx-3-fans-incluidos-cc-9011169-ww/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/11/11644.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Gabinete Corsair Crystal Series 680X RGB blanco, ATX de doble cámara con vidrio templado y 3 ventiladores RGB incluidos. Doble cámara con gran flujo de aire Radiadores de hasta 360 mm Placas hasta E-ATX",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-11-22T06:56:07.500519+00:00",
+      "history": [
+        {
+          "date": "2026-11-12T19:59:06.709254+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-13T06:51:05.380046+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-13T19:46:23.369635+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-14T06:30:53.009586+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-14T18:10:16.019697+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-14T22:29:59.081554+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-15T06:40:12.393114+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-15T18:55:04.028363+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-16T06:37:33.330781+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-16T22:10:29.690654+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-17T07:59:11.601448+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-17T20:59:19.049305+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-18T07:35:25.479762+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-18T20:37:35.963777+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-19T07:30:57.663733+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-19T20:42:12.641978+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-20T07:22:22.819509+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-20T20:26:32.183606+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-21T07:15:53.765204+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-21T19:21:32.745312+00:00",
+          "price": 249990
+        },
+        {
+          "date": "2026-11-22T06:56:07.500519+00:00",
+          "price": 249990
+        }
+      ]
+    },
+    {
+      "id": "8ff26fdf036015f9",
+      "name": "Gabinete HYTE Y60 Snow White Blanco ATX Doble Cámara + Riser PCIe 4.0",
+      "category": "case",
+      "price": 256990,
+      "currency": "CLP",
+      "store": "Chile Setup",
+      "url": "https://chilesetup.cl/producto/hyte-y60-snow-white-3x-120mm-incluido-pcie-4-0-riser-cable-cs-hyte-y60-ww/",
+      "image": "https://chilesetup.cl/wp-content/uploads/2026/11/9701.jpg",
+      "inStock": true,
+      "previousRetailPrice": null,
+      "description": "Gabinete HYTE Y60 Snow White totalmente blanco, mid tower ATX de doble cámara con vidrio panorámico y riser PCIe 4.0. Vidrio panorámico de 3 piezas sin pilar Riser PCIe 4.0 para GPU vertical incluido 3 ventiladores de 120 mm incluidos",
+      "specs": {},
+      "sourceType": "API pública WooCommerce",
+      "checkedAt": "2026-11-22T06:56:07.500519+00:00",
+      "history": [
+        {
+          "date": "2026-11-12T19:59:06.709254+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-13T06:51:05.380046+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-13T19:46:23.369635+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-14T06:30:53.009586+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-14T18:10:16.019697+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-14T22:29:59.081554+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-15T06:40:12.393114+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-15T18:55:04.028363+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-16T06:37:33.330781+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-16T22:10:29.690654+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-17T07:59:11.601448+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-17T20:59:19.049305+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-18T07:35:25.479762+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-18T20:37:35.963777+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-19T07:30:57.663733+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-19T20:42:12.641978+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-20T07:22:22.819509+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-20T20:26:32.183606+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-21T07:15:53.765204+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-21T19:21:32.745312+00:00",
+          "price": 256990
+        },
+        {
+          "date": "2026-11-22T06:56:07.500519+00:00",
+          "price": 256990
+        }
+      ]
+    },
     {
       "id": "d97f13a285cb7313",
       "name": "AMD RYZEN 3 4100 (MPK) 3.8GHz (4.0GHz TURBO) QUAD CORE (TDP 65W) (AM4)",
@@ -346,7 +686,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 74500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "81f7b117d9fed4cb",
@@ -658,7 +999,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 113500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "26fa620cd9ae0a4a",
@@ -730,7 +1072,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 115900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "6a351346e4d3a8b6",
@@ -1038,7 +1381,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 120900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d45d0174e59e686d",
@@ -1347,7 +1691,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 59900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "1f66dd825051090b",
@@ -1660,7 +2005,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 84900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "7e4c59fcac0e85dd",
@@ -1969,7 +2315,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 88900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "73581b2ff860f13d",
@@ -2274,7 +2621,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 90900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "07123c5535b8306c",
@@ -2586,7 +2934,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 42900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d13a956f4d089118",
@@ -2898,7 +3247,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 42900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "150d3b1bfb1ac877",
@@ -3210,7 +3560,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 45900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "8e7b4a64fd5dfa47",
@@ -3294,7 +3645,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 46900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d5bf054866bd964f",
@@ -3604,7 +3956,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 56900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "8a6ff493f5247dec",
@@ -3914,7 +4267,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 85900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "b129177623e9ec41",
@@ -4224,7 +4578,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 99900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "0573806b0c628352",
@@ -4534,7 +4889,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 99900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "7d20e021747e98c0",
@@ -4620,7 +4976,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 314900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "505524d4fb44a9c7",
@@ -4930,7 +5287,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 319900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "dd0787b0c3dc5535",
@@ -5240,7 +5598,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 329900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "29ccb3e1a80e5086",
@@ -5442,7 +5801,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 379900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "6e8387b838842a3e",
@@ -5752,7 +6112,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 43900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "5509e445860c47b4",
@@ -6062,7 +6423,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 45900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "7d89f23f3f112e46",
@@ -6372,7 +6734,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 59900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ee82bde5041a43fb",
@@ -6682,7 +7045,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 62900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "0386b48ea56dc424",
@@ -6716,7 +7080,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 3900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "c12b8c6986c13c00",
@@ -7026,7 +7391,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 26900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "6b8da70eb422c1ec",
@@ -7336,7 +7702,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 33900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "406c3edb2385265d",
@@ -7642,7 +8009,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 41900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ff7b317b380dd93f",
@@ -7952,7 +8320,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 20900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "cbf9cf63429c21b0",
@@ -8262,7 +8631,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 30900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "075e03dc09aff83b",
@@ -8572,7 +8942,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 30900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "7ca0ee60284effa3",
@@ -8882,331 +9253,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 33900
         }
-      ]
-    },
-    {
-      "id": "6d75a7af39bcad5f",
-      "name": "Gabinete ASUS TUF Gaming GT302 ARGB Blanco ATX 4 Ventiladores 140 mm",
-      "category": "case",
-      "price": 195990,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/asus-tuf-gaming-gt302-argb-white-eatx-argb-4x140mm-fan-reverse-mb-compatible/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/11/11054.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Gabinete ASUS TUF Gaming GT302 ARGB blanco, con 4 ventiladores ARGB de 140 mm y compatible con placas de conectores ocultos. 4 ventiladores ARGB de 140 mm incluidos Compatible con placas de conectores traseros Panel lateral intercambiable: malla o vidrio",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-11-21T19:21:32.745312+00:00",
-      "history": [
-        {
-          "date": "2026-11-20T20:26:32.183606+00:00",
-          "price": 195990
-        },
-        {
-          "date": "2026-11-21T07:15:53.765204+00:00",
-          "price": 195990
-        },
-        {
-          "date": "2026-11-21T19:21:32.745312+00:00",
-          "price": 195990
-        }
-      ]
-    },
-    {
-      "id": "50161a122af8e38a",
-      "name": "Gabinete HYTE Y60 Negro ATX Doble Cámara Vidrio Panorámico + Riser PCIe 4.0",
-      "category": "case",
-      "price": 225990,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/hyte-y60-black-3x-120mm-incluido-pcie-4-0-riser-cable-cs-hyte-y60-b/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/11/9707.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Gabinete HYTE Y60 negro, mid tower ATX de doble cámara con vidrio panorámico de 3 piezas y riser PCIe 4.0 incluido. Vidrio panorámico de 3 piezas sin pilar Riser PCIe 4.0 para GPU vertical incluido 3 ventiladores de 120 mm incluidos",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-11-21T19:21:32.745312+00:00",
-      "history": [
-        {
-          "date": "2026-11-12T19:59:06.709254+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-13T06:51:05.380046+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-13T19:46:23.369635+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-14T06:30:53.009586+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-14T18:10:16.019697+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-14T22:29:59.081554+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-15T06:40:12.393114+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-15T18:55:04.028363+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-16T06:37:33.330781+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-16T22:10:29.690654+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-17T07:59:11.601448+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-17T20:59:19.049305+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-18T07:35:25.479762+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-18T20:37:35.963777+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-19T07:30:57.663733+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-19T20:42:12.641978+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-20T07:22:22.819509+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-20T20:26:32.183606+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-21T07:15:53.765204+00:00",
-          "price": 225990
-        },
-        {
-          "date": "2026-11-21T19:21:32.745312+00:00",
-          "price": 225990
-        }
-      ]
-    },
-    {
-      "id": "2af25f09f69cef9c",
-      "name": "Gabinete Corsair Crystal 680X RGB Blanco ATX Doble Cámara Vidrio Templado 3 Ventiladores",
-      "category": "case",
-      "price": 249990,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/corsair-case-680x-rgb-white-atx-3-fans-incluidos-cc-9011169-ww/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/11/11644.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Gabinete Corsair Crystal Series 680X RGB blanco, ATX de doble cámara con vidrio templado y 3 ventiladores RGB incluidos. Doble cámara con gran flujo de aire Radiadores de hasta 360 mm Placas hasta E-ATX",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-11-21T19:21:32.745312+00:00",
-      "history": [
-        {
-          "date": "2026-11-12T19:59:06.709254+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-13T06:51:05.380046+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-13T19:46:23.369635+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-14T06:30:53.009586+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-14T18:10:16.019697+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-14T22:29:59.081554+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-15T06:40:12.393114+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-15T18:55:04.028363+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-16T06:37:33.330781+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-16T22:10:29.690654+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-17T07:59:11.601448+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-17T20:59:19.049305+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-18T07:35:25.479762+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-18T20:37:35.963777+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-19T07:30:57.663733+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-19T20:42:12.641978+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-20T07:22:22.819509+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-20T20:26:32.183606+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-21T07:15:53.765204+00:00",
-          "price": 249990
-        },
-        {
-          "date": "2026-11-21T19:21:32.745312+00:00",
-          "price": 249990
-        }
-      ]
-    },
-    {
-      "id": "8ff26fdf036015f9",
-      "name": "Gabinete HYTE Y60 Snow White Blanco ATX Doble Cámara + Riser PCIe 4.0",
-      "category": "case",
-      "price": 256990,
-      "currency": "CLP",
-      "store": "Chile Setup",
-      "url": "https://chilesetup.cl/producto/hyte-y60-snow-white-3x-120mm-incluido-pcie-4-0-riser-cable-cs-hyte-y60-ww/",
-      "image": "https://chilesetup.cl/wp-content/uploads/2026/11/9701.jpg",
-      "inStock": true,
-      "previousRetailPrice": null,
-      "description": "Gabinete HYTE Y60 Snow White totalmente blanco, mid tower ATX de doble cámara con vidrio panorámico y riser PCIe 4.0. Vidrio panorámico de 3 piezas sin pilar Riser PCIe 4.0 para GPU vertical incluido 3 ventiladores de 120 mm incluidos",
-      "specs": {},
-      "sourceType": "API pública WooCommerce",
-      "checkedAt": "2026-11-21T19:21:32.745312+00:00",
-      "history": [
-        {
-          "date": "2026-11-12T19:59:06.709254+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-13T06:51:05.380046+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-13T19:46:23.369635+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-14T06:30:53.009586+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-14T18:10:16.019697+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-14T22:29:59.081554+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-15T06:40:12.393114+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-15T18:55:04.028363+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-16T06:37:33.330781+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-16T22:10:29.690654+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-17T07:59:11.601448+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-17T20:59:19.049305+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-18T07:35:25.479762+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-18T20:37:35.963777+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-19T07:30:57.663733+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-19T20:42:12.641978+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-20T07:22:22.819509+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-20T20:26:32.183606+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-21T07:15:53.765204+00:00",
-          "price": 256990
-        },
-        {
-          "date": "2026-11-21T19:21:32.745312+00:00",
-          "price": 256990
-        }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d7a9b09b95fc99ed",
@@ -9520,7 +9568,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 299900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "0b7039e308b41789",
@@ -9816,7 +9865,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 233500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "a18d049fadec00e6",
@@ -10112,7 +10162,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 245900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "b69cd1a27121d022",
@@ -10408,7 +10459,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 159900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "a1cadb7f19586092",
@@ -10704,7 +10756,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 196000
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "cea2d59bfc057e2e",
@@ -11000,7 +11053,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 169900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "99fb9c955a8487c8",
@@ -11296,7 +11350,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 259900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "430bd5a744b8ab13",
@@ -11592,7 +11647,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 265900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "2dac11533f3d1982",
@@ -11888,7 +11944,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 279900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "bea157493f425a9e",
@@ -12184,7 +12241,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 262500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "fe9a6f0fc60978df",
@@ -12480,7 +12538,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 385900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "6d64bd25668e53ce",
@@ -12794,7 +12853,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 264500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ab10e833b8d605c7",
@@ -13108,7 +13168,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 154900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "319a4deace6bb6c9",
@@ -13413,7 +13474,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 115900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "1a44adc39c38f2cb",
@@ -13709,7 +13771,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 238500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "d3ec2bddbf8709aa",
@@ -14023,7 +14086,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 109000
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ea4f796613171858",
@@ -14328,7 +14392,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 112500
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "aa5dbdbea8e7c342",
@@ -14642,7 +14707,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 181000
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "e163cc2c0440067b",
@@ -14951,7 +15017,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 298900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "ef5e2191ae4f6f0a",
@@ -15247,7 +15314,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 247900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "9823eda9447c0d01",
@@ -15556,7 +15624,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 299900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "1b264494162cd188",
@@ -15865,7 +15934,8 @@
           "date": "2026-11-21T19:21:32.745312+00:00",
           "price": 158900
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "id": "981e2aaa6cdf6d50",
@@ -16239,6 +16309,54 @@
     }
   ],
   "errors": [
+    {
+      "key": "alltec:cpu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:cpu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:motherboard",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:motherboard",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:ram",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:ram",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:ssd",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:gpu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:gpu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:psu",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:case",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    {
+      "key": "alltec:cooler",
+      "message": "HTTP Error 403: Forbidden"
+    },
     {
       "key": "spdigital",
       "message": "HTTP Error 503: Service Unavailable"
